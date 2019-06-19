@@ -14,7 +14,7 @@ const dancelandbandstand = props => {
     <Layout>
       <Container>
         <div className="d-flex justify-content-center my-3">
-          <img src={dbImg} alt="dancelandbandstand" />
+          <img src={dbImg} alt="dancelandbandstand" className="img-fluid" />
         </div>
         <p>
           In December 1957 Danceland’s Darlowe Olsen created a local television
@@ -32,17 +32,19 @@ const dancelandbandstand = props => {
           <h3 className="text-center">Season One (1957 - 1958)</h3>
           <p>12-15-57 – BUDDY KNOX / JIMMY BOWEN & RTHYTHM ORCHIDS (90¢)</p>
           <div className="row">
-            <div className="col d-flex justify-content-center">
-              <img src={db1_1} alt="db1_1" />
-              <img src={db1_2} alt="db1_2" />
+            <div className="col-md d-flex justify-content-center">
+              <img src={db1_1} alt="db1_1" className="img-fluid mx-2" />
+              <img src={db1_2} alt="db1_2" className="img-fluid mx-2" />
             </div>
           </div>
           <p>12-22-57 – RECORD HOP with KCRG’s Dave Etzel (50¢)</p>
           <p>12-29-57 – RECORD HOP (50¢)</p>
           <div className="row">
-            <div className="col d-flex justify-content-center">
-              <img src={db1_3} alt="db1_3" className="mx-4" />
-              <img src={db1_4} alt="db1_4" />
+            <div className="col-md d-flex justify-content-center">
+              <img src={db1_3} alt="db1_3" className="img-fluid" />
+            </div>
+            <div className="col-md d-flex justify-content-center">
+              <img src={db1_4} alt="db1_4" className="img-fluid" />
             </div>
           </div>
         </div>

@@ -38,7 +38,17 @@ export class footer extends Component {
             </ul>
           </div>
           <div className="col-md my-3">
-            © {new Date().getFullYear()} | Steve Wilson
+            <p>© {new Date().getFullYear()} | Steve Wilson</p>
+            <small>
+              Website by{" "}
+              <a
+                href="https://github.com/dchoinie"
+                target="_blank"
+                style={{ color: "#fff" }}
+              >
+                Dan Choiniere
+              </a>
+            </small>
           </div>
           <div className="col-md my-3">Footer 3</div>
         </div>
