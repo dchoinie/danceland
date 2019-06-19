@@ -109,7 +109,7 @@ const header = props => {
           </Dropdown>
           <Link
             style={{ color: "#fff" }}
-            to="/about"
+            to="/dancelandbandstand"
             style={{ color: "#fff" }}
             className="mx-2"
           >
@@ -129,7 +129,7 @@ const header = props => {
             style={{ color: "#fff" }}
             className="mx-2"
           >
-            About
+            Contact
           </Link>
         </Nav>
       </Navbar.Collapse>

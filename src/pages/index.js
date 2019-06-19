@@ -8,7 +8,7 @@ import Layout from "../components/layout"
 const IndexPage = props => (
   <Layout>
     <div style={{ display: 'flex', justifyContent: 'center'}}>
-      <img src={marquee} alt="marquee" className="my-4" />
+      <img src={marquee} alt="marquee" className="my-4" style={{ boxShadow: '2px 2px 10px #333'}} />
     </div>
     <Welcome />
   </Layout>
