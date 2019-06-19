@@ -1,0 +1,1338 @@
+[
+  {
+    "ID": 1554,
+    "Year": 1963,
+    "Date": "Jan 2",
+    "Weekday": "Wednesday",
+    "Artist": "Howdy Roberts",
+    "Price": ""
+  },
+  {
+    "ID": 1555,
+    "Year": 1963,
+    "Date": "Jan 4",
+    "Weekday": "Friday",
+    "Artist": "Escorts",
+    "Price": ""
+  },
+  {
+    "ID": 1556,
+    "Year": 1963,
+    "Date": "Jan 5",
+    "Weekday": "Saturday",
+    "Artist": "Conway Twitty",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1557,
+    "Year": 1963,
+    "Date": "Jan 9",
+    "Weekday": "Wednesday",
+    "Artist": "Leonard Reyman & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 1558,
+    "Year": 1963,
+    "Date": "Jan 11",
+    "Weekday": "Friday",
+    "Artist": "Fendermen",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1559,
+    "Year": 1963,
+    "Date": "Jan 12",
+    "Weekday": "Saturday",
+    "Artist": "Torquays",
+    "Price": ""
+  },
+  {
+    "ID": 1560,
+    "Year": 1963,
+    "Date": "Jan 16",
+    "Weekday": "Wednesday",
+    "Artist": "Eddie Skeets & His Orchestra",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1561,
+    "Year": 1963,
+    "Date": "Jan 18",
+    "Weekday": "Friday",
+    "Artist": "Ventures",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1562,
+    "Year": 1963,
+    "Date": "Jan 19",
+    "Weekday": "Saturday",
+    "Artist": "Dale Thomas & The Bandera Boys",
+    "Price": ""
+  },
+  {
+    "ID": 1563,
+    "Year": 1963,
+    "Date": "Jan 23",
+    "Weekday": "Wednesday",
+    "Artist": "Don Hoy & His Orchestra",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1564,
+    "Year": 1963,
+    "Date": "Jan 25",
+    "Weekday": "Friday",
+    "Artist": "James Moore & The Rock 'N Flames",
+    "Price": ""
+  },
+  {
+    "ID": 1565,
+    "Year": 1963,
+    "Date": "Jan 26",
+    "Weekday": "Saturday",
+    "Artist": "Jerry Lee Lewis / Steve Bledsoe & The Blue Jays",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1566,
+    "Year": 1963,
+    "Date": "Jan 27",
+    "Weekday": "Sunday",
+    "Artist": "Aristocrats",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1567,
+    "Year": 1963,
+    "Date": "Jan 30",
+    "Weekday": "Wednesday",
+    "Artist": "Aristocrats",
+    "Price": ""
+  },
+  {
+    "ID": 1568,
+    "Year": 1963,
+    "Date": "Jan 31",
+    "Weekday": "Thursday",
+    "Artist": "George Hamilton IV / Bobby Hankins & The Blue Boys",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1569,
+    "Year": 1963,
+    "Date": "Feb 1",
+    "Weekday": "Friday",
+    "Artist": "4 Seasons/ Escorts",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1570,
+    "Year": 1963,
+    "Date": "Feb 2",
+    "Weekday": "Saturday",
+    "Artist": "James Moore & The Rock 'N Flames",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1571,
+    "Year": 1963,
+    "Date": "Feb 6",
+    "Weekday": "Wednesday",
+    "Artist": "Leonard Reyman & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 1572,
+    "Year": 1963,
+    "Date": "Feb 7",
+    "Weekday": "Thursday",
+    "Artist": "Pug's Western Playboys",
+    "Price": ""
+  },
+  {
+    "ID": 1573,
+    "Year": 1963,
+    "Date": "Feb 8",
+    "Weekday": "Friday",
+    "Artist": "Eddie Randall & The Downbeats",
+    "Price": ""
+  },
+  {
+    "ID": 1574,
+    "Year": 1963,
+    "Date": "Feb 9",
+    "Weekday": "Saturday",
+    "Artist": "Sandy Nelson / Pastel Six",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1575,
+    "Year": 1963,
+    "Date": "Feb 13",
+    "Weekday": "Wednesday",
+    "Artist": "Eddie Skeets & His Orchestra",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1576,
+    "Year": 1963,
+    "Date": "Feb 14",
+    "Weekday": "Thursday",
+    "Artist": "Little Jimmy Dickens / Dick Miller & The Rhythmasters",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1577,
+    "Year": 1963,
+    "Date": "Feb 15",
+    "Weekday": "Friday",
+    "Artist": "Dion / Al's Untouchables",
+    "Price": "$1.75"
+  },
+  {
+    "ID": 1578,
+    "Year": 1963,
+    "Date": "Feb 16",
+    "Weekday": "Saturday",
+    "Artist": "Roscoe & The Little Green Men",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1579,
+    "Year": 1963,
+    "Date": "Feb 20",
+    "Weekday": "Wednesday",
+    "Artist": "Charlie Trussell",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1580,
+    "Year": 1963,
+    "Date": "Feb 21",
+    "Weekday": "Thursday",
+    "Artist": "Dale Thomas & The Bandera Boys",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1581,
+    "Year": 1963,
+    "Date": "Feb 22",
+    "Weekday": "Friday",
+    "Artist": "Crickets",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1582,
+    "Year": 1963,
+    "Date": "Feb 23",
+    "Weekday": "Saturday",
+    "Artist": "Dale Thomas & The Bandera Boys",
+    "Price": ""
+  },
+  {
+    "ID": 1583,
+    "Year": 1963,
+    "Date": "Feb 24",
+    "Weekday": "Sunday",
+    "Artist": "Leonard Reyman & His Orchestra",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1584,
+    "Year": 1963,
+    "Date": "Feb 26",
+    "Weekday": "Tuesday",
+    "Artist": "Dale Thomas & The Bandera Boys",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1585,
+    "Year": 1963,
+    "Date": "Feb 27",
+    "Weekday": "Wednesday",
+    "Artist": "No Dance",
+    "Price": ""
+  },
+  {
+    "ID": 1586,
+    "Year": 1963,
+    "Date": "Mar 1",
+    "Weekday": "Friday",
+    "Artist": "Eddie Randall & The Downbeats",
+    "Price": ""
+  },
+  {
+    "ID": 1587,
+    "Year": 1963,
+    "Date": "Mar 2",
+    "Weekday": "Saturday",
+    "Artist": "Myron Lee & The Caddies",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1588,
+    "Year": 1963,
+    "Date": "Mar 6",
+    "Weekday": "Wednesday",
+    "Artist": "Aristocrats with Mary on vocals",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1589,
+    "Year": 1963,
+    "Date": "Mar 8",
+    "Weekday": "Friday",
+    "Artist": "Bill Black Combo",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1590,
+    "Year": 1963,
+    "Date": "Mar 9",
+    "Weekday": "Saturday",
+    "Artist": "Escorts",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1591,
+    "Year": 1963,
+    "Date": "Mar 13",
+    "Weekday": "Wednesday",
+    "Artist": "Howdy Roberts",
+    "Price": ""
+  },
+  {
+    "ID": 1592,
+    "Year": 1963,
+    "Date": "Mar 15",
+    "Weekday": "Friday",
+    "Artist": "Velaires",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1593,
+    "Year": 1963,
+    "Date": "Mar 16",
+    "Weekday": "Saturday",
+    "Artist": "Dale Thomas & The Bandera Boys",
+    "Price": ""
+  },
+  {
+    "ID": 1594,
+    "Year": 1963,
+    "Date": "Mar 17",
+    "Weekday": "Sunday",
+    "Artist": "Dale Thomas & The Bandera Boys",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1595,
+    "Year": 1963,
+    "Date": "Mar 20",
+    "Weekday": "Wednesday",
+    "Artist": "Eddie Skeets & His Orchestra",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1596,
+    "Year": 1963,
+    "Date": "Mar 22",
+    "Weekday": "Friday",
+    "Artist": "Escorts",
+    "Price": ""
+  },
+  {
+    "ID": 1597,
+    "Year": 1963,
+    "Date": "Mar 23",
+    "Weekday": "Saturday",
+    "Artist": "Freddy Cannon / Jerry Page & The Radicals",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1598,
+    "Year": 1963,
+    "Date": "Mar 27",
+    "Weekday": "Wednesday",
+    "Artist": "Leonard Reyman & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 1599,
+    "Year": 1963,
+    "Date": "Mar 29",
+    "Weekday": "Friday",
+    "Artist": "Burch Ray & The Walkers",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1600,
+    "Year": 1963,
+    "Date": "Mar 30",
+    "Weekday": "Saturday",
+    "Artist": "Flames",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1601,
+    "Year": 1963,
+    "Date": "Apr 3",
+    "Weekday": "Wednesday",
+    "Artist": "Dukes Of Dancing",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1602,
+    "Year": 1963,
+    "Date": "Apr 5",
+    "Weekday": "Friday",
+    "Artist": "Top 40 Caravan",
+    "Price": "50¢ till 9 / $1.00 after"
+  },
+  {
+    "ID": 1603,
+    "Year": 1963,
+    "Date": "Apr 6",
+    "Weekday": "Saturday",
+    "Artist": "Brian Hyland / Al's Untouchables",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1604,
+    "Year": 1963,
+    "Date": "Apr 10",
+    "Weekday": "Wednesday",
+    "Artist": "Leonard Reyman & His Orchestra",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1605,
+    "Year": 1963,
+    "Date": "Apr 12",
+    "Weekday": "Friday",
+    "Artist": "Escorts",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1606,
+    "Year": 1963,
+    "Date": "Apr 13",
+    "Weekday": "Saturday",
+    "Artist": "Eddie Randall & The Downbeats",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1607,
+    "Year": 1963,
+    "Date": "Apr 17",
+    "Weekday": "Wednesday",
+    "Artist": "Aristocrats",
+    "Price": ""
+  },
+  {
+    "ID": 1608,
+    "Year": 1963,
+    "Date": "Apr 19",
+    "Weekday": "Friday",
+    "Artist": "Conway Twitty",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1609,
+    "Year": 1963,
+    "Date": "Apr 20",
+    "Weekday": "Saturday",
+    "Artist": "Thundermen",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1610,
+    "Year": 1963,
+    "Date": "Apr 24",
+    "Weekday": "Wednesday",
+    "Artist": "Eddie Skeets & His Orchestra",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1611,
+    "Year": 1963,
+    "Date": "Apr 26",
+    "Weekday": "Friday",
+    "Artist": "Fendermen",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1612,
+    "Year": 1963,
+    "Date": "Apr 27",
+    "Weekday": "Saturday",
+    "Artist": "Beach Boys",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1613,
+    "Year": 1963,
+    "Date": "May 1",
+    "Weekday": "Wednesday",
+    "Artist": "Howdy Roberts",
+    "Price": ""
+  },
+  {
+    "ID": 1614,
+    "Year": 1963,
+    "Date": "May 3",
+    "Weekday": "Friday",
+    "Artist": "Wanda Jackson & Her Party Timers",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1615,
+    "Year": 1963,
+    "Date": "May 4",
+    "Weekday": "Saturday",
+    "Artist": "Eddie Randall & The Downbeats",
+    "Price": ""
+  },
+  {
+    "ID": 1616,
+    "Year": 1963,
+    "Date": "May 8",
+    "Weekday": "Wednesday",
+    "Artist": "Aristocrats",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1617,
+    "Year": 1963,
+    "Date": "May 10",
+    "Weekday": "Friday",
+    "Artist": "Crickets",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1618,
+    "Year": 1963,
+    "Date": "May 11",
+    "Weekday": "Saturday",
+    "Artist": "Al's Untouchables",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1619,
+    "Year": 1963,
+    "Date": "May 15",
+    "Weekday": "Wednesday",
+    "Artist": "Leonard Reyman & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 1620,
+    "Year": 1963,
+    "Date": "May 17",
+    "Weekday": "Friday",
+    "Artist": "Joey Dee & The Starliters",
+    "Price": "$1.75"
+  },
+  {
+    "ID": 1621,
+    "Year": 1963,
+    "Date": "May 18",
+    "Weekday": "Saturday",
+    "Artist": "James Moore & The Rock 'N Flames",
+    "Price": "50¢ till 9"
+  },
+  {
+    "ID": 1622,
+    "Year": 1963,
+    "Date": "May 22",
+    "Weekday": "Wednesday",
+    "Artist": "Eddie Skeets & His Orchestra",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1623,
+    "Year": 1963,
+    "Date": "May 24",
+    "Weekday": "Friday",
+    "Artist": "Paul & Paula / Steve Alaimo / Lou Christie / Johnny Cymbal / Charlie Russo / Ronnie Cochrane +",
+    "Price": "$2.00"
+  },
+  {
+    "ID": 1624,
+    "Year": 1963,
+    "Date": "May 25",
+    "Weekday": "Saturday",
+    "Artist": "Dale Thomas",
+    "Price": ""
+  },
+  {
+    "ID": 1625,
+    "Year": 1963,
+    "Date": "May 29",
+    "Weekday": "Wednesday",
+    "Artist": "Dukes Of Dancing",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1626,
+    "Year": 1963,
+    "Date": "May 31",
+    "Weekday": "Friday",
+    "Artist": "Bill Black Combo",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1627,
+    "Year": 1963,
+    "Date": "Jun 1",
+    "Weekday": "Saturday",
+    "Artist": "Bobby Vinton / Eddie Randall & The Downbeats",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1628,
+    "Year": 1963,
+    "Date": "Jun 5",
+    "Weekday": "Wednesday",
+    "Artist": "Howdy Roberts",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1629,
+    "Year": 1963,
+    "Date": "Jun 7",
+    "Weekday": "Friday",
+    "Artist": "Mike & The Showmen",
+    "Price": "50¢ till 9 / $1.00 after"
+  },
+  {
+    "ID": 1630,
+    "Year": 1963,
+    "Date": "Jun 8",
+    "Weekday": "Saturday",
+    "Artist": "Johnny & The Hurricanes",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1631,
+    "Year": 1963,
+    "Date": "Jun 9",
+    "Weekday": "Sunday",
+    "Artist": "Leonard Reyman & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 1632,
+    "Year": 1963,
+    "Date": "Jun 12",
+    "Weekday": "Wednesday",
+    "Artist": "Aristocrats",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1633,
+    "Year": 1963,
+    "Date": "Jun 14",
+    "Weekday": "Friday",
+    "Artist": "Champs",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1634,
+    "Year": 1963,
+    "Date": "Jun 15",
+    "Weekday": "Saturday",
+    "Artist": "Randy Proffitt / Carol Chipman / The Beachcombers",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1635,
+    "Year": 1963,
+    "Date": "Jun 19",
+    "Weekday": "Wednesday",
+    "Artist": "Leonard Reyman & His Orchestra",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1636,
+    "Year": 1963,
+    "Date": "Jun 21",
+    "Weekday": "Friday",
+    "Artist": "Nu Continentals",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1637,
+    "Year": 1963,
+    "Date": "Jun 22",
+    "Weekday": "Saturday",
+    "Artist": "Dale Thomas",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1638,
+    "Year": 1963,
+    "Date": "Jun 26",
+    "Weekday": "Wednesday",
+    "Artist": "Eddie Skeets & His Orchestra",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1639,
+    "Year": 1963,
+    "Date": "Jun 28",
+    "Weekday": "Friday",
+    "Artist": "Escorts",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1640,
+    "Year": 1963,
+    "Date": "Jun 29",
+    "Weekday": "Saturday",
+    "Artist": "Conway Twitty",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1641,
+    "Year": 1963,
+    "Date": "Jul 3",
+    "Weekday": "Wednesday",
+    "Artist": "Legends Orchestra",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1642,
+    "Year": 1963,
+    "Date": "Jul 5",
+    "Weekday": "Friday",
+    "Artist": "Denny & The Dynamics",
+    "Price": "50¢ till 9 / $1.00 after"
+  },
+  {
+    "ID": 1643,
+    "Year": 1963,
+    "Date": "Jul 6",
+    "Weekday": "Saturday",
+    "Artist": "Rock 'N Flames",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1644,
+    "Year": 1963,
+    "Date": "Jul 10",
+    "Weekday": "Wednesday",
+    "Artist": "Howdy Roberts",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1645,
+    "Year": 1963,
+    "Date": "Jul 12",
+    "Weekday": "Friday",
+    "Artist": "Everly Brothers / Escorts",
+    "Price": "$2.00"
+  },
+  {
+    "ID": 1646,
+    "Year": 1963,
+    "Date": "Jul 13",
+    "Weekday": "Saturday",
+    "Artist": "Torquays",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1647,
+    "Year": 1963,
+    "Date": "Jul 17",
+    "Weekday": "Wednesday",
+    "Artist": "Eddie Skeets & His Orchestra",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1648,
+    "Year": 1963,
+    "Date": "Jul 19",
+    "Weekday": "Friday",
+    "Artist": "Eddie Randall & The Downbeats",
+    "Price": "50¢ till 9 / $1.00 after"
+  },
+  {
+    "ID": 1649,
+    "Year": 1963,
+    "Date": "Jul 20",
+    "Weekday": "Saturday",
+    "Artist": "Beach Boys",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1650,
+    "Year": 1963,
+    "Date": "Jul 24",
+    "Weekday": "Wednesday",
+    "Artist": "Leonard Reyman & His Orchestra",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1651,
+    "Year": 1963,
+    "Date": "Jul 26",
+    "Weekday": "Friday",
+    "Artist": "Dimensions",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1652,
+    "Year": 1963,
+    "Date": "Jul 27",
+    "Weekday": "Saturday",
+    "Artist": "Little Peggy March / Warner Brothers",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1653,
+    "Year": 1963,
+    "Date": "Jul 31",
+    "Weekday": "Wednesday",
+    "Artist": "Aristocrats",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1654,
+    "Year": 1963,
+    "Date": "Aug 2",
+    "Weekday": "Friday",
+    "Artist": "Escorts",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1655,
+    "Year": 1963,
+    "Date": "Aug 3",
+    "Weekday": "Saturday",
+    "Artist": "Lonnie Mack",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1656,
+    "Year": 1963,
+    "Date": "Aug 7",
+    "Weekday": "Wednesday",
+    "Artist": "Eddie Skeets & His Orchestra",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1657,
+    "Year": 1963,
+    "Date": "Aug 9",
+    "Weekday": "Friday",
+    "Artist": "Legends",
+    "Price": "50¢ till 9 / $1.00 after"
+  },
+  {
+    "ID": 1658,
+    "Year": 1963,
+    "Date": "Aug 10",
+    "Weekday": "Saturday",
+    "Artist": "Crickets",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1659,
+    "Year": 1963,
+    "Date": "Aug 14",
+    "Weekday": "Wednesday",
+    "Artist": "Louie DeKlotz & His Orchestra",
+    "Price": "50¢ till 9 / $1.00 after"
+  },
+  {
+    "ID": 1660,
+    "Year": 1963,
+    "Date": "Aug 16",
+    "Weekday": "Friday",
+    "Artist": "Torquays",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1661,
+    "Year": 1963,
+    "Date": "Aug 17",
+    "Weekday": "Saturday",
+    "Artist": "Dale Thomas",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1662,
+    "Year": 1963,
+    "Date": "Aug 21",
+    "Weekday": "Wednesday",
+    "Artist": "Leonard Reyman & His Orchestra",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1663,
+    "Year": 1963,
+    "Date": "Aug 23",
+    "Weekday": "Friday",
+    "Artist": "Brian Hyland / Lou Christie / Ronnie Cochran / Kasuals",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1664,
+    "Year": 1963,
+    "Date": "Aug 24",
+    "Weekday": "Saturday",
+    "Artist": "Untouchables",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1665,
+    "Year": 1963,
+    "Date": "Aug 28",
+    "Weekday": "Wednesday",
+    "Artist": "Aristocrats",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1666,
+    "Year": 1963,
+    "Date": "Aug 30",
+    "Weekday": "Friday",
+    "Artist": "Roscoe & The Little Green Men",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1667,
+    "Year": 1963,
+    "Date": "Aug 31",
+    "Weekday": "Saturday",
+    "Artist": "Dimensions",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1668,
+    "Year": 1963,
+    "Date": "Sep 4",
+    "Weekday": "Wednesday",
+    "Artist": "Howdy Roberts",
+    "Price": ""
+  },
+  {
+    "ID": 1669,
+    "Year": 1963,
+    "Date": "Sep 6",
+    "Weekday": "Friday",
+    "Artist": "Johnny Tillotson / Eddie Randall & The Downbeats",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1670,
+    "Year": 1963,
+    "Date": "Sep 7",
+    "Weekday": "Saturday",
+    "Artist": "Conway Twitty",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1671,
+    "Year": 1963,
+    "Date": "Sep 11",
+    "Weekday": "Wednesday",
+    "Artist": "Aristocrats",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1672,
+    "Year": 1963,
+    "Date": "Sep 13",
+    "Weekday": "Friday",
+    "Artist": "Escorts",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1673,
+    "Year": 1963,
+    "Date": "Sep 14",
+    "Weekday": "Saturday",
+    "Artist": "Checkmates",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1674,
+    "Year": 1963,
+    "Date": "Sep 18",
+    "Weekday": "Wednesday",
+    "Artist": "Leonard Reyman & His Orchestra",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1675,
+    "Year": 1963,
+    "Date": "Sep 20",
+    "Weekday": "Friday",
+    "Artist": "Timi Yuro / Warner Brothers",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1676,
+    "Year": 1963,
+    "Date": "Sep 21",
+    "Weekday": "Saturday",
+    "Artist": "Legends",
+    "Price": "50¢ till 9"
+  },
+  {
+    "ID": 1677,
+    "Year": 1963,
+    "Date": "Sep 25",
+    "Weekday": "Wednesday",
+    "Artist": "Eddie Skeets & His Orchestra",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1678,
+    "Year": 1963,
+    "Date": "Sep 27",
+    "Weekday": "Friday",
+    "Artist": "Rock 'N Flames",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1679,
+    "Year": 1963,
+    "Date": "Sep 28",
+    "Weekday": "Saturday",
+    "Artist": "Dale Thomas",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1680,
+    "Year": 1963,
+    "Date": "Oct 2",
+    "Weekday": "Wednesday",
+    "Artist": "Dukes Of Dancing",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1681,
+    "Year": 1963,
+    "Date": "Oct 4",
+    "Weekday": "Friday",
+    "Artist": "Lonnie Mack",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1682,
+    "Year": 1963,
+    "Date": "Oct 5",
+    "Weekday": "Saturday",
+    "Artist": "Untouchables",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1683,
+    "Year": 1963,
+    "Date": "Oct 9",
+    "Weekday": "Wednesday",
+    "Artist": "Howdy Roberts",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1684,
+    "Year": 1963,
+    "Date": "Oct 11",
+    "Weekday": "Friday",
+    "Artist": "Johnny & The Shy Guys",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1685,
+    "Year": 1963,
+    "Date": "Oct 12",
+    "Weekday": "Saturday",
+    "Artist": "Chubby Checker",
+    "Price": "$2.00"
+  },
+  {
+    "ID": 1686,
+    "Year": 1963,
+    "Date": "Oct 16",
+    "Weekday": "Wednesday",
+    "Artist": "Dick Ballard & His Orchestra",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1687,
+    "Year": 1963,
+    "Date": "Oct 18",
+    "Weekday": "Friday",
+    "Artist": "Roscoe & The Little Green Men",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1688,
+    "Year": 1963,
+    "Date": "Oct 19",
+    "Weekday": "Saturday",
+    "Artist": "Dale Thomas",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1689,
+    "Year": 1963,
+    "Date": "Oct 23",
+    "Weekday": "Wednesday",
+    "Artist": "Leonard Reyman & His Orchestra",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1690,
+    "Year": 1963,
+    "Date": "Oct 25",
+    "Weekday": "Friday",
+    "Artist": "Johnny & The Shy Guys",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1691,
+    "Year": 1963,
+    "Date": "Oct 26",
+    "Weekday": "Saturday",
+    "Artist": "Imperials",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1692,
+    "Year": 1963,
+    "Date": "Oct 30",
+    "Weekday": "Wednesday",
+    "Artist": "Eddie Skeets & His Orchestra",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1693,
+    "Year": 1963,
+    "Date": "Nov 1",
+    "Weekday": "Friday",
+    "Artist": "No Dance",
+    "Price": ""
+  },
+  {
+    "ID": 1694,
+    "Year": 1963,
+    "Date": "Nov 2",
+    "Weekday": "Saturday",
+    "Artist": "Rock 'N Flames",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1695,
+    "Year": 1963,
+    "Date": "Nov 6",
+    "Weekday": "Wednesday",
+    "Artist": "Dukes Of Dancing",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1696,
+    "Year": 1963,
+    "Date": "Nov 8",
+    "Weekday": "Friday",
+    "Artist": "No Dance",
+    "Price": ""
+  },
+  {
+    "ID": 1697,
+    "Year": 1963,
+    "Date": "Nov 9",
+    "Weekday": "Saturday",
+    "Artist": "Jay & The Americans",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1698,
+    "Year": 1963,
+    "Date": "Nov 13",
+    "Weekday": "Wednesday",
+    "Artist": "Eddie Skeets & His Orchestra",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1699,
+    "Year": 1963,
+    "Date": "Nov 15",
+    "Weekday": "Friday",
+    "Artist": "Exotics",
+    "Price": "Free"
+  },
+  {
+    "ID": 1700,
+    "Year": 1963,
+    "Date": "Nov 16",
+    "Weekday": "Saturday",
+    "Artist": "Jimmy Gilmer & The Fireballs",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1701,
+    "Year": 1963,
+    "Date": "Nov 20",
+    "Weekday": "Wednesday",
+    "Artist": "Leonard Reyman & His Orchestra",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1702,
+    "Year": 1963,
+    "Date": "Nov 22",
+    "Weekday": "Friday",
+    "Artist": "Unknown",
+    "Price": ""
+  },
+  {
+    "ID": 1703,
+    "Year": 1963,
+    "Date": "Nov 23",
+    "Weekday": "Saturday",
+    "Artist": "Roy Orbison",
+    "Price": "$1.75"
+  },
+  {
+    "ID": 1704,
+    "Year": 1963,
+    "Date": "Nov 26",
+    "Weekday": "Tuesday",
+    "Artist": "Six Fat Dutchmen",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1705,
+    "Year": 1963,
+    "Date": "Nov 27",
+    "Weekday": "Wednesday",
+    "Artist": "Chuck Marshall",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1706,
+    "Year": 1963,
+    "Date": "Nov 29",
+    "Weekday": "Friday",
+    "Artist": "Exotics",
+    "Price": ""
+  },
+  {
+    "ID": 1707,
+    "Year": 1963,
+    "Date": "Nov 30",
+    "Weekday": "Saturday",
+    "Artist": "Strangers",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1708,
+    "Year": 1963,
+    "Date": "Dec 4",
+    "Weekday": "Wednesday",
+    "Artist": "Dukes Of Dancing",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1709,
+    "Year": 1963,
+    "Date": "Dec 6",
+    "Weekday": "Friday",
+    "Artist": "Nu Legends",
+    "Price": "Free"
+  },
+  {
+    "ID": 1710,
+    "Year": 1963,
+    "Date": "Dec 7",
+    "Weekday": "Saturday",
+    "Artist": "Tommy Roe / Roscoe & The Little Green Men",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1711,
+    "Year": 1963,
+    "Date": "Dec 11",
+    "Weekday": "Wednesday",
+    "Artist": "Howdy Roberts",
+    "Price": "Ladies 50¢ till 9 / $1.00 after"
+  },
+  {
+    "ID": 1712,
+    "Year": 1963,
+    "Date": "Dec 13",
+    "Weekday": "Friday",
+    "Artist": "Rock 'N Flames",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1713,
+    "Year": 1963,
+    "Date": "Dec 14",
+    "Weekday": "Saturday",
+    "Artist": "Eddie Randall & The Downbeats",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1714,
+    "Year": 1963,
+    "Date": "Dec 18",
+    "Weekday": "Wednesday",
+    "Artist": "Eddie Skeets & His Orchestra",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1715,
+    "Year": 1963,
+    "Date": "Dec 20",
+    "Weekday": "Friday",
+    "Artist": "Terry & The Avengers",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1716,
+    "Year": 1963,
+    "Date": "Dec 21",
+    "Weekday": "Saturday",
+    "Artist": "Dale Thomas",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1717,
+    "Year": 1963,
+    "Date": "Dec 25",
+    "Weekday": "Wednesday",
+    "Artist": "Rock 'N Flames",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1718,
+    "Year": 1963,
+    "Date": "Dec 27",
+    "Weekday": "Friday",
+    "Artist": "Escorts",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1719,
+    "Year": 1963,
+    "Date": "Dec 28",
+    "Weekday": "Saturday",
+    "Artist": "Danny Joe & The Flairs",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1720,
+    "Year": 1963,
+    "Date": "Dec 31",
+    "Weekday": "Tuesday",
+    "Artist": "Kingsmen / Eddie Randall & The Downbeats",
+    "Price": "$2.00"
+  }
+]

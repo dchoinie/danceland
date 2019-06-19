@@ -1,0 +1,1290 @@
+[
+  {
+    "ID": 1231,
+    "Year": 1961,
+    "Date": "Jan 4",
+    "Weekday": "Wednesday",
+    "Artist": "Marv Pesek & His Orchestra",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 1232,
+    "Year": 1961,
+    "Date": "Jan 6",
+    "Weekday": "Friday",
+    "Artist": "Pug's Western Playboys",
+    "Price": "50¢ till 9"
+  },
+  {
+    "ID": 1233,
+    "Year": 1961,
+    "Date": "Jan 7",
+    "Weekday": "Saturday",
+    "Artist": "Tornadoes",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1234,
+    "Year": 1961,
+    "Date": "Jan 11",
+    "Weekday": "Wednesday",
+    "Artist": "Marv Reedstrom",
+    "Price": ""
+  },
+  {
+    "ID": 1235,
+    "Year": 1961,
+    "Date": "Jan 13",
+    "Weekday": "Friday",
+    "Artist": "Dick Miller & The Rhythmasters / Al, Larry & The Untouchables",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1236,
+    "Year": 1961,
+    "Date": "Jan 14",
+    "Weekday": "Saturday",
+    "Artist": "Donnie Brooks / Highlights",
+    "Price": ""
+  },
+  {
+    "ID": 1237,
+    "Year": 1961,
+    "Date": "Jan 18",
+    "Weekday": "Wednesday",
+    "Artist": "Leonard Reyman & His Orchestra featuring Jeanne Hunt",
+    "Price": ""
+  },
+  {
+    "ID": 1238,
+    "Year": 1961,
+    "Date": "Jan 20",
+    "Weekday": "Friday",
+    "Artist": "Drifters / Eddie Randall & The Downbeats",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1239,
+    "Year": 1961,
+    "Date": "Jan 21",
+    "Weekday": "Saturday",
+    "Artist": "Dale Thomas & The Bandera Boys",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1240,
+    "Year": 1961,
+    "Date": "Jan 25",
+    "Weekday": "Wednesday",
+    "Artist": "Aristocrats",
+    "Price": ""
+  },
+  {
+    "ID": 1241,
+    "Year": 1961,
+    "Date": "Jan 27",
+    "Weekday": "Friday",
+    "Artist": "Bobby Lord / Bobby Hankins & The Blue Boys",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1242,
+    "Year": 1961,
+    "Date": "Jan 28",
+    "Weekday": "Saturday",
+    "Artist": "Fendermen",
+    "Price": ""
+  },
+  {
+    "ID": 1243,
+    "Year": 1961,
+    "Date": "Feb 1",
+    "Weekday": "Wednesday",
+    "Artist": "Leonard Reyman & His Orchestra",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 1244,
+    "Year": 1961,
+    "Date": "Feb 3",
+    "Weekday": "Friday",
+    "Artist": "Conway Twitty",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1245,
+    "Year": 1961,
+    "Date": "Feb 4",
+    "Weekday": "Saturday",
+    "Artist": "Bill Black Combo / Gary Stites / Gene Simmons",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1246,
+    "Year": 1961,
+    "Date": "Feb 8",
+    "Weekday": "Wednesday",
+    "Artist": "Aristocrats",
+    "Price": ""
+  },
+  {
+    "ID": 1247,
+    "Year": 1961,
+    "Date": "Feb 10",
+    "Weekday": "Friday",
+    "Artist": "Dick Miller & The Rhythmasters / Al, Larry & The Untouchables",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1248,
+    "Year": 1961,
+    "Date": "Feb 11",
+    "Weekday": "Saturday",
+    "Artist": "Tornadoes",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1249,
+    "Year": 1961,
+    "Date": "Feb 14",
+    "Weekday": "Tuesday",
+    "Artist": "Dale Thomas & The Bandera Boys",
+    "Price": ""
+  },
+  {
+    "ID": 1250,
+    "Year": 1961,
+    "Date": "Feb 15",
+    "Weekday": "Wednesday",
+    "Artist": "No Dance - Ash Wednesday",
+    "Price": ""
+  },
+  {
+    "ID": 1251,
+    "Year": 1961,
+    "Date": "Feb 17",
+    "Weekday": "Friday",
+    "Artist": "Pug's Western Playboys / Eddie Randall & The Downbeats",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1252,
+    "Year": 1961,
+    "Date": "Feb 18",
+    "Weekday": "Saturday",
+    "Artist": "Dale Thomas & The Bandera Boys",
+    "Price": ""
+  },
+  {
+    "ID": 1253,
+    "Year": 1961,
+    "Date": "Feb 22",
+    "Weekday": "Wednesday",
+    "Artist": "Marv Reedstrom",
+    "Price": ""
+  },
+  {
+    "ID": 1254,
+    "Year": 1961,
+    "Date": "Feb 24",
+    "Weekday": "Friday",
+    "Artist": "Bobby Hankins & The Blue Boys",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1255,
+    "Year": 1961,
+    "Date": "Feb 25",
+    "Weekday": "Saturday",
+    "Artist": "Bob Boston & Bob-O-Links / Untouchables",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1256,
+    "Year": 1961,
+    "Date": "Mar 1",
+    "Weekday": "Wednesday",
+    "Artist": "Louie DeKlotz & His Orchestra",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 1257,
+    "Year": 1961,
+    "Date": "Mar 3",
+    "Weekday": "Friday",
+    "Artist": "Pug's Western Playboys",
+    "Price": "50¢ till 9 / $1.00 after"
+  },
+  {
+    "ID": 1258,
+    "Year": 1961,
+    "Date": "Mar 4",
+    "Weekday": "Saturday",
+    "Artist": "Bobby Vee / Ventures / Checkers",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1259,
+    "Year": 1961,
+    "Date": "Mar 8",
+    "Weekday": "Wednesday",
+    "Artist": "Marv Reedstrom",
+    "Price": ""
+  },
+  {
+    "ID": 1260,
+    "Year": 1961,
+    "Date": "Mar 10",
+    "Weekday": "Friday",
+    "Artist": "Dick Miller & The Rhythmasters",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1261,
+    "Year": 1961,
+    "Date": "Mar 11",
+    "Weekday": "Saturday",
+    "Artist": "Highlights",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1262,
+    "Year": 1961,
+    "Date": "Mar 15",
+    "Weekday": "Wednesday",
+    "Artist": "Leonard Reyman & His Orchestra featuring Jeanne Hunt",
+    "Price": ""
+  },
+  {
+    "ID": 1263,
+    "Year": 1961,
+    "Date": "Mar 17",
+    "Weekday": "Friday",
+    "Artist": "Dale Thomas & The Bandera Boys",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1264,
+    "Year": 1961,
+    "Date": "Mar 18",
+    "Weekday": "Saturday",
+    "Artist": "Dale Thomas & The Bandera Boys",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1265,
+    "Year": 1961,
+    "Date": "Mar 22",
+    "Weekday": "Wednesday",
+    "Artist": "Aristocrats",
+    "Price": ""
+  },
+  {
+    "ID": 1266,
+    "Year": 1961,
+    "Date": "Mar 24",
+    "Weekday": "Friday",
+    "Artist": "Fendermen / Bobby Hankins & The Blue Boys",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1267,
+    "Year": 1961,
+    "Date": "Mar 25",
+    "Weekday": "Saturday",
+    "Artist": "Eddie Randall & The Downbeats",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1268,
+    "Year": 1961,
+    "Date": "Mar 29",
+    "Weekday": "Wednesday",
+    "Artist": "Leonard Reyman & His Orchestra featuring Jeanne Hunt",
+    "Price": ""
+  },
+  {
+    "ID": 1269,
+    "Year": 1961,
+    "Date": "Mar 31",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His Midwesterners",
+    "Price": "50¢ till 9"
+  },
+  {
+    "ID": 1270,
+    "Year": 1961,
+    "Date": "Apr 1",
+    "Weekday": "Saturday",
+    "Artist": "Danny & The Juniors / Dicky Doo & The Don'ts / Johnny Maestro / Gerry Granahan",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1271,
+    "Year": 1961,
+    "Date": "Apr 5",
+    "Weekday": "Wednesday",
+    "Artist": "Louis DeKlotz & His Orchestra / Howdy Roberts",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1272,
+    "Year": 1961,
+    "Date": "Apr 7",
+    "Weekday": "Friday",
+    "Artist": "Buck Owens / Pug's Western Playboys",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1273,
+    "Year": 1961,
+    "Date": "Apr 8",
+    "Weekday": "Saturday",
+    "Artist": "Highlights",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1274,
+    "Year": 1961,
+    "Date": "Apr 12",
+    "Weekday": "Wednesday",
+    "Artist": "Dancetown Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 1275,
+    "Year": 1961,
+    "Date": "Apr 14",
+    "Weekday": "Friday",
+    "Artist": "Larry Verne / Dick Miller & The Rhythmasters",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1276,
+    "Year": 1961,
+    "Date": "Apr 15",
+    "Weekday": "Saturday",
+    "Artist": "Johnny & The Hurricanes",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1277,
+    "Year": 1961,
+    "Date": "Apr 19",
+    "Weekday": "Wednesday",
+    "Artist": "Marv Reedstrom",
+    "Price": ""
+  },
+  {
+    "ID": 1278,
+    "Year": 1961,
+    "Date": "Apr 21",
+    "Weekday": "Friday",
+    "Artist": "Donnie Brooks / Highlights",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1279,
+    "Year": 1961,
+    "Date": "Apr 22",
+    "Weekday": "Saturday",
+    "Artist": "Dale Thomas & The Bandera Boys",
+    "Price": ""
+  },
+  {
+    "ID": 1280,
+    "Year": 1961,
+    "Date": "Apr 26",
+    "Weekday": "Wednesday",
+    "Artist": "Leonard Reyman & His Orchestra featuring Jeanne Hunt",
+    "Price": ""
+  },
+  {
+    "ID": 1281,
+    "Year": 1961,
+    "Date": "Apr 28",
+    "Weekday": "Friday",
+    "Artist": "Bobby Hankins & The Blue Boys",
+    "Price": ""
+  },
+  {
+    "ID": 1282,
+    "Year": 1961,
+    "Date": "Apr 29",
+    "Weekday": "Saturday",
+    "Artist": "Eddie Randall & The Downbeats",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1283,
+    "Year": 1961,
+    "Date": "May 3",
+    "Weekday": "Wednesday",
+    "Artist": "Louie DeKlotz & His Orchestra",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 1284,
+    "Year": 1961,
+    "Date": "May 5",
+    "Weekday": "Friday",
+    "Artist": "Pug's Western Playboys",
+    "Price": "50¢ till 9"
+  },
+  {
+    "ID": 1285,
+    "Year": 1961,
+    "Date": "May 6",
+    "Weekday": "Saturday",
+    "Artist": "Del Shannon / String-A-Longs / Ersel Hickey",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1286,
+    "Year": 1961,
+    "Date": "May 10",
+    "Weekday": "Wednesday",
+    "Artist": "Pee Wee Hunt & His 12th Street Ragtime Band",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1287,
+    "Year": 1961,
+    "Date": "May 12",
+    "Weekday": "Friday",
+    "Artist": "Dick Miller & The Rhythmasters",
+    "Price": "$1.00 / 25¢ with 7-Up ticket"
+  },
+  {
+    "ID": 1288,
+    "Year": 1961,
+    "Date": "May 13",
+    "Weekday": "Saturday",
+    "Artist": "Highlights",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1289,
+    "Year": 1961,
+    "Date": "May 17",
+    "Weekday": "Wednesday",
+    "Artist": "Leonard Reyman & His Orchestra featuring Jeanne Hunt",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1290,
+    "Year": 1961,
+    "Date": "May 19",
+    "Weekday": "Friday",
+    "Artist": "Bobby Hankins & The Blue Boys",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1291,
+    "Year": 1961,
+    "Date": "May 20",
+    "Weekday": "Saturday",
+    "Artist": "Dale Thomas & The Bandera Boys",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1292,
+    "Year": 1961,
+    "Date": "May 24",
+    "Weekday": "Wednesday",
+    "Artist": "Howdy Roberts",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1293,
+    "Year": 1961,
+    "Date": "May 26",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His Midwesterners",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1294,
+    "Year": 1961,
+    "Date": "May 27",
+    "Weekday": "Saturday",
+    "Artist": "Eddie Randall & The Downbeats",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1295,
+    "Year": 1961,
+    "Date": "May 31",
+    "Weekday": "Wednesday",
+    "Artist": "Aristocrats with Mary on vocals",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1296,
+    "Year": 1961,
+    "Date": "Jun 2",
+    "Weekday": "Friday",
+    "Artist": "Pug's Western Playboys",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1297,
+    "Year": 1961,
+    "Date": "Jun 3",
+    "Weekday": "Saturday",
+    "Artist": "Highlights",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1298,
+    "Year": 1961,
+    "Date": "Jun 7",
+    "Weekday": "Wednesday",
+    "Artist": "Louie DeKlotz & His Orchestra",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 1299,
+    "Year": 1961,
+    "Date": "Jun 9",
+    "Weekday": "Friday",
+    "Artist": "Dick Miller & The Rhythmasters / Ravens",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1300,
+    "Year": 1961,
+    "Date": "Jun 10",
+    "Weekday": "Saturday",
+    "Artist": "Tony Orlando / B. Bumble & The Stingers / Cathy Jean / Roommates / Ral Donner",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1301,
+    "Year": 1961,
+    "Date": "Jun 14",
+    "Weekday": "Wednesday",
+    "Artist": "Marv Reedstrom",
+    "Price": ""
+  },
+  {
+    "ID": 1302,
+    "Year": 1961,
+    "Date": "Jun 16",
+    "Weekday": "Friday",
+    "Artist": "Rock 'N Flames / Kenny Hofer & His Midwesterners",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1303,
+    "Year": 1961,
+    "Date": "Jun 17",
+    "Weekday": "Saturday",
+    "Artist": "Dale Thomas & The Bandera Boys",
+    "Price": ""
+  },
+  {
+    "ID": 1304,
+    "Year": 1961,
+    "Date": "Jun 21",
+    "Weekday": "Wednesday",
+    "Artist": "Leonard Reyman & His Orchestra featuring Jeanne Hunt",
+    "Price": ""
+  },
+  {
+    "ID": 1305,
+    "Year": 1961,
+    "Date": "Jun 23",
+    "Weekday": "Friday",
+    "Artist": "Bobby Hankins & The Blue Boys",
+    "Price": "$1.00 / 25¢ with Pepsi-Cola ticket"
+  },
+  {
+    "ID": 1306,
+    "Year": 1961,
+    "Date": "Jun 24",
+    "Weekday": "Saturday",
+    "Artist": "Dion / Phil Humphries & The Fendermen",
+    "Price": ""
+  },
+  {
+    "ID": 1307,
+    "Year": 1961,
+    "Date": "Jun 28",
+    "Weekday": "Wednesday",
+    "Artist": "Howdy Roberts with Willard Sass",
+    "Price": ""
+  },
+  {
+    "ID": 1308,
+    "Year": 1961,
+    "Date": "Jun 30",
+    "Weekday": "Friday",
+    "Artist": "Buddy Knox",
+    "Price": ""
+  },
+  {
+    "ID": 1309,
+    "Year": 1961,
+    "Date": "Jul 1",
+    "Weekday": "Saturday",
+    "Artist": "Eddie Randall & The Downbeats",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1310,
+    "Year": 1961,
+    "Date": "Jul 4",
+    "Weekday": "Tuesday",
+    "Artist": "Eddie Randall & The Downbeats",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1311,
+    "Year": 1961,
+    "Date": "Jul 5",
+    "Weekday": "Wednesday",
+    "Artist": "Louie DeKlotz & His Orchestra",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 1312,
+    "Year": 1961,
+    "Date": "Jul 7",
+    "Weekday": "Friday",
+    "Artist": "Al, Larry & The Untouchables",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1313,
+    "Year": 1961,
+    "Date": "Jul 8",
+    "Weekday": "Saturday",
+    "Artist": "Roscoe & The Little Green Men",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1314,
+    "Year": 1961,
+    "Date": "Jul 12",
+    "Weekday": "Wednesday",
+    "Artist": "Marv Reedstrom",
+    "Price": ""
+  },
+  {
+    "ID": 1315,
+    "Year": 1961,
+    "Date": "Jul 14",
+    "Weekday": "Friday",
+    "Artist": "Johnny & The Hurricanes",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1316,
+    "Year": 1961,
+    "Date": "Jul 15",
+    "Weekday": "Saturday",
+    "Artist": "Dale Thomas & The Bandera Boys",
+    "Price": ""
+  },
+  {
+    "ID": 1317,
+    "Year": 1961,
+    "Date": "Jul 19",
+    "Weekday": "Wednesday",
+    "Artist": "Leonard Reyman & His Orchestra featuring Jeanne Hunt",
+    "Price": ""
+  },
+  {
+    "ID": 1318,
+    "Year": 1961,
+    "Date": "Jul 21",
+    "Weekday": "Friday",
+    "Artist": "Wanda Jackson",
+    "Price": ""
+  },
+  {
+    "ID": 1319,
+    "Year": 1961,
+    "Date": "Jul 22",
+    "Weekday": "Saturday",
+    "Artist": "Highlights",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1320,
+    "Year": 1961,
+    "Date": "Jul 26",
+    "Weekday": "Wednesday",
+    "Artist": "Howdy Roberts with Willard Sass",
+    "Price": ""
+  },
+  {
+    "ID": 1321,
+    "Year": 1961,
+    "Date": "Jul 28",
+    "Weekday": "Friday",
+    "Artist": "Bobby Hankins & The Blue Boys",
+    "Price": "50¢ till 9 / $1.00 after"
+  },
+  {
+    "ID": 1322,
+    "Year": 1961,
+    "Date": "Jul 29",
+    "Weekday": "Saturday",
+    "Artist": "Rock 'N Flames",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1323,
+    "Year": 1961,
+    "Date": "Aug 2",
+    "Weekday": "Wednesday",
+    "Artist": "Louie DeKlotz & His Orchestra",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 1324,
+    "Year": 1961,
+    "Date": "Aug 4",
+    "Weekday": "Friday",
+    "Artist": "Conway Twitty",
+    "Price": ""
+  },
+  {
+    "ID": 1325,
+    "Year": 1961,
+    "Date": "Aug 5",
+    "Weekday": "Saturday",
+    "Artist": "Al, Larry & The Untouchables",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1326,
+    "Year": 1961,
+    "Date": "Aug 9",
+    "Weekday": "Wednesday",
+    "Artist": "Howdy Roberts",
+    "Price": ""
+  },
+  {
+    "ID": 1327,
+    "Year": 1961,
+    "Date": "Aug 11",
+    "Weekday": "Friday",
+    "Artist": "Bobby Bare / Ravens",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1328,
+    "Year": 1961,
+    "Date": "Aug 12",
+    "Weekday": "Saturday",
+    "Artist": "Roscoe & The Little Green Men",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1329,
+    "Year": 1961,
+    "Date": "Aug 16",
+    "Weekday": "Wednesday",
+    "Artist": "Leonard Reyman & His Orchestra featuring Jeanne Hunt",
+    "Price": ""
+  },
+  {
+    "ID": 1330,
+    "Year": 1961,
+    "Date": "Aug 18",
+    "Weekday": "Friday",
+    "Artist": "Shadows",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1331,
+    "Year": 1961,
+    "Date": "Aug 19",
+    "Weekday": "Saturday",
+    "Artist": "Dale Thomas & the Bandera Boys",
+    "Price": ""
+  },
+  {
+    "ID": 1332,
+    "Year": 1961,
+    "Date": "Aug 23",
+    "Weekday": "Wednesday",
+    "Artist": "Aristocrats",
+    "Price": ""
+  },
+  {
+    "ID": 1333,
+    "Year": 1961,
+    "Date": "Aug 25",
+    "Weekday": "Friday",
+    "Artist": "Ray Ruff / Chuck Tharp / Checkmates",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1334,
+    "Year": 1961,
+    "Date": "Aug 26",
+    "Weekday": "Saturday",
+    "Artist": "Velaires",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1335,
+    "Year": 1961,
+    "Date": "Aug 30",
+    "Weekday": "Wednesday",
+    "Artist": "Marv Reedstrom",
+    "Price": ""
+  },
+  {
+    "ID": 1336,
+    "Year": 1961,
+    "Date": "Sep 1",
+    "Weekday": "Friday",
+    "Artist": "Bobby Hankins & The Blue Boys",
+    "Price": "50¢ till 9"
+  },
+  {
+    "ID": 1337,
+    "Year": 1961,
+    "Date": "Sep 2",
+    "Weekday": "Saturday",
+    "Artist": "Roscoe & The Little Green Men",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1338,
+    "Year": 1961,
+    "Date": "Sep 6",
+    "Weekday": "Wednesday",
+    "Artist": "Louis DeKlotz & His Orchestra",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 1339,
+    "Year": 1961,
+    "Date": "Sep 8",
+    "Weekday": "Friday",
+    "Artist": "Al, Larry & The Untouchables",
+    "Price": ""
+  },
+  {
+    "ID": 1340,
+    "Year": 1961,
+    "Date": "Sep 9",
+    "Weekday": "Saturday",
+    "Artist": "Eddie Randall & The Downbeats",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1341,
+    "Year": 1961,
+    "Date": "Sep 13",
+    "Weekday": "Wednesday",
+    "Artist": "Leonard Reyman & His Orchestra featuring Jeanne Hunt",
+    "Price": ""
+  },
+  {
+    "ID": 1342,
+    "Year": 1961,
+    "Date": "Sep 15",
+    "Weekday": "Friday",
+    "Artist": "Velaires",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1343,
+    "Year": 1961,
+    "Date": "Sep 16",
+    "Weekday": "Saturday",
+    "Artist": "Bobby Bare / Ravens",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1344,
+    "Year": 1961,
+    "Date": "Sep 20",
+    "Weekday": "Wednesday",
+    "Artist": "Howdy Roberts featuring Willard Sass",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1345,
+    "Year": 1961,
+    "Date": "Sep 22",
+    "Weekday": "Friday",
+    "Artist": "Nikki & The No Names",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1346,
+    "Year": 1961,
+    "Date": "Sep 23",
+    "Weekday": "Saturday",
+    "Artist": "Dale Thomas & The Bandera Boys",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1347,
+    "Year": 1961,
+    "Date": "Sep 27",
+    "Weekday": "Wednesday",
+    "Artist": "Marv Reedstrom",
+    "Price": ""
+  },
+  {
+    "ID": 1348,
+    "Year": 1961,
+    "Date": "Sep 29",
+    "Weekday": "Friday",
+    "Artist": "Roscoe & The Little Green Men",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1349,
+    "Year": 1961,
+    "Date": "Sep 30",
+    "Weekday": "Saturday",
+    "Artist": "Al, Larry & The Untouchables",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1350,
+    "Year": 1961,
+    "Date": "Oct 4",
+    "Weekday": "Wednesday",
+    "Artist": "Louie DeKlotz & His Orchestra",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 1351,
+    "Year": 1961,
+    "Date": "Oct 6",
+    "Weekday": "Friday",
+    "Artist": "Champs",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1352,
+    "Year": 1961,
+    "Date": "Oct 7",
+    "Weekday": "Saturday",
+    "Artist": "Rock 'N Flames",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1353,
+    "Year": 1961,
+    "Date": "Oct 11",
+    "Weekday": "Wednesday",
+    "Artist": "Leonard Reyman & His Orchestra featuring Jeanne Hunt",
+    "Price": ""
+  },
+  {
+    "ID": 1354,
+    "Year": 1961,
+    "Date": "Oct 13",
+    "Weekday": "Friday",
+    "Artist": "Conway Twitty",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1355,
+    "Year": 1961,
+    "Date": "Oct 14",
+    "Weekday": "Saturday",
+    "Artist": "Velaires",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1356,
+    "Year": 1961,
+    "Date": "Oct 18",
+    "Weekday": "Wednesday",
+    "Artist": "Howdy Roberts featuring Willard Sass",
+    "Price": ""
+  },
+  {
+    "ID": 1357,
+    "Year": 1961,
+    "Date": "Oct 20",
+    "Weekday": "Friday",
+    "Artist": "Ral Donner / Ray Stevens / Tony Orlando / Janie Grant / Bobby Vinton / Prep Tones",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1358,
+    "Year": 1961,
+    "Date": "Oct 21",
+    "Weekday": "Saturday",
+    "Artist": "Dale Thomas & The Bandera Boys",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1359,
+    "Year": 1961,
+    "Date": "Oct 25",
+    "Weekday": "Wednesday",
+    "Artist": "Marv Reedstrom",
+    "Price": ""
+  },
+  {
+    "ID": 1360,
+    "Year": 1961,
+    "Date": "Oct 27",
+    "Weekday": "Friday",
+    "Artist": "Johnny Burnette / Bobby Hankins & The Blue Boys",
+    "Price": ""
+  },
+  {
+    "ID": 1361,
+    "Year": 1961,
+    "Date": "Oct 28",
+    "Weekday": "Saturday",
+    "Artist": "Al, Larry & The Untouchables",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1362,
+    "Year": 1961,
+    "Date": "Oct 31",
+    "Weekday": "Tuesday",
+    "Artist": "Sparks / Bop Cats / Ravens",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1363,
+    "Year": 1961,
+    "Date": "Nov 1",
+    "Weekday": "Wednesday",
+    "Artist": "Louie DeKlotz & His Orchestra",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 1364,
+    "Year": 1961,
+    "Date": "Nov 3",
+    "Weekday": "Friday",
+    "Artist": "Dick & Dee Dee / Jan & Dean / Jerry Fuller / Checkers",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1365,
+    "Year": 1961,
+    "Date": "Nov 4",
+    "Weekday": "Saturday",
+    "Artist": "James Moore & The Rock 'N Flames",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1366,
+    "Year": 1961,
+    "Date": "Nov 8",
+    "Weekday": "Wednesday",
+    "Artist": "Aristocrats",
+    "Price": ""
+  },
+  {
+    "ID": 1367,
+    "Year": 1961,
+    "Date": "Nov 10",
+    "Weekday": "Friday",
+    "Artist": "Dion / Roscoe & The Little Green Men",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1368,
+    "Year": 1961,
+    "Date": "Nov 11",
+    "Weekday": "Saturday",
+    "Artist": "Eddie Randall & The Downbeats",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1369,
+    "Year": 1961,
+    "Date": "Nov 15",
+    "Weekday": "Wednesday",
+    "Artist": "Leonard Reyman & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 1370,
+    "Year": 1961,
+    "Date": "Nov 17",
+    "Weekday": "Friday",
+    "Artist": "James Moore & The Rock 'N Flames",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1371,
+    "Year": 1961,
+    "Date": "Nov 18",
+    "Weekday": "Saturday",
+    "Artist": "Jimmy Dean / Al, Larry & The Untouchables",
+    "Price": "$1.75"
+  },
+  {
+    "ID": 1372,
+    "Year": 1961,
+    "Date": "Nov 22",
+    "Weekday": "Wednesday",
+    "Artist": "Howdy Roberts",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1373,
+    "Year": 1961,
+    "Date": "Nov 24",
+    "Weekday": "Friday",
+    "Artist": "Ravens",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1374,
+    "Year": 1961,
+    "Date": "Nov 25",
+    "Weekday": "Saturday",
+    "Artist": "Dale Thomas & The Bandera Boys",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1375,
+    "Year": 1961,
+    "Date": "Nov 29",
+    "Weekday": "Wednesday",
+    "Artist": "Dixie Six with Bob & Chuck",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1376,
+    "Year": 1961,
+    "Date": "Dec 1",
+    "Weekday": "Friday",
+    "Artist": "Wanda Jackson",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1377,
+    "Year": 1961,
+    "Date": "Dec 2",
+    "Weekday": "Saturday",
+    "Artist": "James Moore & The Rock 'N Flames",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1378,
+    "Year": 1961,
+    "Date": "Dec 6",
+    "Weekday": "Wednesday",
+    "Artist": "Marv Pesek & His Orchestra",
+    "Price": "Ladies 50¢ till 9 / $1.00 after"
+  },
+  {
+    "ID": 1379,
+    "Year": 1961,
+    "Date": "Dec 8",
+    "Weekday": "Friday",
+    "Artist": "Bop Cats",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1380,
+    "Year": 1961,
+    "Date": "Dec 9",
+    "Weekday": "Saturday",
+    "Artist": "Al, Larry & The Untouchables with Carol Chipman",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1381,
+    "Year": 1961,
+    "Date": "Dec 13",
+    "Weekday": "Wednesday",
+    "Artist": "Leonard Reyman & His Orchestra",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1382,
+    "Year": 1961,
+    "Date": "Dec 15",
+    "Weekday": "Friday",
+    "Artist": "Velaires",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1383,
+    "Year": 1961,
+    "Date": "Dec 16",
+    "Weekday": "Saturday",
+    "Artist": "Johnny Cash / Johnny Western / Eddie Randall & The Downbeats",
+    "Price": "$1.75"
+  },
+  {
+    "ID": 1384,
+    "Year": 1961,
+    "Date": "Dec 20",
+    "Weekday": "Wednesday",
+    "Artist": "Dixie Six",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1385,
+    "Year": 1961,
+    "Date": "Dec 22",
+    "Weekday": "Friday",
+    "Artist": "Johnny & The Hurricanes",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1386,
+    "Year": 1961,
+    "Date": "Dec 23",
+    "Weekday": "Saturday",
+    "Artist": "Dale Thomas & The Bandera Boys",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1387,
+    "Year": 1961,
+    "Date": "Dec 25",
+    "Weekday": "Monday",
+    "Artist": "Dale Thomas & The Bandera Boys",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1388,
+    "Year": 1961,
+    "Date": "Dec 27",
+    "Weekday": "Wednesday",
+    "Artist": "Aristocrats",
+    "Price": ""
+  },
+  {
+    "ID": 1389,
+    "Year": 1961,
+    "Date": "Dec 29",
+    "Weekday": "Friday",
+    "Artist": "Roscoe & The Little Green Men",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1390,
+    "Year": 1961,
+    "Date": "Dec 30",
+    "Weekday": "Saturday",
+    "Artist": "James Moore & The Rock 'N Flames",
+    "Price": ""
+  },
+  {
+    "ID": 1391,
+    "Year": 1961,
+    "Date": "Dec 31",
+    "Weekday": "Sunday",
+    "Artist": "Al, Larry & The Untouchables",
+    "Price": "$2.00"
+  }
+]

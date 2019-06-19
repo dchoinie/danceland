@@ -1,0 +1,1266 @@
+[
+  {
+    "ID": 1721,
+    "Year": 1964,
+    "Date": "Jan 1",
+    "Weekday": "Wednesday",
+    "Artist": "No Dance",
+    "Price": ""
+  },
+  {
+    "ID": 1722,
+    "Year": 1964,
+    "Date": "Jan 3",
+    "Weekday": "Friday",
+    "Artist": "Denny & The Dynamics",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1723,
+    "Year": 1964,
+    "Date": "Jan 4",
+    "Weekday": "Saturday",
+    "Artist": "Conway Twitty",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1724,
+    "Year": 1964,
+    "Date": "Jan 8",
+    "Weekday": "Wednesday",
+    "Artist": "Leonard Reyman & His Orchestra",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 1725,
+    "Year": 1964,
+    "Date": "Jan 10",
+    "Weekday": "Friday",
+    "Artist": "Al's Untouchables",
+    "Price": "50¢ till 8:30"
+  },
+  {
+    "ID": 1726,
+    "Year": 1964,
+    "Date": "Jan 11",
+    "Weekday": "Saturday",
+    "Artist": "Lonnie Mack",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1727,
+    "Year": 1964,
+    "Date": "Jan 15",
+    "Weekday": "Wednesday",
+    "Artist": "Dukes Of Dancing",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1728,
+    "Year": 1964,
+    "Date": "Jan 17",
+    "Weekday": "Friday",
+    "Artist": "Catalinas",
+    "Price": "50¢  till 8:30 / $1.00 after"
+  },
+  {
+    "ID": 1729,
+    "Year": 1964,
+    "Date": "Jan 18",
+    "Weekday": "Saturday",
+    "Artist": "Johnny & The Hurricanes",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1730,
+    "Year": 1964,
+    "Date": "Jan 22",
+    "Weekday": "Wednesday",
+    "Artist": "Eddie Skeets & His Orchestra",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1731,
+    "Year": 1964,
+    "Date": "Jan 24",
+    "Weekday": "Friday",
+    "Artist": "Jimmy Carroll & The Sonic Breakers",
+    "Price": "50¢"
+  },
+  {
+    "ID": 1732,
+    "Year": 1964,
+    "Date": "Jan 25",
+    "Weekday": "Saturday",
+    "Artist": "Trashmen",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1733,
+    "Year": 1964,
+    "Date": "Jan 29",
+    "Weekday": "Wednesday",
+    "Artist": "Dick Ballard & His Orchestra",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1734,
+    "Year": 1964,
+    "Date": "Jan 31",
+    "Weekday": "Friday",
+    "Artist": "Exotics",
+    "Price": "50¢"
+  },
+  {
+    "ID": 1735,
+    "Year": 1964,
+    "Date": "Feb 1",
+    "Weekday": "Saturday",
+    "Artist": "Jan & Dean / Denny & The Dynamics",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1736,
+    "Year": 1964,
+    "Date": "Feb 5",
+    "Weekday": "Wednesday",
+    "Artist": "Dukes Of Dancing",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1737,
+    "Year": 1964,
+    "Date": "Feb 7",
+    "Weekday": "Friday",
+    "Artist": "No Dance",
+    "Price": ""
+  },
+  {
+    "ID": 1738,
+    "Year": 1964,
+    "Date": "Feb 8",
+    "Weekday": "Saturday",
+    "Artist": "Lou Christie / Roscoe & The Little Green Men featuring Misty",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1739,
+    "Year": 1964,
+    "Date": "Feb 11",
+    "Weekday": "Tuesday",
+    "Artist": "Escorts",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1740,
+    "Year": 1964,
+    "Date": "Feb 12",
+    "Weekday": "Wednesday",
+    "Artist": "No Dance - Ash Wednesday",
+    "Price": ""
+  },
+  {
+    "ID": 1741,
+    "Year": 1964,
+    "Date": "Feb 14",
+    "Weekday": "Friday",
+    "Artist": "No Dance",
+    "Price": ""
+  },
+  {
+    "ID": 1742,
+    "Year": 1964,
+    "Date": "Feb 15",
+    "Weekday": "Saturday",
+    "Artist": "Johnny & The Hurricanes",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1743,
+    "Year": 1964,
+    "Date": "Feb 19",
+    "Weekday": "Wednesday",
+    "Artist": "Leonard Reyman & His Orchestra",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1744,
+    "Year": 1964,
+    "Date": "Feb 21",
+    "Weekday": "Friday",
+    "Artist": "Escorts",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1745,
+    "Year": 1964,
+    "Date": "Feb 22",
+    "Weekday": "Saturday",
+    "Artist": "Danny Joe & The Flairs",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1746,
+    "Year": 1964,
+    "Date": "Feb 26",
+    "Weekday": "Wednesday",
+    "Artist": "Eddie Skeets & His Orchestra",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1747,
+    "Year": 1964,
+    "Date": "Feb 28",
+    "Weekday": "Friday",
+    "Artist": "Empalas",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1748,
+    "Year": 1964,
+    "Date": "Feb 29",
+    "Weekday": "Saturday",
+    "Artist": "Marketts",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1749,
+    "Year": 1964,
+    "Date": "Mar 4",
+    "Weekday": "Wednesday",
+    "Artist": "Dukes Of Dancing with Russ Jonas (vocals)",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1750,
+    "Year": 1964,
+    "Date": "Mar 6",
+    "Weekday": "Friday",
+    "Artist": "Lee James & The Rockin' Fellas",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1751,
+    "Year": 1964,
+    "Date": "Mar 7",
+    "Weekday": "Saturday",
+    "Artist": "Nino Tempo & April Stevens / Jimmy Peterson & The Chicagoans",
+    "Price": "$1.75"
+  },
+  {
+    "ID": 1752,
+    "Year": 1964,
+    "Date": "Mar 11",
+    "Weekday": "Wednesday",
+    "Artist": "Howdy Roberts",
+    "Price": "Free"
+  },
+  {
+    "ID": 1753,
+    "Year": 1964,
+    "Date": "Mar 13",
+    "Weekday": "Friday",
+    "Artist": "Legends",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1754,
+    "Year": 1964,
+    "Date": "Mar 14",
+    "Weekday": "Saturday",
+    "Artist": "Rivieras",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1755,
+    "Year": 1964,
+    "Date": "Mar 18",
+    "Weekday": "Wednesday",
+    "Artist": "Leonard Reyman & His Orchestra",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1756,
+    "Year": 1964,
+    "Date": "Mar 20",
+    "Weekday": "Friday",
+    "Artist": "Stompers",
+    "Price": "$1.00 / Student ID 50¢"
+  },
+  {
+    "ID": 1757,
+    "Year": 1964,
+    "Date": "Mar 21",
+    "Weekday": "Saturday",
+    "Artist": "Rip Chords / Al's Untouchables",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1758,
+    "Year": 1964,
+    "Date": "Mar 25",
+    "Weekday": "Wednesday",
+    "Artist": "Howdy Roberts",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1759,
+    "Year": 1964,
+    "Date": "Mar 27",
+    "Weekday": "Friday",
+    "Artist": "Denny & The Dynamics",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1760,
+    "Year": 1964,
+    "Date": "Mar 28",
+    "Weekday": "Saturday",
+    "Artist": "Jimmy Clanton / Dee Dee Sharp / Ronnie Cochrane / Galaxies",
+    "Price": "$1.75"
+  },
+  {
+    "ID": 1761,
+    "Year": 1964,
+    "Date": "Apr 1",
+    "Weekday": "Wednesday",
+    "Artist": "Dukes Of Dancing",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1762,
+    "Year": 1964,
+    "Date": "Apr 3",
+    "Weekday": "Friday",
+    "Artist": "Casuals",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1763,
+    "Year": 1964,
+    "Date": "Apr 4",
+    "Weekday": "Saturday",
+    "Artist": "Dale & Grace / Nu-Continentals",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1764,
+    "Year": 1964,
+    "Date": "Apr 8",
+    "Weekday": "Wednesday",
+    "Artist": "Eddie Skeets & His Orchestra",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1765,
+    "Year": 1964,
+    "Date": "Apr 10",
+    "Weekday": "Friday",
+    "Artist": "Legends",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1766,
+    "Year": 1964,
+    "Date": "Apr 11",
+    "Weekday": "Saturday",
+    "Artist": "Bobby Vinton / Velaires",
+    "Price": "$1.75"
+  },
+  {
+    "ID": 1767,
+    "Year": 1964,
+    "Date": "Apr 15",
+    "Weekday": "Wednesday",
+    "Artist": "Leonard Reyman & His Orchestra",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1768,
+    "Year": 1964,
+    "Date": "Apr 17",
+    "Weekday": "Friday",
+    "Artist": "Denny & The Dynamics",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1769,
+    "Year": 1964,
+    "Date": "Apr 18",
+    "Weekday": "Saturday",
+    "Artist": "Champs",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1770,
+    "Year": 1964,
+    "Date": "Apr 22",
+    "Weekday": "Wednesday",
+    "Artist": "Howdy Roberts",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1771,
+    "Year": 1964,
+    "Date": "Apr 24",
+    "Weekday": "Friday",
+    "Artist": "Velaires",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1772,
+    "Year": 1964,
+    "Date": "Apr 25",
+    "Weekday": "Saturday",
+    "Artist": "Conway Twitty",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1773,
+    "Year": 1964,
+    "Date": "Apr 29",
+    "Weekday": "Wednesday",
+    "Artist": "Aristocrats with Mary on vocals",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1774,
+    "Year": 1964,
+    "Date": "May 1",
+    "Weekday": "Friday",
+    "Artist": "Intruders",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1775,
+    "Year": 1964,
+    "Date": "May 2",
+    "Weekday": "Saturday",
+    "Artist": "Terry Stafford / Bob Miller & The Sparks",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1776,
+    "Year": 1964,
+    "Date": "May 6",
+    "Weekday": "Wednesday",
+    "Artist": "Dukes Of Dancing with Russ Jonas (vocals)",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1777,
+    "Year": 1964,
+    "Date": "May 8",
+    "Weekday": "Friday",
+    "Artist": "Denny & The Dynamics",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1778,
+    "Year": 1964,
+    "Date": "May 9",
+    "Weekday": "Saturday",
+    "Artist": "Jerry Lee Lewis",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1779,
+    "Year": 1964,
+    "Date": "May 13",
+    "Weekday": "Wednesday",
+    "Artist": "Eddie Skeets & His Orchestra",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1780,
+    "Year": 1964,
+    "Date": "May 15",
+    "Weekday": "Friday",
+    "Artist": "No Dance",
+    "Price": ""
+  },
+  {
+    "ID": 1781,
+    "Year": 1964,
+    "Date": "May 16",
+    "Weekday": "Saturday",
+    "Artist": "Bobby Goldsboro / Bill Black Combo",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1782,
+    "Year": 1964,
+    "Date": "May 20",
+    "Weekday": "Wednesday",
+    "Artist": "Leonard Reyman & His Orchestra",
+    "Price": "$1.00 / Ladies 50¢ till 9"
+  },
+  {
+    "ID": 1783,
+    "Year": 1964,
+    "Date": "May 22",
+    "Weekday": "Friday",
+    "Artist": "?",
+    "Price": ""
+  },
+  {
+    "ID": 1784,
+    "Year": 1964,
+    "Date": "May 23",
+    "Weekday": "Saturday",
+    "Artist": "Roy Orbison",
+    "Price": "$2.00"
+  },
+  {
+    "ID": 1785,
+    "Year": 1964,
+    "Date": "May 27",
+    "Weekday": "Wednesday",
+    "Artist": "Howdy Roberts",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1786,
+    "Year": 1964,
+    "Date": "May 29",
+    "Weekday": "Friday",
+    "Artist": "Escorts",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1787,
+    "Year": 1964,
+    "Date": "May 30",
+    "Weekday": "Saturday",
+    "Artist": "Al's Untouchables / Stompers",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1788,
+    "Year": 1964,
+    "Date": "Jun 3",
+    "Weekday": "Wednesday",
+    "Artist": "Hi Morgan",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1789,
+    "Year": 1964,
+    "Date": "Jun 5",
+    "Weekday": "Friday",
+    "Artist": "Crystals / Brian Hyland / Galaxies",
+    "Price": "$1. 75"
+  },
+  {
+    "ID": 1790,
+    "Year": 1964,
+    "Date": "Jun 6",
+    "Weekday": "Saturday",
+    "Artist": "Lee James & The Rockin' Fellas",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1791,
+    "Year": 1964,
+    "Date": "Jun 10",
+    "Weekday": "Wednesday",
+    "Artist": "Leonard Reyman & His Orchestra",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1792,
+    "Year": 1964,
+    "Date": "Jun 12",
+    "Weekday": "Friday",
+    "Artist": "Rivieras",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1793,
+    "Year": 1964,
+    "Date": "Jun 13",
+    "Weekday": "Saturday",
+    "Artist": "Legends",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1794,
+    "Year": 1964,
+    "Date": "Jun 17",
+    "Weekday": "Wednesday",
+    "Artist": "Eddie Skeets & His Orchestra",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1795,
+    "Year": 1964,
+    "Date": "Jun 19",
+    "Weekday": "Friday",
+    "Artist": "Trokays",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1796,
+    "Year": 1964,
+    "Date": "Jun 20",
+    "Weekday": "Saturday",
+    "Artist": "Stompers",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1797,
+    "Year": 1964,
+    "Date": "Jun 24",
+    "Weekday": "Wednesday",
+    "Artist": "Aristocrats",
+    "Price": ""
+  },
+  {
+    "ID": 1798,
+    "Year": 1964,
+    "Date": "Jun 26",
+    "Weekday": "Friday",
+    "Artist": "Astronauts",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1799,
+    "Year": 1964,
+    "Date": "Jun 27",
+    "Weekday": "Saturday",
+    "Artist": "Al & The Untouchables",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1800,
+    "Year": 1964,
+    "Date": "Jul 1",
+    "Weekday": "Wednesday",
+    "Artist": "Hi Morgan",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1801,
+    "Year": 1964,
+    "Date": "Jul 3",
+    "Weekday": "Friday",
+    "Artist": "Escorts",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1802,
+    "Year": 1964,
+    "Date": "Jul 4",
+    "Weekday": "Saturday",
+    "Artist": "Stompers",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1803,
+    "Year": 1964,
+    "Date": "Jul 8",
+    "Weekday": "Wednesday",
+    "Artist": "Aristocrats with Mary on vocals",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1804,
+    "Year": 1964,
+    "Date": "Jul 10",
+    "Weekday": "Friday",
+    "Artist": "Warner Brothers",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1805,
+    "Year": 1964,
+    "Date": "Jul 11",
+    "Weekday": "Saturday",
+    "Artist": "Roy Orbison",
+    "Price": "$2.00"
+  },
+  {
+    "ID": 1806,
+    "Year": 1964,
+    "Date": "Jul 15",
+    "Weekday": "Wednesday",
+    "Artist": "Eddie Skeets & His Orchestra",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1807,
+    "Year": 1964,
+    "Date": "Jul 17",
+    "Weekday": "Friday",
+    "Artist": "Everly Brothers / Stompers",
+    "Price": "$2.00"
+  },
+  {
+    "ID": 1808,
+    "Year": 1964,
+    "Date": "Jul 18",
+    "Weekday": "Saturday",
+    "Artist": "Denny & The Dynamics",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1809,
+    "Year": 1964,
+    "Date": "Jul 22",
+    "Weekday": "Wednesday",
+    "Artist": "Leonard Reyman & His Orchestra",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1810,
+    "Year": 1964,
+    "Date": "Jul 24",
+    "Weekday": "Friday",
+    "Artist": "Ronettes / Road Runners",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1811,
+    "Year": 1964,
+    "Date": "Jul 25",
+    "Weekday": "Saturday",
+    "Artist": "Legends",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1812,
+    "Year": 1964,
+    "Date": "Jul 29",
+    "Weekday": "Wednesday",
+    "Artist": "Commanders",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1813,
+    "Year": 1964,
+    "Date": "Jul 31",
+    "Weekday": "Friday",
+    "Artist": "Odyesses",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1814,
+    "Year": 1964,
+    "Date": "Aug 1",
+    "Weekday": "Saturday",
+    "Artist": "Jerry Lee Lewis",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1815,
+    "Year": 1964,
+    "Date": "Aug 5",
+    "Weekday": "Wednesday",
+    "Artist": "Eddie Skeets & His Orchestra",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1816,
+    "Year": 1964,
+    "Date": "Aug 7",
+    "Weekday": "Friday",
+    "Artist": "Escorts",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1817,
+    "Year": 1964,
+    "Date": "Aug 8",
+    "Weekday": "Saturday",
+    "Artist": "Bobby Vee / Myron Lee & The Caddies",
+    "Price": "$1.75"
+  },
+  {
+    "ID": 1818,
+    "Year": 1964,
+    "Date": "Aug 12",
+    "Weekday": "Wednesday",
+    "Artist": "Hi Morgan",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1819,
+    "Year": 1964,
+    "Date": "Aug 14",
+    "Weekday": "Friday",
+    "Artist": "Stompers",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1820,
+    "Year": 1964,
+    "Date": "Aug 15",
+    "Weekday": "Saturday",
+    "Artist": "Terry Stafford",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1821,
+    "Year": 1964,
+    "Date": "Aug 19",
+    "Weekday": "Wednesday",
+    "Artist": "Marv Reedstrom",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1822,
+    "Year": 1964,
+    "Date": "Aug 21",
+    "Weekday": "Friday",
+    "Artist": "Escorts",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1823,
+    "Year": 1964,
+    "Date": "Aug 22",
+    "Weekday": "Saturday",
+    "Artist": "Trashmen",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1824,
+    "Year": 1964,
+    "Date": "Aug 26",
+    "Weekday": "Wednesday",
+    "Artist": "Leonard Reyman & His Orchestra",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1825,
+    "Year": 1964,
+    "Date": "Aug 28",
+    "Weekday": "Friday",
+    "Artist": "Denny & The Dynamics",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1826,
+    "Year": 1964,
+    "Date": "Aug 29",
+    "Weekday": "Saturday",
+    "Artist": "Lonnie Mack",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1827,
+    "Year": 1964,
+    "Date": "Sep 2",
+    "Weekday": "Wednesday",
+    "Artist": "Aristocrats with Mary on vocals",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1828,
+    "Year": 1964,
+    "Date": "Sep 4",
+    "Weekday": "Friday",
+    "Artist": "Stompers",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1829,
+    "Year": 1964,
+    "Date": "Sep 5",
+    "Weekday": "Saturday",
+    "Artist": "Velaires",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1830,
+    "Year": 1964,
+    "Date": "Sep 9",
+    "Weekday": "Wednesday",
+    "Artist": "Commanders",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1831,
+    "Year": 1964,
+    "Date": "Sep 11",
+    "Weekday": "Friday",
+    "Artist": "Countdowns",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1832,
+    "Year": 1964,
+    "Date": "Sep 12",
+    "Weekday": "Saturday",
+    "Artist": "Roger Miller / Dale & The Dates",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1833,
+    "Year": 1964,
+    "Date": "Sep 16",
+    "Weekday": "Wednesday",
+    "Artist": "Hi Morgan",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1834,
+    "Year": 1964,
+    "Date": "Sep 18",
+    "Weekday": "Friday",
+    "Artist": "Viscounts",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1835,
+    "Year": 1964,
+    "Date": "Sep 19",
+    "Weekday": "Saturday",
+    "Artist": "Chuck Berry / Stompers",
+    "Price": "$2.00"
+  },
+  {
+    "ID": 1836,
+    "Year": 1964,
+    "Date": "Sep 23",
+    "Weekday": "Wednesday",
+    "Artist": "Eddie Skeets & His Orchestra",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1837,
+    "Year": 1964,
+    "Date": "Sep 25",
+    "Weekday": "Friday",
+    "Artist": "Al & The Untouchables",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1838,
+    "Year": 1964,
+    "Date": "Sep 26",
+    "Weekday": "Saturday",
+    "Artist": "Fabulous Flippers",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1839,
+    "Year": 1964,
+    "Date": "Sep 30",
+    "Weekday": "Wednesday",
+    "Artist": "Marv Reedstrom",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1840,
+    "Year": 1964,
+    "Date": "Oct 2",
+    "Weekday": "Friday",
+    "Artist": "Torkays",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1841,
+    "Year": 1964,
+    "Date": "Oct 3",
+    "Weekday": "Saturday",
+    "Artist": "Gene Simmons / Top 40 Band from Canada",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1842,
+    "Year": 1964,
+    "Date": "Oct 7",
+    "Weekday": "Wednesday",
+    "Artist": "Aristocrats with Mary on vocals",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1843,
+    "Year": 1964,
+    "Date": "Oct 9",
+    "Weekday": "Friday",
+    "Artist": "Legends",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1844,
+    "Year": 1964,
+    "Date": "Oct 10",
+    "Weekday": "Saturday",
+    "Artist": "Troy Shondell",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1845,
+    "Year": 1964,
+    "Date": "Oct 14",
+    "Weekday": "Wednesday",
+    "Artist": "Charlie Trussell",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1846,
+    "Year": 1964,
+    "Date": "Oct 16",
+    "Weekday": "Friday",
+    "Artist": "Saints",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1847,
+    "Year": 1964,
+    "Date": "Oct 17",
+    "Weekday": "Saturday",
+    "Artist": "Astronauts",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1848,
+    "Year": 1964,
+    "Date": "Oct 21",
+    "Weekday": "Wednesday",
+    "Artist": "Hi Morgan",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1849,
+    "Year": 1964,
+    "Date": "Oct 23",
+    "Weekday": "Friday",
+    "Artist": "Escorts",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1850,
+    "Year": 1964,
+    "Date": "Oct 24",
+    "Weekday": "Saturday",
+    "Artist": "Lonnie Mack",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1851,
+    "Year": 1964,
+    "Date": "Oct 28",
+    "Weekday": "Wednesday",
+    "Artist": "Leonard Reyman & His Orchestra",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1852,
+    "Year": 1964,
+    "Date": "Oct 30",
+    "Weekday": "Friday",
+    "Artist": "Viscounts",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1853,
+    "Year": 1964,
+    "Date": "Oct 31",
+    "Weekday": "Saturday",
+    "Artist": "Little Green Men featuring Misty",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1854,
+    "Year": 1964,
+    "Date": "Nov 4",
+    "Weekday": "Wednesday",
+    "Artist": "Eddie Skeets & His Orchestra",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1855,
+    "Year": 1964,
+    "Date": "Nov 6",
+    "Weekday": "Friday",
+    "Artist": "Stompers",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1856,
+    "Year": 1964,
+    "Date": "Nov 7",
+    "Weekday": "Saturday",
+    "Artist": "Hondells",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1857,
+    "Year": 1964,
+    "Date": "Nov 11",
+    "Weekday": "Wednesday",
+    "Artist": "Aristocrats with Mary on vocals",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1858,
+    "Year": 1964,
+    "Date": "Nov 13",
+    "Weekday": "Friday",
+    "Artist": "Al's New Untouchables / Beachcombers",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1859,
+    "Year": 1964,
+    "Date": "Nov 14",
+    "Weekday": "Saturday",
+    "Artist": "Ronny & The Daytonas",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1860,
+    "Year": 1964,
+    "Date": "Nov 18",
+    "Weekday": "Wednesday",
+    "Artist": "Hi Morgan",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1861,
+    "Year": 1964,
+    "Date": "Nov 20",
+    "Weekday": "Friday",
+    "Artist": "Legends",
+    "Price": "$1.00 / Student ID 50¢"
+  },
+  {
+    "ID": 1862,
+    "Year": 1964,
+    "Date": "Nov 21",
+    "Weekday": "Saturday",
+    "Artist": "Everly Brothers",
+    "Price": "$2.00"
+  },
+  {
+    "ID": 1863,
+    "Year": 1964,
+    "Date": "Nov 25",
+    "Weekday": "Wednesday",
+    "Artist": "Charlie Trussell",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1864,
+    "Year": 1964,
+    "Date": "Nov 27",
+    "Weekday": "Friday",
+    "Artist": "Escorts",
+    "Price": "$1.00 / Student ID 50¢"
+  },
+  {
+    "ID": 1865,
+    "Year": 1964,
+    "Date": "Nov 28",
+    "Weekday": "Saturday",
+    "Artist": "Conway Twitty",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1866,
+    "Year": 1964,
+    "Date": "Dec 2",
+    "Weekday": "Wednesday",
+    "Artist": "Aristocrats",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1867,
+    "Year": 1964,
+    "Date": "Dec 4",
+    "Weekday": "Friday",
+    "Artist": "Al's New Untouchables",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1868,
+    "Year": 1964,
+    "Date": "Dec 5",
+    "Weekday": "Saturday",
+    "Artist": "Chuck Berry / Saints",
+    "Price": "$2.00"
+  },
+  {
+    "ID": 1869,
+    "Year": 1964,
+    "Date": "Dec 9",
+    "Weekday": "Wednesday",
+    "Artist": "Eddie Skeets & His Orchestra",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1870,
+    "Year": 1964,
+    "Date": "Dec 11",
+    "Weekday": "Friday",
+    "Artist": "Private Dance",
+    "Price": ""
+  },
+  {
+    "ID": 1871,
+    "Year": 1964,
+    "Date": "Dec 12",
+    "Weekday": "Saturday",
+    "Artist": "Danny Joe & The Flairs",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1872,
+    "Year": 1964,
+    "Date": "Dec 16",
+    "Weekday": "Wednesday",
+    "Artist": "Hi Morgan",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1873,
+    "Year": 1964,
+    "Date": "Dec 18",
+    "Weekday": "Friday",
+    "Artist": "Saints / Ravens",
+    "Price": "$1.00 / Student ID 50¢"
+  },
+  {
+    "ID": 1874,
+    "Year": 1964,
+    "Date": "Dec 19",
+    "Weekday": "Saturday",
+    "Artist": "Trashmen",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1875,
+    "Year": 1964,
+    "Date": "Dec 23",
+    "Weekday": "Wednesday",
+    "Artist": "Leonard Reyman & His Orchestra",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1876,
+    "Year": 1964,
+    "Date": "Dec 25",
+    "Weekday": "Friday",
+    "Artist": "Al's Untouchables",
+    "Price": "$1.00 / Student ID 50¢"
+  },
+  {
+    "ID": 1877,
+    "Year": 1964,
+    "Date": "Dec 26",
+    "Weekday": "Saturday",
+    "Artist": "Chad & Jeremy / Bobby Goldsboro / Ronnie Cochrane / Jimmy Ford & The Executives",
+    "Price": "$1.75"
+  },
+  {
+    "ID": 1878,
+    "Year": 1964,
+    "Date": "Dec 31",
+    "Weekday": "Thursday",
+    "Artist": "Buddy Knox / Stompers",
+    "Price": "$2.00"
+  }
+]

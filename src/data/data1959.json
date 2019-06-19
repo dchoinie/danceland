@@ -1,0 +1,1442 @@
+[
+  {
+    "ID": 885,
+    "Year": 1959,
+    "Date": "Jan 2",
+    "Weekday": "Friday",
+    "Artist": "Tommy Edwards / Miidwest Carvan",
+    "Price": ""
+  },
+  {
+    "ID": 886,
+    "Year": 1959,
+    "Date": "Jan 3",
+    "Weekday": "Saturday",
+    "Artist": "Dale Thomas & The Bandera Boys",
+    "Price": ""
+  },
+  {
+    "ID": 887,
+    "Year": 1959,
+    "Date": "Jan 4",
+    "Weekday": "Sunday",
+    "Artist": "Dale Thomas & The Bandera Boys - Danceland Bandstand",
+    "Price": "75¢"
+  },
+  {
+    "ID": 888,
+    "Year": 1959,
+    "Date": "Jan 7",
+    "Weekday": "Wednesday",
+    "Artist": "Louie DeKlotz & His Orchestra",
+    "Price": "50¢ till 9"
+  },
+  {
+    "ID": 889,
+    "Year": 1959,
+    "Date": "Jan 9",
+    "Weekday": "Friday",
+    "Artist": "Pug's Western Playboys",
+    "Price": ""
+  },
+  {
+    "ID": 890,
+    "Year": 1959,
+    "Date": "Jan 10",
+    "Weekday": "Saturday",
+    "Artist": "Jimmy Clanton / The Highlights",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 891,
+    "Year": 1959,
+    "Date": "Jan 11",
+    "Weekday": "Sunday",
+    "Artist": "Jimmy Clanton / The Highlights - Danceland Bandstand",
+    "Price": "90¢"
+  },
+  {
+    "ID": 892,
+    "Year": 1959,
+    "Date": "Jan 14",
+    "Weekday": "Wednesday",
+    "Artist": "Sammy Stevens & His Orchestra featuring Joan Murray",
+    "Price": ""
+  },
+  {
+    "ID": 893,
+    "Year": 1959,
+    "Date": "Jan 16",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His Midwesterners",
+    "Price": ""
+  },
+  {
+    "ID": 894,
+    "Year": 1959,
+    "Date": "Jan 17",
+    "Weekday": "Saturday",
+    "Artist": "Don Shaw & His Top 40 Band with Ronnie Meek",
+    "Price": ""
+  },
+  {
+    "ID": 895,
+    "Year": 1959,
+    "Date": "Jan 18",
+    "Weekday": "Sunday",
+    "Artist": "Don Shaw & His Top 40 Band with Ronnie Meek - Danceland Bandstand",
+    "Price": "75¢"
+  },
+  {
+    "ID": 896,
+    "Year": 1959,
+    "Date": "Jan 21",
+    "Weekday": "Wednesday",
+    "Artist": "Marv Reedstrom",
+    "Price": ""
+  },
+  {
+    "ID": 897,
+    "Year": 1959,
+    "Date": "Jan 23",
+    "Weekday": "Friday",
+    "Artist": "Suzi Arden / Cady Brothers",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 898,
+    "Year": 1959,
+    "Date": "Jan 24",
+    "Weekday": "Saturday",
+    "Artist": "Big Beats",
+    "Price": ""
+  },
+  {
+    "ID": 899,
+    "Year": 1959,
+    "Date": "Jan 25",
+    "Weekday": "Sunday",
+    "Artist": "Big Beats - Danceland Bandstand",
+    "Price": "75¢"
+  },
+  {
+    "ID": 900,
+    "Year": 1959,
+    "Date": "Jan 28",
+    "Weekday": "Wednesday",
+    "Artist": "Jack Cole & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 901,
+    "Year": 1959,
+    "Date": "Jan 30",
+    "Weekday": "Friday",
+    "Artist": "Pug's Western Playboys",
+    "Price": ""
+  },
+  {
+    "ID": 902,
+    "Year": 1959,
+    "Date": "Jan 31",
+    "Weekday": "Saturday",
+    "Artist": "Dale Thomas & The Bandera Boys",
+    "Price": ""
+  },
+  {
+    "ID": 903,
+    "Year": 1959,
+    "Date": "Feb 1",
+    "Weekday": "Sunday",
+    "Artist": "Dale Thomas & The Bandera Boys - Danceland Bandstand",
+    "Price": "75¢"
+  },
+  {
+    "ID": 904,
+    "Year": 1959,
+    "Date": "Feb 4",
+    "Weekday": "Wednesday",
+    "Artist": "Jimmie Adams Orchestra",
+    "Price": "50¢ till 9"
+  },
+  {
+    "ID": 905,
+    "Year": 1959,
+    "Date": "Feb 6",
+    "Weekday": "Friday",
+    "Artist": "Frankie Avalon / Jimmy Clanton / Dion & The Belmonts / Crickets with Ronnie Smith / Frankie Sardo / Midwest Carvan",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 906,
+    "Year": 1959,
+    "Date": "Feb 7",
+    "Weekday": "Saturday",
+    "Artist": "Jimmy Bowen / Johnny Carroll / Eddie Randall & The Downbeats",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 907,
+    "Year": 1959,
+    "Date": "Feb 8",
+    "Weekday": "Sunday",
+    "Artist": "Eddie Randall & The Downbeats - Danceland Bandstand",
+    "Price": "75¢"
+  },
+  {
+    "ID": 908,
+    "Year": 1959,
+    "Date": "Feb 10",
+    "Weekday": "Tuesday",
+    "Artist": "Dale Thomas & The Bandera Boys",
+    "Price": ""
+  },
+  {
+    "ID": 909,
+    "Year": 1959,
+    "Date": "Feb 11",
+    "Weekday": "Wednesday",
+    "Artist": "No Dance - Ash Wednesday",
+    "Price": ""
+  },
+  {
+    "ID": 910,
+    "Year": 1959,
+    "Date": "Feb 13",
+    "Weekday": "Friday",
+    "Artist": "Pug's Western Playboys",
+    "Price": ""
+  },
+  {
+    "ID": 911,
+    "Year": 1959,
+    "Date": "Feb 14",
+    "Weekday": "Saturday",
+    "Artist": "Don Shaw & His Top 40 Band with Ronnie & Tommy",
+    "Price": ""
+  },
+  {
+    "ID": 912,
+    "Year": 1959,
+    "Date": "Feb 15",
+    "Weekday": "Sunday",
+    "Artist": "Don Shaw & His Top 40 Band with Ronnie & Tommy - Danceland Bandstand",
+    "Price": "75¢"
+  },
+  {
+    "ID": 913,
+    "Year": 1959,
+    "Date": "Feb 18",
+    "Weekday": "Wednesday",
+    "Artist": "Aristocrats",
+    "Price": ""
+  },
+  {
+    "ID": 914,
+    "Year": 1959,
+    "Date": "Feb 20",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His Midwesterners",
+    "Price": ""
+  },
+  {
+    "ID": 915,
+    "Year": 1959,
+    "Date": "Feb 21",
+    "Weekday": "Saturday",
+    "Artist": "Dale Thomas & The Bandera Boys",
+    "Price": ""
+  },
+  {
+    "ID": 916,
+    "Year": 1959,
+    "Date": "Feb 22",
+    "Weekday": "Sunday",
+    "Artist": "Dale Thomas & The Bandera Boys - Danceland Bandstand",
+    "Price": "75¢"
+  },
+  {
+    "ID": 917,
+    "Year": 1959,
+    "Date": "Feb 24",
+    "Weekday": "Tuesday",
+    "Artist": "Kenny Hofer & His Midwesterners",
+    "Price": ""
+  },
+  {
+    "ID": 918,
+    "Year": 1959,
+    "Date": "Feb 25",
+    "Weekday": "Wednesday",
+    "Artist": "Vance Dixon Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 919,
+    "Year": 1959,
+    "Date": "Feb 27",
+    "Weekday": "Friday",
+    "Artist": "Conway Twitty / Cady Brothers",
+    "Price": ""
+  },
+  {
+    "ID": 920,
+    "Year": 1959,
+    "Date": "Feb 28",
+    "Weekday": "Saturday",
+    "Artist": "Big Beats",
+    "Price": ""
+  },
+  {
+    "ID": 921,
+    "Year": 1959,
+    "Date": "Mar 1",
+    "Weekday": "Sunday",
+    "Artist": "Big Beats - Danceland Bandstand",
+    "Price": "75¢"
+  },
+  {
+    "ID": 922,
+    "Year": 1959,
+    "Date": "Mar 4",
+    "Weekday": "Wednesday",
+    "Artist": "Louis DeKlotz & His Orchestra",
+    "Price": "50¢ till 9"
+  },
+  {
+    "ID": 923,
+    "Year": 1959,
+    "Date": "Mar 6",
+    "Weekday": "Friday",
+    "Artist": "Diamonds / Pug's Western Playboys",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 924,
+    "Year": 1959,
+    "Date": "Mar 7",
+    "Weekday": "Saturday",
+    "Artist": "Highlights",
+    "Price": ""
+  },
+  {
+    "ID": 925,
+    "Year": 1959,
+    "Date": "Mar 8",
+    "Weekday": "Sunday",
+    "Artist": "Highlights - Danceland Bandstand",
+    "Price": "75¢"
+  },
+  {
+    "ID": 926,
+    "Year": 1959,
+    "Date": "Mar 11",
+    "Weekday": "Wednesday",
+    "Artist": "Marv Reedstrom",
+    "Price": ""
+  },
+  {
+    "ID": 927,
+    "Year": 1959,
+    "Date": "Mar 13",
+    "Weekday": "Friday",
+    "Artist": "Midwest Caravan / Bobby Merritt & The Deons featuring Dick Busher",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 928,
+    "Year": 1959,
+    "Date": "Mar 14",
+    "Weekday": "Saturday",
+    "Artist": "Don Shaw & His Top 40 Band with Ronnie & Tommy",
+    "Price": ""
+  },
+  {
+    "ID": 929,
+    "Year": 1959,
+    "Date": "Mar 15",
+    "Weekday": "Sunday",
+    "Artist": "Don Shaw & His Top 40 Band with Ronnie & Tommy - Danceland Bandstand",
+    "Price": "75¢"
+  },
+  {
+    "ID": 930,
+    "Year": 1959,
+    "Date": "Mar 17",
+    "Weekday": "Tuesday",
+    "Artist": "Buddy Knox & The Rhythm Orchids / Big Beats",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 931,
+    "Year": 1959,
+    "Date": "Mar 18",
+    "Weekday": "Wednesday",
+    "Artist": "Jack Cole & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 932,
+    "Year": 1959,
+    "Date": "Mar 20",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His Midwesterners",
+    "Price": ""
+  },
+  {
+    "ID": 933,
+    "Year": 1959,
+    "Date": "Mar 21",
+    "Weekday": "Saturday",
+    "Artist": "Dale Thomas & The Bandera Boys",
+    "Price": ""
+  },
+  {
+    "ID": 934,
+    "Year": 1959,
+    "Date": "Mar 22",
+    "Weekday": "Sunday",
+    "Artist": "Dale Thomas & The Bandera Boys - Danceland Bandstand",
+    "Price": "75¢"
+  },
+  {
+    "ID": 935,
+    "Year": 1959,
+    "Date": "Mar 25",
+    "Weekday": "Wednesday",
+    "Artist": "Sammy Stevens & His Orchestra featuring Joan Murray",
+    "Price": ""
+  },
+  {
+    "ID": 936,
+    "Year": 1959,
+    "Date": "Mar 27",
+    "Weekday": "Friday",
+    "Artist": "Cady Brothers",
+    "Price": ""
+  },
+  {
+    "ID": 937,
+    "Year": 1959,
+    "Date": "Mar 28",
+    "Weekday": "Saturday",
+    "Artist": "Bill Sherrell & The Dell Tones",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 938,
+    "Year": 1959,
+    "Date": "Mar 29",
+    "Weekday": "Sunday",
+    "Artist": "Bill Sherrell & The Dell Tones - Danceland Bandstand",
+    "Price": "75¢"
+  },
+  {
+    "ID": 939,
+    "Year": 1959,
+    "Date": "Apr 1",
+    "Weekday": "Wednesday",
+    "Artist": "Aristocrats",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 940,
+    "Year": 1959,
+    "Date": "Apr 3",
+    "Weekday": "Friday",
+    "Artist": "Pug's Western Playboys",
+    "Price": ""
+  },
+  {
+    "ID": 941,
+    "Year": 1959,
+    "Date": "Apr 4",
+    "Weekday": "Saturday",
+    "Artist": "Big Beats",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 942,
+    "Year": 1959,
+    "Date": "Apr 8",
+    "Weekday": "Wednesday",
+    "Artist": "Jimmie Adams Orchestra",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 943,
+    "Year": 1959,
+    "Date": "Apr 10",
+    "Weekday": "Friday",
+    "Artist": "Jim Reeves & The Wagonmasters / Midwest Caravan",
+    "Price": ""
+  },
+  {
+    "ID": 944,
+    "Year": 1959,
+    "Date": "Apr 11",
+    "Weekday": "Saturday",
+    "Artist": "Highlights",
+    "Price": ""
+  },
+  {
+    "ID": 945,
+    "Year": 1959,
+    "Date": "Apr 15",
+    "Weekday": "Wednesday",
+    "Artist": "Marv Reedstrom",
+    "Price": ""
+  },
+  {
+    "ID": 946,
+    "Year": 1959,
+    "Date": "Apr 16",
+    "Weekday": "Thursday",
+    "Artist": "Pug's Western Playboys",
+    "Price": "$1.00 donation"
+  },
+  {
+    "ID": 947,
+    "Year": 1959,
+    "Date": "Apr 17",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His MIidwesterners / Country Gentlemen",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 948,
+    "Year": 1959,
+    "Date": "Apr 18",
+    "Weekday": "Saturday",
+    "Artist": "Dale Thomas & The Bandera Boys",
+    "Price": ""
+  },
+  {
+    "ID": 949,
+    "Year": 1959,
+    "Date": "Apr 22",
+    "Weekday": "Wednesday",
+    "Artist": "Little John Beecher & His Orchestra featuring Betty Jordan",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 950,
+    "Year": 1959,
+    "Date": "Apr 24",
+    "Weekday": "Friday",
+    "Artist": "Cady Brothers",
+    "Price": ""
+  },
+  {
+    "ID": 951,
+    "Year": 1959,
+    "Date": "Apr 25",
+    "Weekday": "Saturday",
+    "Artist": "Don Shaw & His Top 40 Band with Ronnie & Tommy",
+    "Price": ""
+  },
+  {
+    "ID": 952,
+    "Year": 1959,
+    "Date": "Apr 28",
+    "Weekday": "Tuesday",
+    "Artist": "Dale Thomas & The Bandera Boys",
+    "Price": ""
+  },
+  {
+    "ID": 953,
+    "Year": 1959,
+    "Date": "Apr 29",
+    "Weekday": "Wednesday",
+    "Artist": "Vance Dixon Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 954,
+    "Year": 1959,
+    "Date": "May 1",
+    "Weekday": "Friday",
+    "Artist": "Fabian / Pug's Western Playboys",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 955,
+    "Year": 1959,
+    "Date": "May 2",
+    "Weekday": "Saturday",
+    "Artist": "Big Beats",
+    "Price": ""
+  },
+  {
+    "ID": 956,
+    "Year": 1959,
+    "Date": "May 6",
+    "Weekday": "Wednesday",
+    "Artist": "Louie DeKlotz & His Orchestra",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 957,
+    "Year": 1959,
+    "Date": "May 8",
+    "Weekday": "Friday",
+    "Artist": "Frank Buhr's Midwest Ramblers",
+    "Price": ""
+  },
+  {
+    "ID": 958,
+    "Year": 1959,
+    "Date": "May 9",
+    "Weekday": "Saturday",
+    "Artist": "Highlights",
+    "Price": ""
+  },
+  {
+    "ID": 959,
+    "Year": 1959,
+    "Date": "May 13",
+    "Weekday": "Wednesday",
+    "Artist": "Aristocrats",
+    "Price": ""
+  },
+  {
+    "ID": 960,
+    "Year": 1959,
+    "Date": "May 15",
+    "Weekday": "Friday",
+    "Artist": "Duane Eddy / Dale Hawkins / Kenny Hofer & His Midwesterners",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 961,
+    "Year": 1959,
+    "Date": "May 16",
+    "Weekday": "Saturday",
+    "Artist": "Dale Thomas & The Bandera Boys",
+    "Price": ""
+  },
+  {
+    "ID": 962,
+    "Year": 1959,
+    "Date": "May 20",
+    "Weekday": "Wednesday",
+    "Artist": "Blue Barron & His Orchestra featuring Shirley Taylor & The Blue Notes",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 963,
+    "Year": 1959,
+    "Date": "May 22",
+    "Weekday": "Friday",
+    "Artist": "Dick  Miller & The Rhythmasters",
+    "Price": ""
+  },
+  {
+    "ID": 964,
+    "Year": 1959,
+    "Date": "May 23",
+    "Weekday": "Saturday",
+    "Artist": "Bill Sherrell & The Dell Tones",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 965,
+    "Year": 1959,
+    "Date": "May 27",
+    "Weekday": "Wednesday",
+    "Artist": "Marv Reedstrom",
+    "Price": ""
+  },
+  {
+    "ID": 966,
+    "Year": 1959,
+    "Date": "May 29",
+    "Weekday": "Friday",
+    "Artist": "Pug's Western Playboys",
+    "Price": ""
+  },
+  {
+    "ID": 967,
+    "Year": 1959,
+    "Date": "May 30",
+    "Weekday": "Saturday",
+    "Artist": "Eddie Randall & The Downbeats / Bob Boston & Bob-O-Links",
+    "Price": ""
+  },
+  {
+    "ID": 968,
+    "Year": 1959,
+    "Date": "Jun 3",
+    "Weekday": "Wednesday",
+    "Artist": "Louie DeKlotz & His Orchestra",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 969,
+    "Year": 1959,
+    "Date": "Jun 5",
+    "Weekday": "Friday",
+    "Artist": "Frank Buhr's Midwest Ramblers / Rock 'N Flames",
+    "Price": ""
+  },
+  {
+    "ID": 970,
+    "Year": 1959,
+    "Date": "Jun 6",
+    "Weekday": "Saturday",
+    "Artist": "Big Beats",
+    "Price": ""
+  },
+  {
+    "ID": 971,
+    "Year": 1959,
+    "Date": "Jun 10",
+    "Weekday": "Wednesday",
+    "Artist": "Vance Dixon Orchestra",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 972,
+    "Year": 1959,
+    "Date": "Jun 12",
+    "Weekday": "Friday",
+    "Artist": "Dick Miller & The Rhythmasters / Cady Brothers",
+    "Price": ""
+  },
+  {
+    "ID": 973,
+    "Year": 1959,
+    "Date": "Jun 13",
+    "Weekday": "Saturday",
+    "Artist": "Eddie Cochran / Tommy Dee / Highlights",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 974,
+    "Year": 1959,
+    "Date": "Jun 17",
+    "Weekday": "Wednesday",
+    "Artist": "Sammy Stevens & His Orchestra featuring Joan Murray",
+    "Price": ""
+  },
+  {
+    "ID": 975,
+    "Year": 1959,
+    "Date": "Jun 19",
+    "Weekday": "Friday",
+    "Artist": "Freddy Cannon / Frankie Ford / Gary Stites / Mystics / Carl Dobkins Jr. / Barbara Evans / Johnny & The Hurricanes / Kenny Hofer & His Midwesterners",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 976,
+    "Year": 1959,
+    "Date": "Jun 20",
+    "Weekday": "Saturday",
+    "Artist": "Dale Thomas & The Bandera Boys",
+    "Price": ""
+  },
+  {
+    "ID": 977,
+    "Year": 1959,
+    "Date": "Jun 24",
+    "Weekday": "Wednesday",
+    "Artist": "Paul Neighbors & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 978,
+    "Year": 1959,
+    "Date": "Jun 26",
+    "Weekday": "Friday",
+    "Artist": "Pug's Western Playboys",
+    "Price": ""
+  },
+  {
+    "ID": 979,
+    "Year": 1959,
+    "Date": "Jun 27",
+    "Weekday": "Saturday",
+    "Artist": "Dion & The Belmonts / Flames",
+    "Price": ""
+  },
+  {
+    "ID": 980,
+    "Year": 1959,
+    "Date": "Jun 29",
+    "Weekday": "Monday",
+    "Artist": "Dale Thomas & The Bandera Boys",
+    "Price": ""
+  },
+  {
+    "ID": 981,
+    "Year": 1959,
+    "Date": "Jul 1",
+    "Weekday": "Wednesday",
+    "Artist": "Marv Reedstrom",
+    "Price": ""
+  },
+  {
+    "ID": 982,
+    "Year": 1959,
+    "Date": "Jul 3",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His Midwesterners / Rock 'N Flames",
+    "Price": ""
+  },
+  {
+    "ID": 983,
+    "Year": 1959,
+    "Date": "Jul 4",
+    "Weekday": "Saturday",
+    "Artist": "Eddie Randall & The Downbeats / Bob Boston & Bob-O-Links / Larry Dowd & The Rock-A-Tones",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 984,
+    "Year": 1959,
+    "Date": "Jul 8",
+    "Weekday": "Wednesday",
+    "Artist": "Aristocrats",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 985,
+    "Year": 1959,
+    "Date": "Jul 10",
+    "Weekday": "Friday",
+    "Artist": "Dick Miller & The Rhythmasters",
+    "Price": ""
+  },
+  {
+    "ID": 986,
+    "Year": 1959,
+    "Date": "Jul 11",
+    "Weekday": "Saturday",
+    "Artist": "Big Beats",
+    "Price": ""
+  },
+  {
+    "ID": 987,
+    "Year": 1959,
+    "Date": "Jul 15",
+    "Weekday": "Wednesday",
+    "Artist": "Vance Dixon Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 988,
+    "Year": 1959,
+    "Date": "Jul 17",
+    "Weekday": "Friday",
+    "Artist": "Pug's Western Playboys",
+    "Price": ""
+  },
+  {
+    "ID": 989,
+    "Year": 1959,
+    "Date": "Jul 18",
+    "Weekday": "Saturday",
+    "Artist": "Dale Thomas & The Bandera Boys",
+    "Price": ""
+  },
+  {
+    "ID": 990,
+    "Year": 1959,
+    "Date": "Jul 22",
+    "Weekday": "Wednesday",
+    "Artist": "Little John Beecher & His Orchestra featuring Dee Wald",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 991,
+    "Year": 1959,
+    "Date": "Jul 24",
+    "Weekday": "Friday",
+    "Artist": "Cady Brothers / Dukes Of Rock 'N' Roll",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 992,
+    "Year": 1959,
+    "Date": "Jul 25",
+    "Weekday": "Saturday",
+    "Artist": "Rockin' R's / Steve Bledsoe & The Blue Jays / Gary Shelton / Debbie Stevens",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 993,
+    "Year": 1959,
+    "Date": "Jul 28",
+    "Weekday": "Tuesday",
+    "Artist": "Dick Miller & His Rhythmasters",
+    "Price": ""
+  },
+  {
+    "ID": 994,
+    "Year": 1959,
+    "Date": "Jul 29",
+    "Weekday": "Wednesday",
+    "Artist": "Aristocrats",
+    "Price": ""
+  },
+  {
+    "ID": 995,
+    "Year": 1959,
+    "Date": "Jul 31",
+    "Weekday": "Friday",
+    "Artist": "Bob & Bobbie Thomas / Country Gentlemen",
+    "Price": ""
+  },
+  {
+    "ID": 996,
+    "Year": 1959,
+    "Date": "Aug 1",
+    "Weekday": "Saturday",
+    "Artist": "Kenny Loran / Escorts",
+    "Price": ""
+  },
+  {
+    "ID": 997,
+    "Year": 1959,
+    "Date": "Aug 5",
+    "Weekday": "Wednesday",
+    "Artist": "Louie DeKlotz & His Orchestra",
+    "Price": "Girls 50¢ till 9"
+  },
+  {
+    "ID": 998,
+    "Year": 1959,
+    "Date": "Aug 7",
+    "Weekday": "Friday",
+    "Artist": "Pug's Western Playboys",
+    "Price": ""
+  },
+  {
+    "ID": 999,
+    "Year": 1959,
+    "Date": "Aug 8",
+    "Weekday": "Saturday",
+    "Artist": "Big Beats",
+    "Price": ""
+  },
+  {
+    "ID": 1000,
+    "Year": 1959,
+    "Date": "Aug 12",
+    "Weekday": "Wednesday",
+    "Artist": "Aristocrats",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 1001,
+    "Year": 1959,
+    "Date": "Aug 14",
+    "Weekday": "Friday",
+    "Artist": "Johnny Horton / Cady Brothers",
+    "Price": ""
+  },
+  {
+    "ID": 1002,
+    "Year": 1959,
+    "Date": "Aug 15",
+    "Weekday": "Saturday",
+    "Artist": "Dale Thomas & The Bandera Boys",
+    "Price": ""
+  },
+  {
+    "ID": 1003,
+    "Year": 1959,
+    "Date": "Aug 19",
+    "Weekday": "Wednesday",
+    "Artist": "Vance Dixon Orchestra",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1004,
+    "Year": 1959,
+    "Date": "Aug 21",
+    "Weekday": "Friday",
+    "Artist": "Dick Miller & The Rhythmasters",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1005,
+    "Year": 1959,
+    "Date": "Aug 22",
+    "Weekday": "Saturday",
+    "Artist": "Eddie Randall & The Downbeats",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1006,
+    "Year": 1959,
+    "Date": "Aug 26",
+    "Weekday": "Wednesday",
+    "Artist": "Jack Cole & His Orchestra",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1007,
+    "Year": 1959,
+    "Date": "Aug 28",
+    "Weekday": "Friday",
+    "Artist": "Jimmy Clanton / Gary Stites / Santo & Johnny / Tempos / Dick Caruso / Bell Notes / Kenny Hofer & His Midwesterners",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1008,
+    "Year": 1959,
+    "Date": "Aug 29",
+    "Weekday": "Saturday",
+    "Artist": "Rock 'N Flames / Bob Boston & Bob-O-Links",
+    "Price": ""
+  },
+  {
+    "ID": 1009,
+    "Year": 1959,
+    "Date": "Sep 2",
+    "Weekday": "Wednesday",
+    "Artist": "Louie DeKlotz & His Orchestra",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 1010,
+    "Year": 1959,
+    "Date": "Sep 4",
+    "Weekday": "Friday",
+    "Artist": "KXEL Midwest Caravan",
+    "Price": ""
+  },
+  {
+    "ID": 1011,
+    "Year": 1959,
+    "Date": "Sep 5",
+    "Weekday": "Saturday",
+    "Artist": "Johnny Cash & The Tennessee Two / Don Shaw & His Top 40 Band",
+    "Price": ""
+  },
+  {
+    "ID": 1012,
+    "Year": 1959,
+    "Date": "Sep 9",
+    "Weekday": "Wednesday",
+    "Artist": "Aristocrats",
+    "Price": ""
+  },
+  {
+    "ID": 1013,
+    "Year": 1959,
+    "Date": "Sep 11",
+    "Weekday": "Friday",
+    "Artist": "Pug's Western Playboys",
+    "Price": ""
+  },
+  {
+    "ID": 1014,
+    "Year": 1959,
+    "Date": "Sep 12",
+    "Weekday": "Saturday",
+    "Artist": "Tony Bellus / Fireballs",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1015,
+    "Year": 1959,
+    "Date": "Sep 16",
+    "Weekday": "Wednesday",
+    "Artist": "Vance Dixon Orchestra",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 1016,
+    "Year": 1959,
+    "Date": "Sep 18",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His Midwesterners",
+    "Price": ""
+  },
+  {
+    "ID": 1017,
+    "Year": 1959,
+    "Date": "Sep 19",
+    "Weekday": "Saturday",
+    "Artist": "Dale Thomas & The Bandera Boys",
+    "Price": ""
+  },
+  {
+    "ID": 1018,
+    "Year": 1959,
+    "Date": "Sep 23",
+    "Weekday": "Wednesday",
+    "Artist": "Marv Reedstrom",
+    "Price": ""
+  },
+  {
+    "ID": 1019,
+    "Year": 1959,
+    "Date": "Sep 25",
+    "Weekday": "Friday",
+    "Artist": "Dick Miller & The Rhythmasters",
+    "Price": ""
+  },
+  {
+    "ID": 1020,
+    "Year": 1959,
+    "Date": "Sep 26",
+    "Weekday": "Saturday",
+    "Artist": "Don Shaw & His Top 40 Band with Ronnie & Tommy",
+    "Price": ""
+  },
+  {
+    "ID": 1021,
+    "Year": 1959,
+    "Date": "Sep 30",
+    "Weekday": "Wednesday",
+    "Artist": "Aristocrats with Mary on vocals",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 1022,
+    "Year": 1959,
+    "Date": "Oct 2",
+    "Weekday": "Friday",
+    "Artist": "Pug's Western Playboys",
+    "Price": ""
+  },
+  {
+    "ID": 1023,
+    "Year": 1959,
+    "Date": "Oct 3",
+    "Weekday": "Saturday",
+    "Artist": "Floyd Robinson / Bucky & The Premieres",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 1024,
+    "Year": 1959,
+    "Date": "Oct 7",
+    "Weekday": "Wednesday",
+    "Artist": "Big Tiny Little / Louis DeKlotz & His Orchestra",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1025,
+    "Year": 1959,
+    "Date": "Oct 9",
+    "Weekday": "Friday",
+    "Artist": "Dick MIller & The Rhythmasters",
+    "Price": ""
+  },
+  {
+    "ID": 1026,
+    "Year": 1959,
+    "Date": "Oct 10",
+    "Weekday": "Saturday",
+    "Artist": "Eddie Randall & The Downbeats",
+    "Price": ""
+  },
+  {
+    "ID": 1027,
+    "Year": 1959,
+    "Date": "Oct 14",
+    "Weekday": "Wednesday",
+    "Artist": "Little John Beecher & His Orchestra featuring Dee Wald",
+    "Price": ""
+  },
+  {
+    "ID": 1028,
+    "Year": 1959,
+    "Date": "Oct 16",
+    "Weekday": "Friday",
+    "Artist": "Johnny & The Hurricanes / Sandy Nelson / Skip & Flip / Freddy Cannon / Roscoe & The Little Green Men / Kenny Hofer & His Midwesterners",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1029,
+    "Year": 1959,
+    "Date": "Oct 17",
+    "Weekday": "Saturday",
+    "Artist": "Mitchell Torok / Jimmy Bowen / Don & Billy Hart / Bucky & The Premiers",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1030,
+    "Year": 1959,
+    "Date": "Oct 21",
+    "Weekday": "Wednesday",
+    "Artist": "Blue Barron & His Orchestra featuring Shirley Taylor & The Blue Notes",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1031,
+    "Year": 1959,
+    "Date": "Oct 23",
+    "Weekday": "Friday",
+    "Artist": "Pug's Western Playboys",
+    "Price": ""
+  },
+  {
+    "ID": 1032,
+    "Year": 1959,
+    "Date": "Oct 24",
+    "Weekday": "Saturday",
+    "Artist": "Bob Boston & Bob-O-Links / Rock 'N Flames",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1033,
+    "Year": 1959,
+    "Date": "Oct 28",
+    "Weekday": "Wednesday",
+    "Artist": "Aristocrats with Mary on vocals",
+    "Price": ""
+  },
+  {
+    "ID": 1034,
+    "Year": 1959,
+    "Date": "Oct 30",
+    "Weekday": "Friday",
+    "Artist": "Judy Lynn / Cowboy Copas / Grandpa Jones / Little Della Rae / Pat Kelly & The Shamrocks",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1035,
+    "Year": 1959,
+    "Date": "Oct 31",
+    "Weekday": "Saturday",
+    "Artist": "Dale Thomas & The Bandera Boys",
+    "Price": ""
+  },
+  {
+    "ID": 1036,
+    "Year": 1959,
+    "Date": "Nov 4",
+    "Weekday": "Wednesday",
+    "Artist": "Louie DeKlotz & His Orchestra",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 1037,
+    "Year": 1959,
+    "Date": "Nov 6",
+    "Weekday": "Friday",
+    "Artist": "Midwest Caravan",
+    "Price": ""
+  },
+  {
+    "ID": 1038,
+    "Year": 1959,
+    "Date": "Nov 7",
+    "Weekday": "Saturday",
+    "Artist": "Eddie Randall & The Downbeats",
+    "Price": ""
+  },
+  {
+    "ID": 1039,
+    "Year": 1959,
+    "Date": "Nov 10",
+    "Weekday": "Tuesday",
+    "Artist": "Whoopee\" John Wilfahrt & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 1040,
+    "Year": 1959,
+    "Date": "Nov 11",
+    "Weekday": "Wednesday",
+    "Artist": "Marv Reedstrom",
+    "Price": ""
+  },
+  {
+    "ID": 1041,
+    "Year": 1959,
+    "Date": "Nov 13",
+    "Weekday": "Friday",
+    "Artist": "Pug's Western Playboys",
+    "Price": ""
+  },
+  {
+    "ID": 1042,
+    "Year": 1959,
+    "Date": "Nov 14",
+    "Weekday": "Saturday",
+    "Artist": "Don Shaw & His Top 40 Band with Ronnie & Tommy",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1043,
+    "Year": 1959,
+    "Date": "Nov 18",
+    "Weekday": "Wednesday",
+    "Artist": "Aristocrats with Mary on vocals",
+    "Price": ""
+  },
+  {
+    "ID": 1044,
+    "Year": 1959,
+    "Date": "Nov 20",
+    "Weekday": "Friday",
+    "Artist": "Rock-A-Teens / Passions / Joe London / Tommy Facenda / Kenny Hofer & His Midwesterners",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 1045,
+    "Year": 1959,
+    "Date": "Nov 21",
+    "Weekday": "Saturday",
+    "Artist": "Dale Thomas & The Bandera Boys",
+    "Price": ""
+  },
+  {
+    "ID": 1046,
+    "Year": 1959,
+    "Date": "Nov 25",
+    "Weekday": "Wednesday",
+    "Artist": "Russ Carlyle & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 1047,
+    "Year": 1959,
+    "Date": "Nov 27",
+    "Weekday": "Friday",
+    "Artist": "Dick Miller & The Rhythmasters",
+    "Price": ""
+  },
+  {
+    "ID": 1048,
+    "Year": 1959,
+    "Date": "Nov 28",
+    "Weekday": "Saturday",
+    "Artist": "Big Beats",
+    "Price": ""
+  },
+  {
+    "ID": 1049,
+    "Year": 1959,
+    "Date": "Dec 2",
+    "Weekday": "Wednesday",
+    "Artist": "Louie DeKlotz & His Orchestra",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 1050,
+    "Year": 1959,
+    "Date": "Dec 4",
+    "Weekday": "Friday",
+    "Artist": "Pug's Western Playboys",
+    "Price": ""
+  },
+  {
+    "ID": 1051,
+    "Year": 1959,
+    "Date": "Dec 5",
+    "Weekday": "Saturday",
+    "Artist": "Rockin' R's",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1052,
+    "Year": 1959,
+    "Date": "Dec 9",
+    "Weekday": "Wednesday",
+    "Artist": "Aristocrats with Mary on vocals",
+    "Price": ""
+  },
+  {
+    "ID": 1053,
+    "Year": 1959,
+    "Date": "Dec 11",
+    "Weekday": "Friday",
+    "Artist": "Cady Brothers / Country Gentlemen",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1054,
+    "Year": 1959,
+    "Date": "Dec 12",
+    "Weekday": "Saturday",
+    "Artist": "Dale Thomas & The Bandera Boys",
+    "Price": ""
+  },
+  {
+    "ID": 1055,
+    "Year": 1959,
+    "Date": "Dec 16",
+    "Weekday": "Wednesday",
+    "Artist": "Marv Reedstrom",
+    "Price": ""
+  },
+  {
+    "ID": 1056,
+    "Year": 1959,
+    "Date": "Dec 18",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His Midwesterners / Dick Miller & The Rhythmasters",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1057,
+    "Year": 1959,
+    "Date": "Dec 19",
+    "Weekday": "Saturday",
+    "Artist": "Don Shaw & His Top 40 Band with Ronnie & Tommy",
+    "Price": ""
+  },
+  {
+    "ID": 1058,
+    "Year": 1959,
+    "Date": "Dec 23",
+    "Weekday": "Wednesday",
+    "Artist": "Louie DeKlotz & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 1059,
+    "Year": 1959,
+    "Date": "Dec 25",
+    "Weekday": "Friday",
+    "Artist": "Pug's Western Playboys",
+    "Price": ""
+  },
+  {
+    "ID": 1060,
+    "Year": 1959,
+    "Date": "Dec 26",
+    "Weekday": "Saturday",
+    "Artist": "Bucky & The Premieres",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 1061,
+    "Year": 1959,
+    "Date": "Dec 28",
+    "Weekday": "Monday",
+    "Artist": "Dale Thomas & The Bandera Boys",
+    "Price": ""
+  },
+  {
+    "ID": 1062,
+    "Year": 1959,
+    "Date": "Dec 30",
+    "Weekday": "Wednesday",
+    "Artist": "Aristocrats with Mary on vocals",
+    "Price": ""
+  },
+  {
+    "ID": 1063,
+    "Year": 1959,
+    "Date": "Dec 31",
+    "Weekday": "Thursday",
+    "Artist": "Pug's Western Playboys / Rock 'N Flames",
+    "Price": ""
+  },
+  {
+    "ID": 1064,
+    "Year": 1959,
+    "Date": "Jan 2",
+    "Weekday": "Friday",
+    "Artist": "Tommy Edwards / Miidwest Carvan",
+    "Price": ""
+  }
+]

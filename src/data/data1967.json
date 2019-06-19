@@ -1,0 +1,514 @@
+[
+  {
+    "ID": 2120,
+    "Year": 1967,
+    "Date": "Jan 1",
+    "Weekday": "Sunday",
+    "Artist": "Vanguards / Sons Of Adam",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 2121,
+    "Year": 1967,
+    "Date": "Jan 6",
+    "Weekday": "Friday",
+    "Artist": "Psych-A-Lite Show",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 2122,
+    "Year": 1967,
+    "Date": "Jan 7",
+    "Weekday": "Saturday",
+    "Artist": "Psych-A-Lite Show",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 2123,
+    "Year": 1967,
+    "Date": "Jan 8",
+    "Weekday": "Sunday",
+    "Artist": "Psych-A-Lite Show",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2124,
+    "Year": 1967,
+    "Date": "Jan 14",
+    "Weekday": "Saturday",
+    "Artist": "Sam The Sham & the Pharaohs featuring the Shamettes / Orphans",
+    "Price": "$2.00"
+  },
+  {
+    "ID": 2125,
+    "Year": 1967,
+    "Date": "Jan 15",
+    "Weekday": "Sunday",
+    "Artist": "Epics / Good Times",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2126,
+    "Year": 1967,
+    "Date": "Jan 19",
+    "Weekday": "Thursday",
+    "Artist": "Orphans & 7 other Cedar Rapids Bands",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2127,
+    "Year": 1967,
+    "Date": "Jan 21",
+    "Weekday": "Saturday",
+    "Artist": "Cryan Shames",
+    "Price": "$1.75"
+  },
+  {
+    "ID": 2128,
+    "Year": 1967,
+    "Date": "Jan 22",
+    "Weekday": "Sunday",
+    "Artist": "Renditions / Barons Four",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2129,
+    "Year": 1967,
+    "Date": "Jan 28",
+    "Weekday": "Saturday",
+    "Artist": "Vanguards",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2130,
+    "Year": 1967,
+    "Date": "Jan 29",
+    "Weekday": "Sunday",
+    "Artist": "Trade Winds / Host Of Others / Vanguards",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2131,
+    "Year": 1967,
+    "Date": "Feb 4",
+    "Weekday": "Saturday",
+    "Artist": "Orphans / Wandering Souls + 6 other Cedar Rapids Bands",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2132,
+    "Year": 1967,
+    "Date": "Feb 5",
+    "Weekday": "Sunday",
+    "Artist": "Knou / Restless Winds",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2133,
+    "Year": 1967,
+    "Date": "Feb 11",
+    "Weekday": "Saturday",
+    "Artist": "Orphans",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2134,
+    "Year": 1967,
+    "Date": "Feb 18",
+    "Weekday": "Saturday",
+    "Artist": "Renditions / Good Times",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 2135,
+    "Year": 1967,
+    "Date": "Feb 19",
+    "Weekday": "Sunday",
+    "Artist": "Classmen / Wandering Souls",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2136,
+    "Year": 1967,
+    "Date": "Feb 24",
+    "Weekday": "Friday",
+    "Artist": "Orphans",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2137,
+    "Year": 1967,
+    "Date": "Feb 25",
+    "Weekday": "Saturday",
+    "Artist": "Music Machine",
+    "Price": "$1.75"
+  },
+  {
+    "ID": 2138,
+    "Year": 1967,
+    "Date": "Feb 26",
+    "Weekday": "Sunday",
+    "Artist": "Dimensions / Organization",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2139,
+    "Year": 1967,
+    "Date": "Mar 4",
+    "Weekday": "Saturday",
+    "Artist": "Nickel Bag vs. Vanguards",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 2140,
+    "Year": 1967,
+    "Date": "Mar 5",
+    "Weekday": "Sunday",
+    "Artist": "Poison Ivy / Nickel Bag / Vanguards",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2141,
+    "Year": 1967,
+    "Date": "Mar 10",
+    "Weekday": "Friday",
+    "Artist": "Orphans + others",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2142,
+    "Year": 1967,
+    "Date": "Mar 11",
+    "Weekday": "Saturday",
+    "Artist": "Good Times / Poison Ivy",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 2143,
+    "Year": 1967,
+    "Date": "Mar 12",
+    "Weekday": "Sunday",
+    "Artist": "Uncle & The Anteaters / Barons Four",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2144,
+    "Year": 1967,
+    "Date": "Mar 17",
+    "Weekday": "Friday",
+    "Artist": "Casinos / Patriots",
+    "Price": "$2.00"
+  },
+  {
+    "ID": 2145,
+    "Year": 1967,
+    "Date": "Mar 18",
+    "Weekday": "Saturday",
+    "Artist": "Wandering Souls / Showmen",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 2146,
+    "Year": 1967,
+    "Date": "Mar 19",
+    "Weekday": "Sunday",
+    "Artist": "Distilfinque / Sound Society",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2147,
+    "Year": 1967,
+    "Date": "Mar 25",
+    "Weekday": "Saturday",
+    "Artist": "Sights & Sounds / Mug Wumps",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 2148,
+    "Year": 1967,
+    "Date": "Mar 26",
+    "Weekday": "Sunday",
+    "Artist": "New Showstoppers / Mug Wumps",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2149,
+    "Year": 1967,
+    "Date": "Mar 31",
+    "Weekday": "Friday",
+    "Artist": "Vanguards / Back Door Men",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2150,
+    "Year": 1967,
+    "Date": "Apr 1",
+    "Weekday": "Saturday",
+    "Artist": "Nickel Bag / Wandering Souls",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 2151,
+    "Year": 1967,
+    "Date": "Apr 2",
+    "Weekday": "Sunday",
+    "Artist": "Orphans / Mojos",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2152,
+    "Year": 1967,
+    "Date": "Apr 7",
+    "Weekday": "Friday",
+    "Artist": "Nickel Bag",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2153,
+    "Year": 1967,
+    "Date": "Apr 8",
+    "Weekday": "Saturday",
+    "Artist": "Pete Klint Quintet",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 2154,
+    "Year": 1967,
+    "Date": "Apr 9",
+    "Weekday": "Sunday",
+    "Artist": "Taxmen / Trade Winds",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2155,
+    "Year": 1967,
+    "Date": "Apr 14",
+    "Weekday": "Friday",
+    "Artist": "Group",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2156,
+    "Year": 1967,
+    "Date": "Apr 15",
+    "Weekday": "Saturday",
+    "Artist": "Orphans - Left Banke cancelled",
+    "Price": ""
+  },
+  {
+    "ID": 2157,
+    "Year": 1967,
+    "Date": "Apr 16",
+    "Weekday": "Sunday",
+    "Artist": "Legends / Hurts",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2158,
+    "Year": 1967,
+    "Date": "Apr 22",
+    "Weekday": "Saturday",
+    "Artist": "Fabulous Flippers",
+    "Price": "$1.75"
+  },
+  {
+    "ID": 2159,
+    "Year": 1967,
+    "Date": "Apr 28",
+    "Weekday": "Friday",
+    "Artist": "Orphans / Host Of Others / Dimensions / Renditions / Rebels + others",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2160,
+    "Year": 1967,
+    "Date": "Apr 29",
+    "Weekday": "Saturday",
+    "Artist": "Pete Klint Quintet",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 2161,
+    "Year": 1967,
+    "Date": "Apr 30",
+    "Weekday": "Sunday",
+    "Artist": "Pete Klint Quintet / Epics",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2162,
+    "Year": 1967,
+    "Date": "May 6",
+    "Weekday": "Saturday",
+    "Artist": "Orphans / Left Banke cancelled",
+    "Price": ""
+  },
+  {
+    "ID": 2163,
+    "Year": 1967,
+    "Date": "May 26",
+    "Weekday": "Friday",
+    "Artist": "Big Battle Of The Bands",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 2164,
+    "Year": 1967,
+    "Date": "May 27",
+    "Weekday": "Saturday",
+    "Artist": "Group",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 2165,
+    "Year": 1967,
+    "Date": "May 28",
+    "Weekday": "Sunday",
+    "Artist": "Orphans / surprise group",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2166,
+    "Year": 1967,
+    "Date": "May 29",
+    "Weekday": "Monday",
+    "Artist": "Legends",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 2167,
+    "Year": 1967,
+    "Date": "Jun 3",
+    "Weekday": "Saturday",
+    "Artist": "Host Of Others",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2168,
+    "Year": 1967,
+    "Date": "Jun 4",
+    "Weekday": "Sunday",
+    "Artist": "Orphans",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2169,
+    "Year": 1967,
+    "Date": "Jun 9",
+    "Weekday": "Friday",
+    "Artist": "Temtations",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2170,
+    "Year": 1967,
+    "Date": "Jun 11",
+    "Weekday": "Sunday",
+    "Artist": "Legends",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 2171,
+    "Year": 1967,
+    "Date": "Jun 16",
+    "Weekday": "Friday",
+    "Artist": "Agency / Rebels",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2172,
+    "Year": 1967,
+    "Date": "Jun 18",
+    "Weekday": "Sunday",
+    "Artist": "Surprise Band",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 2173,
+    "Year": 1967,
+    "Date": "Jun 21",
+    "Weekday": "Wednesday",
+    "Artist": "Dimensions",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2174,
+    "Year": 1967,
+    "Date": "Jun 24",
+    "Weekday": "Saturday",
+    "Artist": "Pete Klint Quintet",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 2175,
+    "Year": 1967,
+    "Date": "Jun 25",
+    "Weekday": "Sunday",
+    "Artist": "Legends",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 2176,
+    "Year": 1967,
+    "Date": "Jun 28",
+    "Weekday": "Wednesday",
+    "Artist": "Temtations",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2177,
+    "Year": 1967,
+    "Date": "Jun 30",
+    "Weekday": "Friday",
+    "Artist": "Dimensions",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2178,
+    "Year": 1967,
+    "Date": "Jul 2",
+    "Weekday": "Sunday",
+    "Artist": "Uncle & The Anteaters",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 2179,
+    "Year": 1967,
+    "Date": "Jul 9",
+    "Weekday": "Sunday",
+    "Artist": "Temtations",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 2180,
+    "Year": 1967,
+    "Date": "Jul 14",
+    "Weekday": "Friday",
+    "Artist": "Legends",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2181,
+    "Year": 1967,
+    "Date": "Jul 16",
+    "Weekday": "Sunday",
+    "Artist": "Temtations",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2182,
+    "Year": 1967,
+    "Date": "Jul 22",
+    "Weekday": "Saturday",
+    "Artist": "Left Banke / Flower Power",
+    "Price": "$2.00"
+  },
+  {
+    "ID": 2183,
+    "Year": 1967,
+    "Date": "Jul 23",
+    "Weekday": "Sunday",
+    "Artist": "Legends",
+    "Price": "$1.00"
+  }
+]

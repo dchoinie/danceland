@@ -1,0 +1,754 @@
+[
+  {
+    "ID": 2026,
+    "Year": 1966,
+    "Date": "Jan 1",
+    "Weekday": "Saturday",
+    "Artist": "Johnny & The Hurricanes",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 2027,
+    "Year": 1966,
+    "Date": "Jan 2",
+    "Weekday": "Sunday",
+    "Artist": "Al's Untouchables / Vanguards",
+    "Price": "75¢"
+  },
+  {
+    "ID": 2028,
+    "Year": 1966,
+    "Date": "Jan 7",
+    "Weekday": "Friday",
+    "Artist": "Saints",
+    "Price": "$1.00 / College ID 50¢"
+  },
+  {
+    "ID": 2029,
+    "Year": 1966,
+    "Date": "Jan 8",
+    "Weekday": "Saturday",
+    "Artist": "Gentrys",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 2030,
+    "Year": 1966,
+    "Date": "Jan 9",
+    "Weekday": "Sunday",
+    "Artist": "Showmen / Wandering Souls",
+    "Price": "75¢"
+  },
+  {
+    "ID": 2031,
+    "Year": 1966,
+    "Date": "Jan 14",
+    "Weekday": "Friday",
+    "Artist": "Stompers",
+    "Price": "$1.00 / College ID 50¢"
+  },
+  {
+    "ID": 2032,
+    "Year": 1966,
+    "Date": "Jan 15",
+    "Weekday": "Saturday",
+    "Artist": "Cannibal & The Headhunters",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 2033,
+    "Year": 1966,
+    "Date": "Jan 16",
+    "Weekday": "Sunday",
+    "Artist": "Embalmers / Coachmen IV",
+    "Price": "75¢"
+  },
+  {
+    "ID": 2034,
+    "Year": 1966,
+    "Date": "Jan 21",
+    "Weekday": "Friday",
+    "Artist": "Al's Untouchables",
+    "Price": "$1.00 / College ID 50¢"
+  },
+  {
+    "ID": 2035,
+    "Year": 1966,
+    "Date": "Jan 22",
+    "Weekday": "Saturday",
+    "Artist": "McCoys",
+    "Price": "$1.75"
+  },
+  {
+    "ID": 2036,
+    "Year": 1966,
+    "Date": "Jan 23",
+    "Weekday": "Sunday",
+    "Artist": "Uncle & The Anteaters / Reverberations",
+    "Price": "75¢"
+  },
+  {
+    "ID": 2037,
+    "Year": 1966,
+    "Date": "Jan 28",
+    "Weekday": "Friday",
+    "Artist": "Legends",
+    "Price": "$1.00 / College ID 50¢"
+  },
+  {
+    "ID": 2038,
+    "Year": 1966,
+    "Date": "Jan 29",
+    "Weekday": "Saturday",
+    "Artist": "Jr. Walker & The All Stars",
+    "Price": "$1.75"
+  },
+  {
+    "ID": 2039,
+    "Year": 1966,
+    "Date": "Jan 30",
+    "Weekday": "Sunday",
+    "Artist": "Al's Untouchables / Poison Ivy",
+    "Price": "75¢"
+  },
+  {
+    "ID": 2040,
+    "Year": 1966,
+    "Date": "Feb 4",
+    "Weekday": "Friday",
+    "Artist": "Patriots",
+    "Price": "$1.00 / College ID 50¢"
+  },
+  {
+    "ID": 2041,
+    "Year": 1966,
+    "Date": "Feb 5",
+    "Weekday": "Saturday",
+    "Artist": "Vogues / Jonathan Clarke & His Colonial Ruffians",
+    "Price": "$1.75"
+  },
+  {
+    "ID": 2042,
+    "Year": 1966,
+    "Date": "Feb 6",
+    "Weekday": "Sunday",
+    "Artist": "Temtations / Alternatives",
+    "Price": "75¢"
+  },
+  {
+    "ID": 2043,
+    "Year": 1966,
+    "Date": "Feb 11",
+    "Weekday": "Friday",
+    "Artist": "Al's Untouchables",
+    "Price": "$1.00 / College ID 50¢"
+  },
+  {
+    "ID": 2044,
+    "Year": 1966,
+    "Date": "Feb 12",
+    "Weekday": "Saturday",
+    "Artist": "T-Bones",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 2045,
+    "Year": 1966,
+    "Date": "Feb 13",
+    "Weekday": "Sunday",
+    "Artist": "Wandering Souls / Hurts",
+    "Price": "75¢"
+  },
+  {
+    "ID": 2046,
+    "Year": 1966,
+    "Date": "Feb 18",
+    "Weekday": "Friday",
+    "Artist": "Escorts",
+    "Price": "$1.00 / College ID 50¢"
+  },
+  {
+    "ID": 2047,
+    "Year": 1966,
+    "Date": "Feb 19",
+    "Weekday": "Saturday",
+    "Artist": "Turtles",
+    "Price": "$1.75"
+  },
+  {
+    "ID": 2048,
+    "Year": 1966,
+    "Date": "Feb 20",
+    "Weekday": "Sunday",
+    "Artist": "Panics / Henchmen",
+    "Price": "75¢"
+  },
+  {
+    "ID": 2049,
+    "Year": 1966,
+    "Date": "Feb 25",
+    "Weekday": "Friday",
+    "Artist": "Stompers",
+    "Price": "$1.00 / College ID 50¢"
+  },
+  {
+    "ID": 2050,
+    "Year": 1966,
+    "Date": "Feb 26",
+    "Weekday": "Saturday",
+    "Artist": "Jerry Lee Lewis",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 2051,
+    "Year": 1966,
+    "Date": "Feb 27",
+    "Weekday": "Sunday",
+    "Artist": "Temtations / Uncle & The Anteaters",
+    "Price": "75¢"
+  },
+  {
+    "ID": 2052,
+    "Year": 1966,
+    "Date": "Mar 4",
+    "Weekday": "Friday",
+    "Artist": "Al's Untouchables",
+    "Price": "$1.00 / College ID 50¢"
+  },
+  {
+    "ID": 2053,
+    "Year": 1966,
+    "Date": "Mar 5",
+    "Weekday": "Saturday",
+    "Artist": "New Colony Six",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 2054,
+    "Year": 1966,
+    "Date": "Mar 6",
+    "Weekday": "Sunday",
+    "Artist": "Rogues / Embalmers",
+    "Price": "75¢"
+  },
+  {
+    "ID": 2055,
+    "Year": 1966,
+    "Date": "Mar 11",
+    "Weekday": "Friday",
+    "Artist": "Saints",
+    "Price": "$1.00 / College ID 50¢"
+  },
+  {
+    "ID": 2056,
+    "Year": 1966,
+    "Date": "Mar 12",
+    "Weekday": "Saturday",
+    "Artist": "Little People",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2057,
+    "Year": 1966,
+    "Date": "Mar 13",
+    "Weekday": "Sunday",
+    "Artist": "Coachmen IV / Suspicions",
+    "Price": "75¢"
+  },
+  {
+    "ID": 2058,
+    "Year": 1966,
+    "Date": "Mar 18",
+    "Weekday": "Friday",
+    "Artist": "7 Sons",
+    "Price": "$1.00 / College ID 50¢"
+  },
+  {
+    "ID": 2059,
+    "Year": 1966,
+    "Date": "Mar 19",
+    "Weekday": "Saturday",
+    "Artist": "Pilgrims",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 2060,
+    "Year": 1966,
+    "Date": "Mar 20",
+    "Weekday": "Sunday",
+    "Artist": "Temtations / Show Stoppers",
+    "Price": "75¢"
+  },
+  {
+    "ID": 2061,
+    "Year": 1966,
+    "Date": "Mar 25",
+    "Weekday": "Friday",
+    "Artist": "Stompers",
+    "Price": "$1,00 / College ID 50¢"
+  },
+  {
+    "ID": 2062,
+    "Year": 1966,
+    "Date": "Mar 26",
+    "Weekday": "Saturday",
+    "Artist": "Gary Lewis & The Playboys",
+    "Price": "$2.00"
+  },
+  {
+    "ID": 2063,
+    "Year": 1966,
+    "Date": "Mar 27",
+    "Weekday": "Sunday",
+    "Artist": "Al's Untouchables / Apollos",
+    "Price": "75¢"
+  },
+  {
+    "ID": 2064,
+    "Year": 1966,
+    "Date": "Apr 1",
+    "Weekday": "Friday",
+    "Artist": "Alternatives",
+    "Price": "$1.00 / College ID 50¢"
+  },
+  {
+    "ID": 2065,
+    "Year": 1966,
+    "Date": "Apr 2",
+    "Weekday": "Saturday",
+    "Artist": "Freddy Cannon / The Alternatives",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 2066,
+    "Year": 1966,
+    "Date": "Apr 3",
+    "Weekday": "Sunday",
+    "Artist": "Al's Untouchables / Apostles",
+    "Price": "75¢"
+  },
+  {
+    "ID": 2067,
+    "Year": 1966,
+    "Date": "Apr 8",
+    "Weekday": "Friday",
+    "Artist": "Uncle & The Anteaters",
+    "Price": "$1.00 / College ID  50¢"
+  },
+  {
+    "ID": 2068,
+    "Year": 1966,
+    "Date": "Apr 9",
+    "Weekday": "Saturday",
+    "Artist": "Hollies / Dark Knights",
+    "Price": "$2.00"
+  },
+  {
+    "ID": 2069,
+    "Year": 1966,
+    "Date": "Apr 10",
+    "Weekday": "Sunday",
+    "Artist": "Countdowns / Henchmen",
+    "Price": "75¢"
+  },
+  {
+    "ID": 2070,
+    "Year": 1966,
+    "Date": "Apr 15",
+    "Weekday": "Friday",
+    "Artist": "Al's Untouchables",
+    "Price": "$1.00 / College ID 50¢"
+  },
+  {
+    "ID": 2071,
+    "Year": 1966,
+    "Date": "Apr 16",
+    "Weekday": "Saturday",
+    "Artist": "Coachmen",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 2072,
+    "Year": 1966,
+    "Date": "Apr 17",
+    "Weekday": "Sunday",
+    "Artist": "4 Lords / Bridgestones",
+    "Price": "75¢"
+  },
+  {
+    "ID": 2073,
+    "Year": 1966,
+    "Date": "Apr 22",
+    "Weekday": "Friday",
+    "Artist": "Legends",
+    "Price": "$1.00 / College ID 50¢"
+  },
+  {
+    "ID": 2074,
+    "Year": 1966,
+    "Date": "Apr 23",
+    "Weekday": "Saturday",
+    "Artist": "Gentrys",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 2075,
+    "Year": 1966,
+    "Date": "Apr 24",
+    "Weekday": "Sunday",
+    "Artist": "Urchins / Ramchargers",
+    "Price": "75¢"
+  },
+  {
+    "ID": 2076,
+    "Year": 1966,
+    "Date": "Apr 29",
+    "Weekday": "Friday",
+    "Artist": "Stompers",
+    "Price": "$1.00 / College ID 50¢"
+  },
+  {
+    "ID": 2077,
+    "Year": 1966,
+    "Date": "Apr 30",
+    "Weekday": "Saturday",
+    "Artist": "Dee Jay & The Runaways",
+    "Price": "&1.50"
+  },
+  {
+    "ID": 2078,
+    "Year": 1966,
+    "Date": "May 1",
+    "Weekday": "Sunday",
+    "Artist": "Animals / Al's Untouchables / Stompers",
+    "Price": "$2.00"
+  },
+  {
+    "ID": 2079,
+    "Year": 1966,
+    "Date": "May 6",
+    "Weekday": "Friday",
+    "Artist": "Patriots",
+    "Price": "$1.00 / College ID 50¢"
+  },
+  {
+    "ID": 2080,
+    "Year": 1966,
+    "Date": "May 7",
+    "Weekday": "Saturday",
+    "Artist": "Lou Christie / Fabulous Thunderbolts",
+    "Price": "$1.75"
+  },
+  {
+    "ID": 2081,
+    "Year": 1966,
+    "Date": "May 8",
+    "Weekday": "Sunday",
+    "Artist": "Quarrymen / Larrodoes",
+    "Price": "75¢"
+  },
+  {
+    "ID": 2082,
+    "Year": 1966,
+    "Date": "May 13",
+    "Weekday": "Friday",
+    "Artist": "Hurts",
+    "Price": "$1.00 / College ID 50¢"
+  },
+  {
+    "ID": 2083,
+    "Year": 1966,
+    "Date": "May 14",
+    "Weekday": "Saturday",
+    "Artist": "Marketts",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 2084,
+    "Year": 1966,
+    "Date": "May 15",
+    "Weekday": "Sunday",
+    "Artist": "Vanguards / Misfits",
+    "Price": "75¢"
+  },
+  {
+    "ID": 2085,
+    "Year": 1966,
+    "Date": "May 20",
+    "Weekday": "Friday",
+    "Artist": "Stompers",
+    "Price": "$1.00 / College ID 50¢"
+  },
+  {
+    "ID": 2086,
+    "Year": 1966,
+    "Date": "May 21",
+    "Weekday": "Saturday",
+    "Artist": "Kingsmen",
+    "Price": "$2.00"
+  },
+  {
+    "ID": 2087,
+    "Year": 1966,
+    "Date": "May 22",
+    "Weekday": "Sunday",
+    "Artist": "Wandering Souls / Embalmers / Van Dells / New Showmen",
+    "Price": "75¢"
+  },
+  {
+    "ID": 2088,
+    "Year": 1966,
+    "Date": "May 27",
+    "Weekday": "Friday",
+    "Artist": "Boys Next Door",
+    "Price": "$1.25 / College ID 50¢"
+  },
+  {
+    "ID": 2089,
+    "Year": 1966,
+    "Date": "May 28",
+    "Weekday": "Saturday",
+    "Artist": "Johnny & The Hurricanes",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 2090,
+    "Year": 1966,
+    "Date": "Jun 3",
+    "Weekday": "Friday",
+    "Artist": "4 Lords",
+    "Price": "$1.00 / College ID 50¢"
+  },
+  {
+    "ID": 2091,
+    "Year": 1966,
+    "Date": "Jun 4",
+    "Weekday": "Saturday",
+    "Artist": "Mitch Ryder & The Detroit Wheels / Nocturnes",
+    "Price": "$1.75"
+  },
+  {
+    "ID": 2092,
+    "Year": 1966,
+    "Date": "Jun 10",
+    "Weekday": "Friday",
+    "Artist": "Patriots",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2093,
+    "Year": 1966,
+    "Date": "Jun 11",
+    "Weekday": "Saturday",
+    "Artist": "Stompers",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2094,
+    "Year": 1966,
+    "Date": "Jun 17",
+    "Weekday": "Friday",
+    "Artist": "Legends",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2095,
+    "Year": 1966,
+    "Date": "Jun 18",
+    "Weekday": "Saturday",
+    "Artist": "7 Sons",
+    "Price": "&1.50"
+  },
+  {
+    "ID": 2096,
+    "Year": 1966,
+    "Date": "Jun 24",
+    "Weekday": "Friday",
+    "Artist": "Uncle & The Anteaters",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2097,
+    "Year": 1966,
+    "Date": "Jun 25",
+    "Weekday": "Saturday",
+    "Artist": "Al's Untouchables",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2098,
+    "Year": 1966,
+    "Date": "Jul 2",
+    "Weekday": "Saturday",
+    "Artist": "Quarrymen",
+    "Price": ""
+  },
+  {
+    "ID": 2099,
+    "Year": 1966,
+    "Date": "Aug 6",
+    "Weekday": "Saturday",
+    "Artist": "Patriots",
+    "Price": ""
+  },
+  {
+    "ID": 2100,
+    "Year": 1966,
+    "Date": "Nov 3",
+    "Weekday": "Thursday",
+    "Artist": "Vanguards / Impalas",
+    "Price": "Free"
+  },
+  {
+    "ID": 2101,
+    "Year": 1966,
+    "Date": "Nov 5",
+    "Weekday": "Saturday",
+    "Artist": "Uncle & The Anteaters",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2102,
+    "Year": 1966,
+    "Date": "Nov 6",
+    "Weekday": "Sunday",
+    "Artist": "2 Great Bands",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2103,
+    "Year": 1966,
+    "Date": "Nov 12",
+    "Weekday": "Saturday",
+    "Artist": "Pete Klint Quintet",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 2104,
+    "Year": 1966,
+    "Date": "Nov 13",
+    "Weekday": "Sunday",
+    "Artist": "2 Bands",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2105,
+    "Year": 1966,
+    "Date": "Nov 19",
+    "Weekday": "Saturday",
+    "Artist": "Poison Ivy",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2106,
+    "Year": 1966,
+    "Date": "Nov 20",
+    "Weekday": "Sunday",
+    "Artist": "Sights & Sounds / Host Of Others",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2107,
+    "Year": 1966,
+    "Date": "Nov 23",
+    "Weekday": "Wednesday",
+    "Artist": "Left Banke / Vanguards",
+    "Price": "$1.75"
+  },
+  {
+    "ID": 2108,
+    "Year": 1966,
+    "Date": "Nov 26",
+    "Weekday": "Saturday",
+    "Artist": "Je-Rons",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2109,
+    "Year": 1966,
+    "Date": "Nov 27",
+    "Weekday": "Sunday",
+    "Artist": "Showmen / Je-Rons",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2110,
+    "Year": 1966,
+    "Date": "Dec 3",
+    "Weekday": "Saturday",
+    "Artist": "Sights & Sounds",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2111,
+    "Year": 1966,
+    "Date": "Dec 4",
+    "Weekday": "Sunday",
+    "Artist": "Elves / Undertakers",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2112,
+    "Year": 1966,
+    "Date": "Dec 10",
+    "Weekday": "Saturday",
+    "Artist": "Patriots",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2113,
+    "Year": 1966,
+    "Date": "Dec 11",
+    "Weekday": "Sunday",
+    "Artist": "Sus-Penders / Back Door Men",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2114,
+    "Year": 1966,
+    "Date": "Dec 17",
+    "Weekday": "Saturday",
+    "Artist": "Quarrymen",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2115,
+    "Year": 1966,
+    "Date": "Dec 18",
+    "Weekday": "Sunday",
+    "Artist": "Wandering Souls / Dimensions",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2116,
+    "Year": 1966,
+    "Date": "Dec 23",
+    "Weekday": "Friday",
+    "Artist": "Question Mark & The Mysterians / Host Of Others",
+    "Price": "$2.00"
+  },
+  {
+    "ID": 2117,
+    "Year": 1966,
+    "Date": "Dec 24",
+    "Weekday": "Saturday",
+    "Artist": "No Dance - Christmas Eve",
+    "Price": ""
+  },
+  {
+    "ID": 2118,
+    "Year": 1966,
+    "Date": "Dec 25",
+    "Weekday": "Sunday",
+    "Artist": "Kynd / Defenders",
+    "Price": "$1.00"
+  },
+  {
+    "ID": 2119,
+    "Year": 1966,
+    "Date": "Dec 31",
+    "Weekday": "Saturday",
+    "Artist": "Pete Klint Quintet",
+    "Price": "$1.50"
+  }
+]

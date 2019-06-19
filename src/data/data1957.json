@@ -1,0 +1,1362 @@
+[
+  {
+    "ID": 523,
+    "Year": 1957,
+    "Date": "Jan 2",
+    "Weekday": "Wednesday",
+    "Artist": "Joe Doakes & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 524,
+    "Year": 1957,
+    "Date": "Jan 4",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His MIdwesterners",
+    "Price": ""
+  },
+  {
+    "ID": 525,
+    "Year": 1957,
+    "Date": "Jan 5",
+    "Weekday": "Saturday",
+    "Artist": "Buddy Moore Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 526,
+    "Year": 1957,
+    "Date": "Jan 9",
+    "Weekday": "Wednesday",
+    "Artist": "Bob Calame & His Sparkling Rhythms",
+    "Price": ""
+  },
+  {
+    "ID": 527,
+    "Year": 1957,
+    "Date": "Jan 11",
+    "Weekday": "Friday",
+    "Artist": "Porter Wagoner / Tom Owen's Cowboys",
+    "Price": ""
+  },
+  {
+    "ID": 528,
+    "Year": 1957,
+    "Date": "Jan 12",
+    "Weekday": "Saturday",
+    "Artist": "Jack Payne's Ambassadors",
+    "Price": ""
+  },
+  {
+    "ID": 529,
+    "Year": 1957,
+    "Date": "Jan 16",
+    "Weekday": "Wednesday",
+    "Artist": "Russ Carlyle & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 530,
+    "Year": 1957,
+    "Date": "Jan 18",
+    "Weekday": "Friday",
+    "Artist": "Pug's Western Playboys",
+    "Price": ""
+  },
+  {
+    "ID": 531,
+    "Year": 1957,
+    "Date": "Jan 19",
+    "Weekday": "Saturday",
+    "Artist": "Bobby Lindeman & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 532,
+    "Year": 1957,
+    "Date": "Jan 23",
+    "Weekday": "Wednesday",
+    "Artist": "Bobby Lindeman & His Orchestra",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 533,
+    "Year": 1957,
+    "Date": "Jan 25",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His MIdwesterners",
+    "Price": ""
+  },
+  {
+    "ID": 534,
+    "Year": 1957,
+    "Date": "Jan 26",
+    "Weekday": "Saturday",
+    "Artist": "Vance Dixon Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 535,
+    "Year": 1957,
+    "Date": "Jan 30",
+    "Weekday": "Wednesday",
+    "Artist": "Chuck Foster & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 536,
+    "Year": 1957,
+    "Date": "Feb 1",
+    "Weekday": "Friday",
+    "Artist": "Jim Reeves & His Wagon Masters",
+    "Price": ""
+  },
+  {
+    "ID": 537,
+    "Year": 1957,
+    "Date": "Feb 2",
+    "Weekday": "Saturday",
+    "Artist": "Scott-Clark Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 538,
+    "Year": 1957,
+    "Date": "Feb 5",
+    "Weekday": "Tuesday",
+    "Artist": "Commanders",
+    "Price": ""
+  },
+  {
+    "ID": 539,
+    "Year": 1957,
+    "Date": "Feb 6",
+    "Weekday": "Wednesday",
+    "Artist": "Dell Clayton & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 540,
+    "Year": 1957,
+    "Date": "Feb 8",
+    "Weekday": "Friday",
+    "Artist": "Pug's Western Playboys",
+    "Price": ""
+  },
+  {
+    "ID": 541,
+    "Year": 1957,
+    "Date": "Feb 9",
+    "Weekday": "Saturday",
+    "Artist": "Don Shaw & His Trombonnaires",
+    "Price": ""
+  },
+  {
+    "ID": 542,
+    "Year": 1957,
+    "Date": "Feb 13",
+    "Weekday": "Wednesday",
+    "Artist": "Buddy Moore Orchestra",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 543,
+    "Year": 1957,
+    "Date": "Feb 15",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His Midwesterners",
+    "Price": ""
+  },
+  {
+    "ID": 544,
+    "Year": 1957,
+    "Date": "Feb 16",
+    "Weekday": "Saturday",
+    "Artist": "Bobby Lindeman & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 545,
+    "Year": 1957,
+    "Date": "Feb 20",
+    "Weekday": "Wednesday",
+    "Artist": "Bobby Lindeman & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 546,
+    "Year": 1957,
+    "Date": "Feb 22",
+    "Weekday": "Friday",
+    "Artist": "Frank Buhr & His Midwest Ramblers",
+    "Price": ""
+  },
+  {
+    "ID": 547,
+    "Year": 1957,
+    "Date": "Feb 23",
+    "Weekday": "Saturday",
+    "Artist": "Charlie Trussell & His KXEL Airliners",
+    "Price": ""
+  },
+  {
+    "ID": 548,
+    "Year": 1957,
+    "Date": "Feb 26",
+    "Weekday": "Tuesday",
+    "Artist": "KXEL Midwest Caravan",
+    "Price": ""
+  },
+  {
+    "ID": 549,
+    "Year": 1957,
+    "Date": "Feb 27",
+    "Weekday": "Wednesday",
+    "Artist": "Buddy Moore Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 550,
+    "Year": 1957,
+    "Date": "Mar 1",
+    "Weekday": "Friday",
+    "Artist": "Johnny Cash / Pug's Western Playboys",
+    "Price": ""
+  },
+  {
+    "ID": 551,
+    "Year": 1957,
+    "Date": "Mar 2",
+    "Weekday": "Saturday",
+    "Artist": "Buddy Moore Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 552,
+    "Year": 1957,
+    "Date": "Mar 5",
+    "Weekday": "Tuesday",
+    "Artist": "Louie DeKlotz & His Orchestra / Pug's Western Playboys",
+    "Price": ""
+  },
+  {
+    "ID": 553,
+    "Year": 1957,
+    "Date": "Mar 6",
+    "Weekday": "Wednesday",
+    "Artist": "No Dance - Ash Wednesday",
+    "Price": ""
+  },
+  {
+    "ID": 554,
+    "Year": 1957,
+    "Date": "Mar 8",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His MIdwesterners",
+    "Price": ""
+  },
+  {
+    "ID": 555,
+    "Year": 1957,
+    "Date": "Mar 9",
+    "Weekday": "Saturday",
+    "Artist": "Carroll Baker & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 556,
+    "Year": 1957,
+    "Date": "Mar 13",
+    "Weekday": "Wednesday",
+    "Artist": "Guy Lombardo & His Royal Canadians",
+    "Price": "$2.50 @ door / $2.25 advance"
+  },
+  {
+    "ID": 557,
+    "Year": 1957,
+    "Date": "Mar 15",
+    "Weekday": "Friday",
+    "Artist": "Tom Owen's Cowboys",
+    "Price": ""
+  },
+  {
+    "ID": 558,
+    "Year": 1957,
+    "Date": "Mar 16",
+    "Weekday": "Saturday",
+    "Artist": "Scott-Clark Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 559,
+    "Year": 1957,
+    "Date": "Mar 17",
+    "Weekday": "Sunday",
+    "Artist": "Kenny Hofer & His Midwesterners",
+    "Price": ""
+  },
+  {
+    "ID": 560,
+    "Year": 1957,
+    "Date": "Mar 20",
+    "Weekday": "Wednesday",
+    "Artist": "Buddy Moore Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 561,
+    "Year": 1957,
+    "Date": "Mar 22",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His Midwesterners",
+    "Price": ""
+  },
+  {
+    "ID": 562,
+    "Year": 1957,
+    "Date": "Mar 23",
+    "Weekday": "Saturday",
+    "Artist": "Vance Dixon Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 563,
+    "Year": 1957,
+    "Date": "Mar 27",
+    "Weekday": "Wednesday",
+    "Artist": "Bob Calame & His Sparkling Rhythms",
+    "Price": ""
+  },
+  {
+    "ID": 564,
+    "Year": 1957,
+    "Date": "Mar 29",
+    "Weekday": "Friday",
+    "Artist": "Frank Buhr & His Midwest Ramblers / Floyd Warren's Radio Ramblers with Montana Mary",
+    "Price": ""
+  },
+  {
+    "ID": 565,
+    "Year": 1957,
+    "Date": "Mar 30",
+    "Weekday": "Saturday",
+    "Artist": "Jimmy Smith & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 566,
+    "Year": 1957,
+    "Date": "Apr 3",
+    "Weekday": "Wednesday",
+    "Artist": "Bobby Lindeman & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 567,
+    "Year": 1957,
+    "Date": "Apr 5",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His Midwesterners",
+    "Price": ""
+  },
+  {
+    "ID": 568,
+    "Year": 1957,
+    "Date": "Apr 6",
+    "Weekday": "Saturday",
+    "Artist": "Bobby Lindeman & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 569,
+    "Year": 1957,
+    "Date": "Apr 10",
+    "Weekday": "Wednesday",
+    "Artist": "Al Galante",
+    "Price": ""
+  },
+  {
+    "ID": 570,
+    "Year": 1957,
+    "Date": "Apr 12",
+    "Weekday": "Friday",
+    "Artist": "Tom Owen's Cowboys",
+    "Price": ""
+  },
+  {
+    "ID": 571,
+    "Year": 1957,
+    "Date": "Apr 13",
+    "Weekday": "Saturday",
+    "Artist": "Carroll Baker & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 572,
+    "Year": 1957,
+    "Date": "Apr 17",
+    "Weekday": "Wednesday",
+    "Artist": "Louie DeKlotz & His Orchestra",
+    "Price": "Girls 50¢ till 9"
+  },
+  {
+    "ID": 573,
+    "Year": 1957,
+    "Date": "Apr 19",
+    "Weekday": "Friday",
+    "Artist": "KXEL MIdwest Carvan",
+    "Price": ""
+  },
+  {
+    "ID": 574,
+    "Year": 1957,
+    "Date": "Apr 20",
+    "Weekday": "Saturday",
+    "Artist": "Jack Payne's Ambassadors",
+    "Price": ""
+  },
+  {
+    "ID": 575,
+    "Year": 1957,
+    "Date": "Apr 24",
+    "Weekday": "Wednesday",
+    "Artist": "Bobby Lindeman & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 576,
+    "Year": 1957,
+    "Date": "Apr 26",
+    "Weekday": "Friday",
+    "Artist": "Pug's Western Playboys",
+    "Price": ""
+  },
+  {
+    "ID": 577,
+    "Year": 1957,
+    "Date": "Apr 27",
+    "Weekday": "Saturday",
+    "Artist": "Vance Dixon Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 578,
+    "Year": 1957,
+    "Date": "Apr 28",
+    "Weekday": "Sunday",
+    "Artist": "St. Matthews Church Dance",
+    "Price": ""
+  },
+  {
+    "ID": 579,
+    "Year": 1957,
+    "Date": "Apr 29",
+    "Weekday": "Monday",
+    "Artist": "Wedding Dance - Charles Cerveny / Ellen Perrin",
+    "Price": ""
+  },
+  {
+    "ID": 580,
+    "Year": 1957,
+    "Date": "May 1",
+    "Weekday": "Wednesday",
+    "Artist": "Bob Calame & His Sparkling Rhythms",
+    "Price": ""
+  },
+  {
+    "ID": 581,
+    "Year": 1957,
+    "Date": "May 3",
+    "Weekday": "Friday",
+    "Artist": "Ray Price / Kenny Hofer & His Midwesterners",
+    "Price": ""
+  },
+  {
+    "ID": 582,
+    "Year": 1957,
+    "Date": "May 4",
+    "Weekday": "Saturday",
+    "Artist": "Buddy Moore Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 583,
+    "Year": 1957,
+    "Date": "May 8",
+    "Weekday": "Wednesday",
+    "Artist": "Don Glasser & His Orchestra featuring \"Miss Energy\" Lois Costello",
+    "Price": ""
+  },
+  {
+    "ID": 584,
+    "Year": 1957,
+    "Date": "May 10",
+    "Weekday": "Friday",
+    "Artist": "Tom Owen's Cowboys",
+    "Price": ""
+  },
+  {
+    "ID": 585,
+    "Year": 1957,
+    "Date": "May 11",
+    "Weekday": "Saturday",
+    "Artist": "Scott-Clark Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 586,
+    "Year": 1957,
+    "Date": "May 14",
+    "Weekday": "Tuesday",
+    "Artist": "Whoopee\" John Wilfahrt & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 587,
+    "Year": 1957,
+    "Date": "May 15",
+    "Weekday": "Wednesday",
+    "Artist": "Ronnie Bartley & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 588,
+    "Year": 1957,
+    "Date": "May 17",
+    "Weekday": "Friday",
+    "Artist": "Pug's Western Playboys",
+    "Price": ""
+  },
+  {
+    "ID": 589,
+    "Year": 1957,
+    "Date": "May 18",
+    "Weekday": "Saturday",
+    "Artist": "Carroll Baker & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 590,
+    "Year": 1957,
+    "Date": "May 22",
+    "Weekday": "Wednesday",
+    "Artist": "Dell Clayton & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 591,
+    "Year": 1957,
+    "Date": "May 24",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His MIdwesterners",
+    "Price": ""
+  },
+  {
+    "ID": 592,
+    "Year": 1957,
+    "Date": "May 25",
+    "Weekday": "Saturday",
+    "Artist": "Boby Lindeman & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 593,
+    "Year": 1957,
+    "Date": "May 29",
+    "Weekday": "Wednesday",
+    "Artist": "Don Shaw & His Trombonnaires",
+    "Price": ""
+  },
+  {
+    "ID": 594,
+    "Year": 1957,
+    "Date": "May 31",
+    "Weekday": "Friday",
+    "Artist": "Marty Robbins / Lee Emerson / KXEL Midwest Caravan",
+    "Price": ""
+  },
+  {
+    "ID": 595,
+    "Year": 1957,
+    "Date": "Jun 1",
+    "Weekday": "Saturday",
+    "Artist": "Don Shaw & His Trombonnaires",
+    "Price": ""
+  },
+  {
+    "ID": 596,
+    "Year": 1957,
+    "Date": "Jun 5",
+    "Weekday": "Wednesday",
+    "Artist": "Louie DeKlotz & His Orchestra",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 597,
+    "Year": 1957,
+    "Date": "Jun 7",
+    "Weekday": "Friday",
+    "Artist": "Floyd Warren's Radio Ramblers with Montana Mary",
+    "Price": ""
+  },
+  {
+    "ID": 598,
+    "Year": 1957,
+    "Date": "Jun 8",
+    "Weekday": "Saturday",
+    "Artist": "Jack Payne's Ambassadors",
+    "Price": "Ladies 50¢ till 9 / 89¢ after + tax"
+  },
+  {
+    "ID": 599,
+    "Year": 1957,
+    "Date": "Jun 12",
+    "Weekday": "Wednesday",
+    "Artist": "Buddy Moore Orchestra",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 600,
+    "Year": 1957,
+    "Date": "Jun 14",
+    "Weekday": "Friday",
+    "Artist": "Leroy Van Dyke / Pug's Western Playboys",
+    "Price": "$1.00 till 9 / $1.25 after"
+  },
+  {
+    "ID": 601,
+    "Year": 1957,
+    "Date": "Jun 15",
+    "Weekday": "Saturday",
+    "Artist": "Carroll Baker & His Orchestra",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 602,
+    "Year": 1957,
+    "Date": "Jun 19",
+    "Weekday": "Wednesday",
+    "Artist": "Bobby Lindeman & His Orchestra",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 603,
+    "Year": 1957,
+    "Date": "Jun 21",
+    "Weekday": "Friday",
+    "Artist": "Tom Owen's Cowboys",
+    "Price": ""
+  },
+  {
+    "ID": 604,
+    "Year": 1957,
+    "Date": "Jun 22",
+    "Weekday": "Saturday",
+    "Artist": "Jimmy Smith & His Orchestra",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 605,
+    "Year": 1957,
+    "Date": "Jun 26",
+    "Weekday": "Wednesday",
+    "Artist": "Vance Dixon Orchestra",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 606,
+    "Year": 1957,
+    "Date": "Jun 28",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His MIdwesterners",
+    "Price": ""
+  },
+  {
+    "ID": 607,
+    "Year": 1957,
+    "Date": "Jun 29",
+    "Weekday": "Saturday",
+    "Artist": "Scott-Clark Orchestra",
+    "Price": "Girls 50¢ till 9"
+  },
+  {
+    "ID": 608,
+    "Year": 1957,
+    "Date": "Jul 3",
+    "Weekday": "Wednesday",
+    "Artist": "Buddy Moore Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 609,
+    "Year": 1957,
+    "Date": "Jul 5",
+    "Weekday": "Friday",
+    "Artist": "Pug's Western Playboys",
+    "Price": ""
+  },
+  {
+    "ID": 610,
+    "Year": 1957,
+    "Date": "Jul 6",
+    "Weekday": "Saturday",
+    "Artist": "Carroll Baker & His Orchestra",
+    "Price": "Ladies 50¢ - Men 75¢ till 9 / 89¢ after + tax"
+  },
+  {
+    "ID": 611,
+    "Year": 1957,
+    "Date": "Jul 10",
+    "Weekday": "Wednesday",
+    "Artist": "Bob Calame & His Sparkling Rhythms",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 612,
+    "Year": 1957,
+    "Date": "Jul 12",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His MIdwesterners",
+    "Price": ""
+  },
+  {
+    "ID": 613,
+    "Year": 1957,
+    "Date": "Jul 13",
+    "Weekday": "Saturday",
+    "Artist": "Don Shaw & His Trombonnaires",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 614,
+    "Year": 1957,
+    "Date": "Jul 17",
+    "Weekday": "Wednesday",
+    "Artist": "Vance Dixon Orchestra",
+    "Price": "Ladies 50¢ - Men 75¢ till 9"
+  },
+  {
+    "ID": 615,
+    "Year": 1957,
+    "Date": "Jul 19",
+    "Weekday": "Friday",
+    "Artist": "Leon McAuliffe & His Cimarron Boys",
+    "Price": "$1.00 till 9 / $1.50 after"
+  },
+  {
+    "ID": 616,
+    "Year": 1957,
+    "Date": "Jul 20",
+    "Weekday": "Saturday",
+    "Artist": "Bobby Lindeman & His Orchestra",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 617,
+    "Year": 1957,
+    "Date": "Jul 24",
+    "Weekday": "Wednesday",
+    "Artist": "Bobby Lindeman & His Orchestra",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 618,
+    "Year": 1957,
+    "Date": "Jul 26",
+    "Weekday": "Friday",
+    "Artist": "KXEL Midwest Caravan",
+    "Price": ""
+  },
+  {
+    "ID": 619,
+    "Year": 1957,
+    "Date": "Jul 27",
+    "Weekday": "Saturday",
+    "Artist": "Bert Lavine's Ambassadors",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 620,
+    "Year": 1957,
+    "Date": "Jul 31",
+    "Weekday": "Wednesday",
+    "Artist": "Don Shaw & His Trombonnaires",
+    "Price": ""
+  },
+  {
+    "ID": 621,
+    "Year": 1957,
+    "Date": "Aug 2",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His Midwesterners",
+    "Price": ""
+  },
+  {
+    "ID": 622,
+    "Year": 1957,
+    "Date": "Aug 3",
+    "Weekday": "Saturday",
+    "Artist": "Carroll Baker & His Orchestra",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 623,
+    "Year": 1957,
+    "Date": "Aug 7",
+    "Weekday": "Wednesday",
+    "Artist": "Buddy Moore Orchestra",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 624,
+    "Year": 1957,
+    "Date": "Aug 9",
+    "Weekday": "Friday",
+    "Artist": "Pug's Western Playboys",
+    "Price": ""
+  },
+  {
+    "ID": 625,
+    "Year": 1957,
+    "Date": "Aug 10",
+    "Weekday": "Saturday",
+    "Artist": "Charlie Trussell & His Airliners",
+    "Price": ""
+  },
+  {
+    "ID": 626,
+    "Year": 1957,
+    "Date": "Aug 14",
+    "Weekday": "Wednesday",
+    "Artist": "Vance Dixon Orchestra",
+    "Price": "50¢ till 9 / $1.00 a couple"
+  },
+  {
+    "ID": 627,
+    "Year": 1957,
+    "Date": "Aug 16",
+    "Weekday": "Friday",
+    "Artist": "Tom Owen's Cowboys vs. Cady Brothers",
+    "Price": ""
+  },
+  {
+    "ID": 628,
+    "Year": 1957,
+    "Date": "Aug 17",
+    "Weekday": "Saturday",
+    "Artist": "Buddy Moore Orchestra",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 629,
+    "Year": 1957,
+    "Date": "Aug 21",
+    "Weekday": "Wednesday",
+    "Artist": "Bobby Lindeman & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 630,
+    "Year": 1957,
+    "Date": "Aug 23",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His Midwesterners",
+    "Price": ""
+  },
+  {
+    "ID": 631,
+    "Year": 1957,
+    "Date": "Aug 24",
+    "Weekday": "Saturday",
+    "Artist": "Vance Dixon Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 632,
+    "Year": 1957,
+    "Date": "Aug 28",
+    "Weekday": "Wednesday",
+    "Artist": "Chuck Foster & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 633,
+    "Year": 1957,
+    "Date": "Aug 30",
+    "Weekday": "Friday",
+    "Artist": "KXEL Midwest Caravan",
+    "Price": ""
+  },
+  {
+    "ID": 634,
+    "Year": 1957,
+    "Date": "Aug 31",
+    "Weekday": "Saturday",
+    "Artist": "Bobby Lindeman & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 635,
+    "Year": 1957,
+    "Date": "Sep 4",
+    "Weekday": "Wednesday",
+    "Artist": "Don Shaw & His Trombonnaires",
+    "Price": "75¢ till 9"
+  },
+  {
+    "ID": 636,
+    "Year": 1957,
+    "Date": "Sep 6",
+    "Weekday": "Friday",
+    "Artist": "Everly Brothers / Pug's Western Playboys",
+    "Price": ""
+  },
+  {
+    "ID": 637,
+    "Year": 1957,
+    "Date": "Sep 7",
+    "Weekday": "Saturday",
+    "Artist": "Carroll Baker & His Orchestra",
+    "Price": "50¢ till 9"
+  },
+  {
+    "ID": 638,
+    "Year": 1957,
+    "Date": "Sep 11",
+    "Weekday": "Wednesday",
+    "Artist": "Dell Clayton & His Orchestra",
+    "Price": "Ladies 75¢ till 9"
+  },
+  {
+    "ID": 639,
+    "Year": 1957,
+    "Date": "Sep 13",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His Midwesterners",
+    "Price": ""
+  },
+  {
+    "ID": 640,
+    "Year": 1957,
+    "Date": "Sep 14",
+    "Weekday": "Saturday",
+    "Artist": "Bert Lavine's Ambassadors",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 641,
+    "Year": 1957,
+    "Date": "Sep 17",
+    "Weekday": "Tuesday",
+    "Artist": "Gene Vincent & His Blue Caps",
+    "Price": "90¢"
+  },
+  {
+    "ID": 642,
+    "Year": 1957,
+    "Date": "Sep 18",
+    "Weekday": "Wednesday",
+    "Artist": "Vance Dixon Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 643,
+    "Year": 1957,
+    "Date": "Sep 20",
+    "Weekday": "Friday",
+    "Artist": "Cady Brothers vs. Dale Thomas & The Bandera Boys",
+    "Price": ""
+  },
+  {
+    "ID": 644,
+    "Year": 1957,
+    "Date": "Sep 21",
+    "Weekday": "Saturday",
+    "Artist": "Vance Dixon Orchestra with Donna on vocals",
+    "Price": ""
+  },
+  {
+    "ID": 645,
+    "Year": 1957,
+    "Date": "Sep 25",
+    "Weekday": "Wednesday",
+    "Artist": "Bobby Lindeman & His Orchestra",
+    "Price": "Girls 50¢ till 9"
+  },
+  {
+    "ID": 646,
+    "Year": 1957,
+    "Date": "Sep 27",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His Midwesterners",
+    "Price": ""
+  },
+  {
+    "ID": 647,
+    "Year": 1957,
+    "Date": "Sep 28",
+    "Weekday": "Saturday",
+    "Artist": "Buddy Moore Orchestra",
+    "Price": "75¢ till 9 / 88¢ after"
+  },
+  {
+    "ID": 648,
+    "Year": 1957,
+    "Date": "Oct 1",
+    "Weekday": "Tuesday",
+    "Artist": "Six Fat Dutchmen",
+    "Price": ""
+  },
+  {
+    "ID": 649,
+    "Year": 1957,
+    "Date": "Oct 2",
+    "Weekday": "Wednesday",
+    "Artist": "Charlie Trussell & His KXEL Airliners",
+    "Price": "Ladies 50¢ till"
+  },
+  {
+    "ID": 650,
+    "Year": 1957,
+    "Date": "Oct 4",
+    "Weekday": "Friday",
+    "Artist": "Tom Owen's Cowboys",
+    "Price": ""
+  },
+  {
+    "ID": 651,
+    "Year": 1957,
+    "Date": "Oct 5",
+    "Weekday": "Saturday",
+    "Artist": "Bobby Lindeman & His Orchestra",
+    "Price": "75¢ till 9"
+  },
+  {
+    "ID": 652,
+    "Year": 1957,
+    "Date": "Oct 9",
+    "Weekday": "Wednesday",
+    "Artist": "Louis DeKlotz & His Orchestra",
+    "Price": "50¢ till 9"
+  },
+  {
+    "ID": 653,
+    "Year": 1957,
+    "Date": "Oct 11",
+    "Weekday": "Friday",
+    "Artist": "Pug's Western Playboys",
+    "Price": ""
+  },
+  {
+    "ID": 654,
+    "Year": 1957,
+    "Date": "Oct 12",
+    "Weekday": "Saturday",
+    "Artist": "Jimmy Smith & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 655,
+    "Year": 1957,
+    "Date": "Oct 16",
+    "Weekday": "Wednesday",
+    "Artist": "Gibby Gibson",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 656,
+    "Year": 1957,
+    "Date": "Oct 18",
+    "Weekday": "Friday",
+    "Artist": "Leon McAuliffe & His Cimarron Boys with Don Cannon",
+    "Price": "$1.00 till 9 / $1.50 after"
+  },
+  {
+    "ID": 657,
+    "Year": 1957,
+    "Date": "Oct 19",
+    "Weekday": "Saturday",
+    "Artist": "Vance Dixon Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 658,
+    "Year": 1957,
+    "Date": "Oct 23",
+    "Weekday": "Wednesday",
+    "Artist": "Buddy Moore Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 659,
+    "Year": 1957,
+    "Date": "Oct 25",
+    "Weekday": "Friday",
+    "Artist": "Cady Brothers",
+    "Price": ""
+  },
+  {
+    "ID": 660,
+    "Year": 1957,
+    "Date": "Oct 26",
+    "Weekday": "Saturday",
+    "Artist": "Carroll Baker & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 661,
+    "Year": 1957,
+    "Date": "Oct 30",
+    "Weekday": "Wednesday",
+    "Artist": "Jimmy Featherstone Orchestra featuring Francine Pryor (vocals)",
+    "Price": ""
+  },
+  {
+    "ID": 662,
+    "Year": 1957,
+    "Date": "Nov 1",
+    "Weekday": "Friday",
+    "Artist": "Pug's Western Playboys / Clarence Zahina's Barnstormers featuring the Zahina Sisters",
+    "Price": "90¢"
+  },
+  {
+    "ID": 663,
+    "Year": 1957,
+    "Date": "Nov 2",
+    "Weekday": "Saturday",
+    "Artist": "Bert Lavine's Ambassadors",
+    "Price": ""
+  },
+  {
+    "ID": 664,
+    "Year": 1957,
+    "Date": "Nov 5",
+    "Weekday": "Tuesday",
+    "Artist": "Whoopee\" John Wilfahrt & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 665,
+    "Year": 1957,
+    "Date": "Nov 6",
+    "Weekday": "Wednesday",
+    "Artist": "Bobby Lindeman & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 666,
+    "Year": 1957,
+    "Date": "Nov 8",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His Midwesterners",
+    "Price": "90¢"
+  },
+  {
+    "ID": 667,
+    "Year": 1957,
+    "Date": "Nov 9",
+    "Weekday": "Saturday",
+    "Artist": "Bobby Lindeman & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 668,
+    "Year": 1957,
+    "Date": "Nov 13",
+    "Weekday": "Wednesday",
+    "Artist": "Louie DeKlotz & His Orchestra",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 669,
+    "Year": 1957,
+    "Date": "Nov 15",
+    "Weekday": "Friday",
+    "Artist": "Hank Thompson & His Brazos Valley Boys",
+    "Price": ""
+  },
+  {
+    "ID": 670,
+    "Year": 1957,
+    "Date": "Nov 16",
+    "Weekday": "Saturday",
+    "Artist": "Charlie Trussell & His KXEL Airliners",
+    "Price": ""
+  },
+  {
+    "ID": 671,
+    "Year": 1957,
+    "Date": "Nov 20",
+    "Weekday": "Wednesday",
+    "Artist": "Dell Clayton & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 672,
+    "Year": 1957,
+    "Date": "Nov 22",
+    "Weekday": "Friday",
+    "Artist": "Jerry Lee Lewis / Pug's Western Playboys",
+    "Price": "$1.50"
+  },
+  {
+    "ID": 673,
+    "Year": 1957,
+    "Date": "Nov 23",
+    "Weekday": "Saturday",
+    "Artist": "Jimmy Smith & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 674,
+    "Year": 1957,
+    "Date": "Nov 27",
+    "Weekday": "Wednesday",
+    "Artist": "Russ Carlyle & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 675,
+    "Year": 1957,
+    "Date": "Nov 29",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His Midwesterners vs. Dale Thomas & The Bandera Boys",
+    "Price": "90¢"
+  },
+  {
+    "ID": 676,
+    "Year": 1957,
+    "Date": "Nov 30",
+    "Weekday": "Saturday",
+    "Artist": "Louie DeKlotz & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 677,
+    "Year": 1957,
+    "Date": "Dec 4",
+    "Weekday": "Wednesday",
+    "Artist": "Charlie Trussell & His KXEL Airliners",
+    "Price": ""
+  },
+  {
+    "ID": 678,
+    "Year": 1957,
+    "Date": "Dec 6",
+    "Weekday": "Friday",
+    "Artist": "Pug's Western Playboys",
+    "Price": "90¢"
+  },
+  {
+    "ID": 679,
+    "Year": 1957,
+    "Date": "Dec 7",
+    "Weekday": "Saturday",
+    "Artist": "Carroll Baker & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 680,
+    "Year": 1957,
+    "Date": "Dec 11",
+    "Weekday": "Wednesday",
+    "Artist": "Bobby Lindeman & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 681,
+    "Year": 1957,
+    "Date": "Dec 13",
+    "Weekday": "Friday",
+    "Artist": "Bobby Helms / Kenny Hofer & His Midwesterners",
+    "Price": ""
+  },
+  {
+    "ID": 682,
+    "Year": 1957,
+    "Date": "Dec 14",
+    "Weekday": "Saturday",
+    "Artist": "Bobby Lindeman & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 683,
+    "Year": 1957,
+    "Date": "Dec 15",
+    "Weekday": "Sunday",
+    "Artist": "Buddy Knox- Jimmy Bowen & The Rhythm Orchids - Danceland Bandstand",
+    "Price": "90¢"
+  },
+  {
+    "ID": 684,
+    "Year": 1957,
+    "Date": "Dec 18",
+    "Weekday": "Wednesday",
+    "Artist": "Louis DeKlotz & His Orchestra",
+    "Price": "Ladies 50¢ till 9"
+  },
+  {
+    "ID": 685,
+    "Year": 1957,
+    "Date": "Dec 20",
+    "Weekday": "Friday",
+    "Artist": "Wanda Jackson / Bob & Bobbie Thomas / Johnny Ketelsen's New Tom Owen's Cowboys",
+    "Price": ""
+  },
+  {
+    "ID": 686,
+    "Year": 1957,
+    "Date": "Dec 21",
+    "Weekday": "Saturday",
+    "Artist": "Bert Lavine's Ambassadors",
+    "Price": ""
+  },
+  {
+    "ID": 687,
+    "Year": 1957,
+    "Date": "Dec 22",
+    "Weekday": "Sunday",
+    "Artist": "Record Hop - Danceland Bandstand",
+    "Price": "50¢"
+  },
+  {
+    "ID": 688,
+    "Year": 1957,
+    "Date": "Dec 25",
+    "Weekday": "Wednesday",
+    "Artist": "Pug's Western Playboys / Cady Brothers / Dale Thomas & The Bandera Boys",
+    "Price": "$1.25"
+  },
+  {
+    "ID": 689,
+    "Year": 1957,
+    "Date": "Dec 27",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His Midwesterners",
+    "Price": ""
+  },
+  {
+    "ID": 690,
+    "Year": 1957,
+    "Date": "Dec 28",
+    "Weekday": "Saturday",
+    "Artist": "Louie DeKlotz & His Orchestra / Dale Thomas & His Bandera Boys",
+    "Price": ""
+  },
+  {
+    "ID": 691,
+    "Year": 1957,
+    "Date": "Dec 29",
+    "Weekday": "Sunday",
+    "Artist": "Record Hop - Danceland Bandstand",
+    "Price": "50¢"
+  },
+  {
+    "ID": 692,
+    "Year": 1957,
+    "Date": "Dec 31",
+    "Weekday": "Tuesday",
+    "Artist": "Bobby Lindeman & His Orchestra",
+    "Price": ""
+  }
+]

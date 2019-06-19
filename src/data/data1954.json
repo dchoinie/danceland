@@ -1,0 +1,1402 @@
+[
+  {
+    "ID": 1,
+    "Year": 1954,
+    "Date": "Jan 1",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His Midwesterners",
+    "Price": "82¢ + tax"
+  },
+  {
+    "ID": 2,
+    "Year": 1954,
+    "Date": "Jan 2",
+    "Weekday": "Saturday",
+    "Artist": "Dell Clayton & His Orchestra with Glenna Frazier",
+    "Price": "82¢ till 9 / $1.02 after + tax"
+  },
+  {
+    "ID": 3,
+    "Year": 1954,
+    "Date": "Jan 6",
+    "Weekday": "Wednesday",
+    "Artist": "Jack Cole & His Orchestra",
+    "Price": "69¢ till 9 / 82¢ after + tax"
+  },
+  {
+    "ID": 4,
+    "Year": 1954,
+    "Date": "Jan 8",
+    "Weekday": "Friday",
+    "Artist": "Tom Owen's Cowboys",
+    "Price": "82¢ + tax"
+  },
+  {
+    "ID": 5,
+    "Year": 1954,
+    "Date": "Jan 9",
+    "Weekday": "Saturday",
+    "Artist": "Verne Byers & His Orchestra with Audre Lynn",
+    "Price": "82¢ + tax"
+  },
+  {
+    "ID": 6,
+    "Year": 1954,
+    "Date": "Jan 13",
+    "Weekday": "Wednesday",
+    "Artist": "Verne Byers & His Orchestra with Audre Lynn",
+    "Price": "69¢ till 9 / 82¢ after + tax"
+  },
+  {
+    "ID": 7,
+    "Year": 1954,
+    "Date": "Jan 15",
+    "Weekday": "Friday",
+    "Artist": "Iowa Cornhuskers",
+    "Price": "82¢ + tax"
+  },
+  {
+    "ID": 8,
+    "Year": 1954,
+    "Date": "Jan 16",
+    "Weekday": "Saturday",
+    "Artist": "Don Hoy & His Orchestra",
+    "Price": "82¢ + tax"
+  },
+  {
+    "ID": 9,
+    "Year": 1954,
+    "Date": "Jan 20",
+    "Weekday": "Wednesday",
+    "Artist": "Kenny Hofer & His Midwesterners",
+    "Price": "69¢ till 9 / 82¢ after + tax"
+  },
+  {
+    "ID": 10,
+    "Year": 1954,
+    "Date": "Jan 22",
+    "Weekday": "Friday",
+    "Artist": "Tom Owen's Cowboys",
+    "Price": "82¢ + tax"
+  },
+  {
+    "ID": 11,
+    "Year": 1954,
+    "Date": "Jan 23",
+    "Weekday": "Saturday",
+    "Artist": "Bobby Lindeman & His Orchestra",
+    "Price": "82¢ + tax"
+  },
+  {
+    "ID": 12,
+    "Year": 1954,
+    "Date": "Jan 27",
+    "Weekday": "Wednesday",
+    "Artist": "Don Hoy & His Orchestra",
+    "Price": "69¢ till 9 / 82¢ after + tax"
+  },
+  {
+    "ID": 13,
+    "Year": 1954,
+    "Date": "Jan 29",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His Midwesterners",
+    "Price": "82¢  + tax"
+  },
+  {
+    "ID": 14,
+    "Year": 1954,
+    "Date": "Jan 30",
+    "Weekday": "Saturday",
+    "Artist": "Hal Wiese with Eugenie Scott",
+    "Price": "82¢ + tax"
+  },
+  {
+    "ID": 15,
+    "Year": 1954,
+    "Date": "Jan 31",
+    "Weekday": "Sunday",
+    "Artist": "Earl Lanier / Del Taylor",
+    "Price": "March of Dimes Benefit Dance"
+  },
+  {
+    "ID": 16,
+    "Year": 1954,
+    "Date": "Feb 3",
+    "Weekday": "Wednesday",
+    "Artist": "Bob Calame & His Sparkling Rhythms",
+    "Price": "69¢ till 9 / 82¢ after + tax"
+  },
+  {
+    "ID": 17,
+    "Year": 1954,
+    "Date": "Feb 5",
+    "Weekday": "Friday",
+    "Artist": "Tom Owen's Cowboys",
+    "Price": "82¢ + tax"
+  },
+  {
+    "ID": 18,
+    "Year": 1954,
+    "Date": "Feb 6",
+    "Weekday": "Saturday",
+    "Artist": "Bob Calame & His Sparkling Rhythms",
+    "Price": "82¢ + tax"
+  },
+  {
+    "ID": 19,
+    "Year": 1954,
+    "Date": "Feb 10",
+    "Weekday": "Wednesday",
+    "Artist": "Jack Cole & His Orchestra",
+    "Price": "69¢ till 9 / 82¢ after + tax"
+  },
+  {
+    "ID": 20,
+    "Year": 1954,
+    "Date": "Feb 12",
+    "Weekday": "Friday",
+    "Artist": "Floyd Warren's Radio Ramblers with Montana Mary",
+    "Price": "82¢ + tax"
+  },
+  {
+    "ID": 21,
+    "Year": 1954,
+    "Date": "Feb 13",
+    "Weekday": "Saturday",
+    "Artist": "Vance Dixon Orchestra",
+    "Price": "82¢ + tax"
+  },
+  {
+    "ID": 22,
+    "Year": 1954,
+    "Date": "Feb 17",
+    "Weekday": "Wednesday",
+    "Artist": "Kenny Hofer & His Midwesterners",
+    "Price": ""
+  },
+  {
+    "ID": 23,
+    "Year": 1954,
+    "Date": "Feb 19",
+    "Weekday": "Friday",
+    "Artist": "Tom Owen's Cowboys",
+    "Price": "82¢ + tax"
+  },
+  {
+    "ID": 24,
+    "Year": 1954,
+    "Date": "Feb 20",
+    "Weekday": "Saturday",
+    "Artist": "Jack Payne with Norma Clark",
+    "Price": "82¢ + tax"
+  },
+  {
+    "ID": 25,
+    "Year": 1954,
+    "Date": "Feb 23",
+    "Weekday": "Tuesday",
+    "Artist": "Frank Yankovic & His Yanks",
+    "Price": "$1.02 + tax"
+  },
+  {
+    "ID": 26,
+    "Year": 1954,
+    "Date": "Feb 24",
+    "Weekday": "Wednesday",
+    "Artist": "Bobby Lindeman & His Orchestra",
+    "Price": "69¢ till 9 / 82¢ after + tax"
+  },
+  {
+    "ID": 27,
+    "Year": 1954,
+    "Date": "Feb 26",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His Midwesterners",
+    "Price": "82¢ + tax"
+  },
+  {
+    "ID": 28,
+    "Year": 1954,
+    "Date": "Feb 27",
+    "Weekday": "Saturday",
+    "Artist": "Hal Wiese with Eugenie Scott",
+    "Price": "82¢ + tax"
+  },
+  {
+    "ID": 29,
+    "Year": 1954,
+    "Date": "Mar 2",
+    "Weekday": "Tuesday",
+    "Artist": "Jack Cole & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 30,
+    "Year": 1954,
+    "Date": "Mar 3",
+    "Weekday": "Wednesday",
+    "Artist": "No Dance - Ash Wednesday",
+    "Price": ""
+  },
+  {
+    "ID": 31,
+    "Year": 1954,
+    "Date": "Mar 5",
+    "Weekday": "Friday",
+    "Artist": "Tom Owen's Cowboys",
+    "Price": "82¢ + tax"
+  },
+  {
+    "ID": 32,
+    "Year": 1954,
+    "Date": "Mar 6",
+    "Weekday": "Saturday",
+    "Artist": "Jack Cole & His Orchestra",
+    "Price": "82¢ + tax"
+  },
+  {
+    "ID": 33,
+    "Year": 1954,
+    "Date": "Mar 10",
+    "Weekday": "Wednesday",
+    "Artist": "Bobby Lindeman & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 34,
+    "Year": 1954,
+    "Date": "Mar 12",
+    "Weekday": "Friday",
+    "Artist": "Iowa Cornhuskers / Joe's Troubadors",
+    "Price": "82¢ + tax"
+  },
+  {
+    "ID": 35,
+    "Year": 1954,
+    "Date": "Mar 13",
+    "Weekday": "Saturday",
+    "Artist": "Vance Dixon Orchestra",
+    "Price": "82¢ + tax"
+  },
+  {
+    "ID": 36,
+    "Year": 1954,
+    "Date": "Mar 17",
+    "Weekday": "Wednesday",
+    "Artist": "Variety Club Orchestra / Earl's Western Playboys",
+    "Price": "69¢ till 9 / 82¢ after + tax"
+  },
+  {
+    "ID": 37,
+    "Year": 1954,
+    "Date": "Mar 19",
+    "Weekday": "Friday",
+    "Artist": "Tom Owen's Cowboys",
+    "Price": "82¢ + tax"
+  },
+  {
+    "ID": 38,
+    "Year": 1954,
+    "Date": "Mar 20",
+    "Weekday": "Saturday",
+    "Artist": "Eddie Allen Orchestra",
+    "Price": "82¢ + tax"
+  },
+  {
+    "ID": 39,
+    "Year": 1954,
+    "Date": "Mar 24",
+    "Weekday": "Wednesday",
+    "Artist": "Kenny Hofer & His Midwesterners",
+    "Price": ""
+  },
+  {
+    "ID": 40,
+    "Year": 1954,
+    "Date": "Mar 26",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His Midwesterners",
+    "Price": ""
+  },
+  {
+    "ID": 41,
+    "Year": 1954,
+    "Date": "Mar 27",
+    "Weekday": "Saturday",
+    "Artist": "Bobby Lindeman & His Orchestra",
+    "Price": "82¢ + tax"
+  },
+  {
+    "ID": 42,
+    "Year": 1954,
+    "Date": "Mar 31",
+    "Weekday": "Wednesday",
+    "Artist": "Jack Cole & His Orchestra",
+    "Price": "69¢ till 9 / 82¢ after + tax"
+  },
+  {
+    "ID": 43,
+    "Year": 1954,
+    "Date": "Apr 2",
+    "Weekday": "Friday",
+    "Artist": "Tom Owen's Cowboys",
+    "Price": "82¢ + tax"
+  },
+  {
+    "ID": 44,
+    "Year": 1954,
+    "Date": "Apr 3",
+    "Weekday": "Saturday",
+    "Artist": "Jack Cole & His Orchestra",
+    "Price": "82¢ + tax"
+  },
+  {
+    "ID": 45,
+    "Year": 1954,
+    "Date": "Apr 7",
+    "Weekday": "Wednesday",
+    "Artist": "Kenny Hofer & His Midwesterners",
+    "Price": ""
+  },
+  {
+    "ID": 46,
+    "Year": 1954,
+    "Date": "Apr 9",
+    "Weekday": "Friday",
+    "Artist": "Floyd Warren's Radio Ramblers with Montana Mary / Earl Lanier with Hermie Roloff (steel guitar)",
+    "Price": "82¢ + tax"
+  },
+  {
+    "ID": 47,
+    "Year": 1954,
+    "Date": "Apr 10",
+    "Weekday": "Saturday",
+    "Artist": "Don Scott & His Orchestra",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 48,
+    "Year": 1954,
+    "Date": "Apr 14",
+    "Weekday": "Wednesday",
+    "Artist": "Jack Cole & His Orchestra",
+    "Price": "75¢"
+  },
+  {
+    "ID": 49,
+    "Year": 1954,
+    "Date": "Apr 16",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His Midwesterners",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 50,
+    "Year": 1954,
+    "Date": "Apr 17",
+    "Weekday": "Saturday",
+    "Artist": "Vance Dixon Orchestra",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 51,
+    "Year": 1954,
+    "Date": "Apr 18",
+    "Weekday": "Sunday",
+    "Artist": "Variety Club Orchestra / Earl's Western Playboys",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 52,
+    "Year": 1954,
+    "Date": "Apr 21",
+    "Weekday": "Wednesday",
+    "Artist": "Don Decker",
+    "Price": "75¢ till 9 / 89¢ after+ tax"
+  },
+  {
+    "ID": 53,
+    "Year": 1954,
+    "Date": "Apr 22",
+    "Weekday": "Thursday",
+    "Artist": "Leonard Reyman & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 54,
+    "Year": 1954,
+    "Date": "Apr 23",
+    "Weekday": "Friday",
+    "Artist": "Tom Owen's Cowboys",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 55,
+    "Year": 1954,
+    "Date": "Apr 24",
+    "Weekday": "Saturday",
+    "Artist": "Don Hoy & His Orchestra",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 56,
+    "Year": 1954,
+    "Date": "Apr 28",
+    "Weekday": "Wednesday",
+    "Artist": "Eddie Allen Orchestra",
+    "Price": "75¢ till 9 / 89¢ after + tax"
+  },
+  {
+    "ID": 57,
+    "Year": 1954,
+    "Date": "Apr 30",
+    "Weekday": "Friday",
+    "Artist": "Floyd Warren's Radio Ramblers with Montana Mary / Joe's Troubadors",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 58,
+    "Year": 1954,
+    "Date": "May 1",
+    "Weekday": "Saturday",
+    "Artist": "Hal Wiese with Cynthia Scott",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 59,
+    "Year": 1954,
+    "Date": "May 5",
+    "Weekday": "Wednesday",
+    "Artist": "Don Decker / Kenny Hofer & His Midwesterners",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 60,
+    "Year": 1954,
+    "Date": "May 7",
+    "Weekday": "Friday",
+    "Artist": "Tom Owen's Cowboys",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 61,
+    "Year": 1954,
+    "Date": "May 8",
+    "Weekday": "Saturday",
+    "Artist": "Don Decker",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 62,
+    "Year": 1954,
+    "Date": "May 12",
+    "Weekday": "Wednesday",
+    "Artist": "Scott-Clark Orchestra with Jack Glaudel (vocals)",
+    "Price": "75¢ till 9 / 89¢  after + tax"
+  },
+  {
+    "ID": 63,
+    "Year": 1954,
+    "Date": "May 14",
+    "Weekday": "Friday",
+    "Artist": "Iowa Cornhuskers",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 64,
+    "Year": 1954,
+    "Date": "May 15",
+    "Weekday": "Saturday",
+    "Artist": "Don Hoy & His Orchestra",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 65,
+    "Year": 1954,
+    "Date": "May 18",
+    "Weekday": "Tuesday",
+    "Artist": "Whoopee\" John Wilfahrt & His Orchestra",
+    "Price": "$1.12 + tax"
+  },
+  {
+    "ID": 66,
+    "Year": 1954,
+    "Date": "May 19",
+    "Weekday": "Wednesday",
+    "Artist": "Jack Cole & His Orchestra",
+    "Price": "66¢ till 9 / 75¢ + tax"
+  },
+  {
+    "ID": 67,
+    "Year": 1954,
+    "Date": "May 21",
+    "Weekday": "Friday",
+    "Artist": "Red Blanchard with Tom Owen's Cowboys",
+    "Price": ""
+  },
+  {
+    "ID": 68,
+    "Year": 1954,
+    "Date": "May 22",
+    "Weekday": "Saturday",
+    "Artist": "Eddie Allen Orchestra with Red Dasch & Eddie Roberts",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 69,
+    "Year": 1954,
+    "Date": "May 26",
+    "Weekday": "Wednesday",
+    "Artist": "Ronnie Bartley & His Orchestra with Patty Chase",
+    "Price": ""
+  },
+  {
+    "ID": 70,
+    "Year": 1954,
+    "Date": "May 28",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His Midwesterners",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 71,
+    "Year": 1954,
+    "Date": "May 29",
+    "Weekday": "Saturday",
+    "Artist": "Vance Dixon Orchestra",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 72,
+    "Year": 1954,
+    "Date": "Jun 2",
+    "Weekday": "Wednesday",
+    "Artist": "Don Hoy & His Orchestra",
+    "Price": "75¢ till 9 / 89¢ after + tax"
+  },
+  {
+    "ID": 73,
+    "Year": 1954,
+    "Date": "Jun 4",
+    "Weekday": "Friday",
+    "Artist": "Tom Owen's Cowboys",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 74,
+    "Year": 1954,
+    "Date": "Jun 5",
+    "Weekday": "Saturday",
+    "Artist": "Scott-Clark Orchestra with Jack Glaudel (vocals)",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 75,
+    "Year": 1954,
+    "Date": "Jun 7",
+    "Weekday": "Monday",
+    "Artist": "Wedding Dance - Delores A. Reider / Richard D. Clark",
+    "Price": ""
+  },
+  {
+    "ID": 76,
+    "Year": 1954,
+    "Date": "Jun 9",
+    "Weekday": "Wednesday",
+    "Artist": "Del Taylor",
+    "Price": "69¢ till 9 / 75¢ after + tax"
+  },
+  {
+    "ID": 77,
+    "Year": 1954,
+    "Date": "Jun 11",
+    "Weekday": "Friday",
+    "Artist": "Floyd Warren's Radio Ramblers with Montana Mary / Joe's Troubadors",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 78,
+    "Year": 1954,
+    "Date": "Jun 12",
+    "Weekday": "Saturday",
+    "Artist": "Jack Payne",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 79,
+    "Year": 1954,
+    "Date": "Jun 15",
+    "Weekday": "Tuesday",
+    "Artist": "Wedding Dance - Marna Margaret Morrissey & Dale H. Butz",
+    "Price": ""
+  },
+  {
+    "ID": 80,
+    "Year": 1954,
+    "Date": "Jun 16",
+    "Weekday": "Wednesday",
+    "Artist": "Don Hoy & His Orchestra",
+    "Price": "75¢ till 9 / 89¢ after + tax"
+  },
+  {
+    "ID": 81,
+    "Year": 1954,
+    "Date": "Jun 18",
+    "Weekday": "Friday",
+    "Artist": "Tom Owen's Cowboys",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 82,
+    "Year": 1954,
+    "Date": "Jun 19",
+    "Weekday": "Saturday",
+    "Artist": "Vance Dixon Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 83,
+    "Year": 1954,
+    "Date": "Jun 23",
+    "Weekday": "Wednesday",
+    "Artist": "Eddie Allen Orchestra",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 84,
+    "Year": 1954,
+    "Date": "Jun 25",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His Midwesterners",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 85,
+    "Year": 1954,
+    "Date": "Jun 26",
+    "Weekday": "Saturday",
+    "Artist": "Hal Wiese with Cynthia Scott",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 86,
+    "Year": 1954,
+    "Date": "Jun 30",
+    "Weekday": "Wednesday",
+    "Artist": "Jack Cole & His Orchestra",
+    "Price": "75¢ till 9:15 / 85¢ after + tax"
+  },
+  {
+    "ID": 87,
+    "Year": 1954,
+    "Date": "Jul 2",
+    "Weekday": "Friday",
+    "Artist": "Tom Owen's Cowboys",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 88,
+    "Year": 1954,
+    "Date": "Jul 3",
+    "Weekday": "Saturday",
+    "Artist": "Larry Barrett with Bobbie Cotter",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 89,
+    "Year": 1954,
+    "Date": "Jul 7",
+    "Weekday": "Wednesday",
+    "Artist": "Verne Byers & His CBS Orchestra",
+    "Price": "75¢ till 9:15 / 85¢ after + tax"
+  },
+  {
+    "ID": 90,
+    "Year": 1954,
+    "Date": "Jul 9",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His Midwesterners",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 91,
+    "Year": 1954,
+    "Date": "Jul 10",
+    "Weekday": "Saturday",
+    "Artist": "Eddie Allen Orchestra",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 92,
+    "Year": 1954,
+    "Date": "Jul 14",
+    "Weekday": "Wednesday",
+    "Artist": "Don Hoy & His Orchestra",
+    "Price": "75¢ till 9:15 / 89¢ after + tax"
+  },
+  {
+    "ID": 93,
+    "Year": 1954,
+    "Date": "Jul 16",
+    "Weekday": "Friday",
+    "Artist": "Tom Owen's Cowboys",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 94,
+    "Year": 1954,
+    "Date": "Jul 17",
+    "Weekday": "Saturday",
+    "Artist": "Jack Cole & His Orchestra",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 95,
+    "Year": 1954,
+    "Date": "Jul 21",
+    "Weekday": "Wednesday",
+    "Artist": "Dell Clayton & His Orchestra with Lynn Janson",
+    "Price": "75¢ till 9:15 / 89¢ after + tax"
+  },
+  {
+    "ID": 96,
+    "Year": 1954,
+    "Date": "Jul 23",
+    "Weekday": "Friday",
+    "Artist": "Tom Owen's Cowboys",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 97,
+    "Year": 1954,
+    "Date": "Jul 24",
+    "Weekday": "Saturday",
+    "Artist": "Vance Dixon Orchestra",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 98,
+    "Year": 1954,
+    "Date": "Jul 28",
+    "Weekday": "Wednesday",
+    "Artist": "Eddie Allen Orchestra",
+    "Price": "75¢ till 9 / 85¢ after + tax"
+  },
+  {
+    "ID": 99,
+    "Year": 1954,
+    "Date": "Jul 30",
+    "Weekday": "Friday",
+    "Artist": "Andy Doll",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 100,
+    "Year": 1954,
+    "Date": "Jul 31",
+    "Weekday": "Saturday",
+    "Artist": "Jack Payne",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 101,
+    "Year": 1954,
+    "Date": "Aug 4",
+    "Weekday": "Wednesday",
+    "Artist": "Verne Byers & His CBS Orchestra",
+    "Price": "75¢ till 9:15 / 85¢ after + tax"
+  },
+  {
+    "ID": 102,
+    "Year": 1954,
+    "Date": "Aug 6",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His Midwesterners",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 103,
+    "Year": 1954,
+    "Date": "Aug 7",
+    "Weekday": "Saturday",
+    "Artist": "Scott-Clark Orchestra with Jack Glaudel (vocals)",
+    "Price": ""
+  },
+  {
+    "ID": 104,
+    "Year": 1954,
+    "Date": "Aug 11",
+    "Weekday": "Wednesday",
+    "Artist": "Don Hoy & His Orchestra",
+    "Price": "75¢ till 9:15 / 89¢ after + tax"
+  },
+  {
+    "ID": 105,
+    "Year": 1954,
+    "Date": "Aug 13",
+    "Weekday": "Friday",
+    "Artist": "Tom Owen's Cowboys",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 106,
+    "Year": 1954,
+    "Date": "Aug 14",
+    "Weekday": "Saturday",
+    "Artist": "Vance Dixon Orchestra",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 107,
+    "Year": 1954,
+    "Date": "Aug 18",
+    "Weekday": "Wednesday",
+    "Artist": "Eddie Allen Orchestra",
+    "Price": "75¢ till 9 / 89¢ after + tax"
+  },
+  {
+    "ID": 108,
+    "Year": 1954,
+    "Date": "Aug 19",
+    "Weekday": "Thursday",
+    "Artist": "Wedding Dance - Dorothy Mae Rieder / Albert J. Schulte",
+    "Price": ""
+  },
+  {
+    "ID": 109,
+    "Year": 1954,
+    "Date": "Aug 20",
+    "Weekday": "Friday",
+    "Artist": "Andy Doll / Pug's Western Playboys",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 110,
+    "Year": 1954,
+    "Date": "Aug 21",
+    "Weekday": "Saturday",
+    "Artist": "Hal Wiese with Eugenie Scott",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 111,
+    "Year": 1954,
+    "Date": "Aug 23",
+    "Weekday": "Monday",
+    "Artist": "Six Fat Dutchmen / Kenny Hofer & His Midwesterners",
+    "Price": "$1.12 + tax"
+  },
+  {
+    "ID": 112,
+    "Year": 1954,
+    "Date": "Aug 25",
+    "Weekday": "Wednesday",
+    "Artist": "Dell Clayton & His Orchestra with Glenna Frazier",
+    "Price": "75¢ till 9 / 89¢ after + tax"
+  },
+  {
+    "ID": 113,
+    "Year": 1954,
+    "Date": "Aug 27",
+    "Weekday": "Friday",
+    "Artist": "Tom Owen's Cowboys",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 114,
+    "Year": 1954,
+    "Date": "Aug 28",
+    "Weekday": "Saturday",
+    "Artist": "Eddie Allen Orchestra",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 115,
+    "Year": 1954,
+    "Date": "Sep 1",
+    "Weekday": "Wednesday",
+    "Artist": "Jack Cole & His Orchestra",
+    "Price": "75¢ till 9 / 89¢ after + tax"
+  },
+  {
+    "ID": 116,
+    "Year": 1954,
+    "Date": "Sep 3",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His Midwesterners",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 117,
+    "Year": 1954,
+    "Date": "Sep 4",
+    "Weekday": "Saturday",
+    "Artist": "Scott-Clark Orchestra with Jack Glaudel (vocals)",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 118,
+    "Year": 1954,
+    "Date": "Sep 7",
+    "Weekday": "Tuesday",
+    "Artist": "WNAX Bohemian Band",
+    "Price": "$1.12 + tax"
+  },
+  {
+    "ID": 119,
+    "Year": 1954,
+    "Date": "Sep 8",
+    "Weekday": "Wednesday",
+    "Artist": "Dell Clayton & His Orchestra with Glenn Frazier",
+    "Price": "75¢ till 9 / 89¢ after + tax"
+  },
+  {
+    "ID": 120,
+    "Year": 1954,
+    "Date": "Sep 10",
+    "Weekday": "Friday",
+    "Artist": "Tom Owen's Cowboys",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 121,
+    "Year": 1954,
+    "Date": "Sep 11",
+    "Weekday": "Saturday",
+    "Artist": "Jack Payne",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 122,
+    "Year": 1954,
+    "Date": "Sep 15",
+    "Weekday": "Wednesday",
+    "Artist": "Verne Byers & His CBS Orchestra",
+    "Price": "75¢ till 9 / 89¢ after + tax"
+  },
+  {
+    "ID": 123,
+    "Year": 1954,
+    "Date": "Sep 17",
+    "Weekday": "Friday",
+    "Artist": "Iowa Cornhukers",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 124,
+    "Year": 1954,
+    "Date": "Sep 18",
+    "Weekday": "Saturday",
+    "Artist": "Verne Byers & His CBS Orchestra",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 125,
+    "Year": 1954,
+    "Date": "Sep 22",
+    "Weekday": "Wednesday",
+    "Artist": "Little John Beecher & His Orchestra with Betty Jordan",
+    "Price": "75¢ till 9 / 89¢ + tax"
+  },
+  {
+    "ID": 126,
+    "Year": 1954,
+    "Date": "Sep 24",
+    "Weekday": "Friday",
+    "Artist": "Tom Owen's Cowboys",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 127,
+    "Year": 1954,
+    "Date": "Sep 25",
+    "Weekday": "Saturday",
+    "Artist": "Hal Wiese with Eugenie Scott",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 128,
+    "Year": 1954,
+    "Date": "Sep 28",
+    "Weekday": "Tuesday",
+    "Artist": "Whoopee\" John Wilfahrt & His Orchestra",
+    "Price": "$1.12 + tax"
+  },
+  {
+    "ID": 129,
+    "Year": 1954,
+    "Date": "Sep 29",
+    "Weekday": "Wednesday",
+    "Artist": "Bob Calame & His Sparkling Rhythms",
+    "Price": ""
+  },
+  {
+    "ID": 130,
+    "Year": 1954,
+    "Date": "Oct 1",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His Midwesterners",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 131,
+    "Year": 1954,
+    "Date": "Oct 2",
+    "Weekday": "Saturday",
+    "Artist": "Scott-Clark Orchestra",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 132,
+    "Year": 1954,
+    "Date": "Oct 6",
+    "Weekday": "Wednesday",
+    "Artist": "Eddie Allen Orchestra",
+    "Price": "50¢ till 9 / $1.00 after"
+  },
+  {
+    "ID": 133,
+    "Year": 1954,
+    "Date": "Oct 8",
+    "Weekday": "Friday",
+    "Artist": "Tom Owen's Cowboys",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 134,
+    "Year": 1954,
+    "Date": "Oct 9",
+    "Weekday": "Saturday",
+    "Artist": "Hal Wiese with Eugenie Scott",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 135,
+    "Year": 1954,
+    "Date": "Oct 13",
+    "Weekday": "Wednesday",
+    "Artist": "Verne Byers & His CBS Orchestra",
+    "Price": "75¢ till 9 / 89¢ after + tax"
+  },
+  {
+    "ID": 136,
+    "Year": 1954,
+    "Date": "Oct 15",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His Midwesterners",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 137,
+    "Year": 1954,
+    "Date": "Oct 16",
+    "Weekday": "Saturday",
+    "Artist": "Eddie Allen Orchestra with Red Dasch",
+    "Price": ""
+  },
+  {
+    "ID": 138,
+    "Year": 1954,
+    "Date": "Oct 20",
+    "Weekday": "Wednesday",
+    "Artist": "Eddie Allen Orchestra",
+    "Price": "75¢ till 9 / 85¢ after + tax"
+  },
+  {
+    "ID": 139,
+    "Year": 1954,
+    "Date": "Oct 22",
+    "Weekday": "Friday",
+    "Artist": "Tom Owen's Cowboys with Dempsy Jones & His Boys / The Blue Belles",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 140,
+    "Year": 1954,
+    "Date": "Oct 23",
+    "Weekday": "Saturday",
+    "Artist": "Vance Dixon Orchestra",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 141,
+    "Year": 1954,
+    "Date": "Oct 26",
+    "Weekday": "Tuesday",
+    "Artist": "Fezz Fritsche & His Goosetown Band",
+    "Price": "50¢ till 8:30 / $1.12 after + tax"
+  },
+  {
+    "ID": 142,
+    "Year": 1954,
+    "Date": "Oct 27",
+    "Weekday": "Wednesday",
+    "Artist": "Larry Elliott & His Orchestra",
+    "Price": "75¢ till 9 / 89¢ after + tax"
+  },
+  {
+    "ID": 143,
+    "Year": 1954,
+    "Date": "Oct 29",
+    "Weekday": "Friday",
+    "Artist": "Floyd Warren's Radio Ramblers with Montana Mary / Pug's Western Playboys",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 144,
+    "Year": 1954,
+    "Date": "Oct 30",
+    "Weekday": "Saturday",
+    "Artist": "Jack Payne",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 145,
+    "Year": 1954,
+    "Date": "Nov 3",
+    "Weekday": "Wednesday",
+    "Artist": "Dell Clayton & His Orchestra",
+    "Price": "75¢ till 9 / 89¢ after + tax"
+  },
+  {
+    "ID": 146,
+    "Year": 1954,
+    "Date": "Nov 4",
+    "Weekday": "Thursday",
+    "Artist": "Wayne King & His Orchestra",
+    "Price": "$1.56 + tax"
+  },
+  {
+    "ID": 147,
+    "Year": 1954,
+    "Date": "Nov 5",
+    "Weekday": "Friday",
+    "Artist": "Tom Owen's Cowboys",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 148,
+    "Year": 1954,
+    "Date": "Nov 6",
+    "Weekday": "Saturday",
+    "Artist": "Hal Wiese with Eugenie Scott",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 149,
+    "Year": 1954,
+    "Date": "Nov 10",
+    "Weekday": "Wednesday",
+    "Artist": "Don Hoy & His Orchestra",
+    "Price": "75¢ till 9 / 89¢ after + tax"
+  },
+  {
+    "ID": 150,
+    "Year": 1954,
+    "Date": "Nov 12",
+    "Weekday": "Friday",
+    "Artist": "Pug's Western Playboys / Iowa Cornhuskers",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 151,
+    "Year": 1954,
+    "Date": "Nov 13",
+    "Weekday": "Saturday",
+    "Artist": "Scott-Clark Orchestra",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 152,
+    "Year": 1954,
+    "Date": "Nov 16",
+    "Weekday": "Tuesday",
+    "Artist": "Whoopee\" John Wilfahrt & His Orchestra",
+    "Price": "$1.12 + tax"
+  },
+  {
+    "ID": 153,
+    "Year": 1954,
+    "Date": "Nov 17",
+    "Weekday": "Wednesday",
+    "Artist": "Verne Byers & His CBS Orchestra",
+    "Price": "75¢ till 9 / 89¢ after + tax"
+  },
+  {
+    "ID": 154,
+    "Year": 1954,
+    "Date": "Nov 19",
+    "Weekday": "Friday",
+    "Artist": "Tom Owen's Cowboys",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 155,
+    "Year": 1954,
+    "Date": "Nov 20",
+    "Weekday": "Saturday",
+    "Artist": "Jack Payne",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 156,
+    "Year": 1954,
+    "Date": "Nov 24",
+    "Weekday": "Wednesday",
+    "Artist": "Del Taylor / Pug's Western Playboys",
+    "Price": ""
+  },
+  {
+    "ID": 157,
+    "Year": 1954,
+    "Date": "Nov 26",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His Midwesterners",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 158,
+    "Year": 1954,
+    "Date": "Nov 27",
+    "Weekday": "Saturday",
+    "Artist": "Larry Barrett with Bobbie Cotter",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 159,
+    "Year": 1954,
+    "Date": "Nov 30",
+    "Weekday": "Tuesday",
+    "Artist": "Frank Yankovic & His Yanks",
+    "Price": "$1.12 + tax"
+  },
+  {
+    "ID": 160,
+    "Year": 1954,
+    "Date": "Dec 1",
+    "Weekday": "Wednesday",
+    "Artist": "Jack Cole & His Orchestra",
+    "Price": "75¢ till 9 / 89¢ after + tax"
+  },
+  {
+    "ID": 161,
+    "Year": 1954,
+    "Date": "Dec 3",
+    "Weekday": "Friday",
+    "Artist": "Tom Owen's Cowboys",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 162,
+    "Year": 1954,
+    "Date": "Dec 4",
+    "Weekday": "Saturday",
+    "Artist": "Eddie Allen Orchestra with Red Dasch",
+    "Price": ""
+  },
+  {
+    "ID": 163,
+    "Year": 1954,
+    "Date": "Dec 8",
+    "Weekday": "Wednesday",
+    "Artist": "Eddie Allen Orchestra with Red Dasch",
+    "Price": "75¢ till 9 / 89¢ after + tax"
+  },
+  {
+    "ID": 164,
+    "Year": 1954,
+    "Date": "Dec 10",
+    "Weekday": "Friday",
+    "Artist": "Kenny Hofer & His Midwesterners",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 165,
+    "Year": 1954,
+    "Date": "Dec 11",
+    "Weekday": "Saturday",
+    "Artist": "Vance Dixon Orchestra",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 166,
+    "Year": 1954,
+    "Date": "Dec 15",
+    "Weekday": "Wednesday",
+    "Artist": "Dell Clayton & His Orchestra with Kay Canfield",
+    "Price": ""
+  },
+  {
+    "ID": 167,
+    "Year": 1954,
+    "Date": "Dec 17",
+    "Weekday": "Friday",
+    "Artist": "Tom Owen's Cowboys",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 168,
+    "Year": 1954,
+    "Date": "Dec 18",
+    "Weekday": "Saturday",
+    "Artist": "Scott-Clark Orchestra / Eddie Allen Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 169,
+    "Year": 1954,
+    "Date": "Dec 22",
+    "Weekday": "Wednesday",
+    "Artist": "Jack Cole & His Orchestra",
+    "Price": "75¢ till 9 / 89¢ after + tax"
+  },
+  {
+    "ID": 170,
+    "Year": 1954,
+    "Date": "Dec 23",
+    "Weekday": "Thursday",
+    "Artist": "Pug's Western Playboys with Jerry Smith & Jimmy Seeley, Koberley Sisters, Judy Mae",
+    "Price": "89¢ + tax"
+  },
+  {
+    "ID": 171,
+    "Year": 1954,
+    "Date": "Dec 24",
+    "Weekday": "Friday",
+    "Artist": "No Dance",
+    "Price": ""
+  },
+  {
+    "ID": 172,
+    "Year": 1954,
+    "Date": "Dec 25",
+    "Weekday": "Saturday",
+    "Artist": "Jack Cole & His Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 173,
+    "Year": 1954,
+    "Date": "Dec 29",
+    "Weekday": "Wednesday",
+    "Artist": "Variety Club Orchestra",
+    "Price": ""
+  },
+  {
+    "ID": 174,
+    "Year": 1954,
+    "Date": "Dec 30",
+    "Weekday": "Thursday",
+    "Artist": "Tom Owen's Cowboys",
+    "Price": ""
+  },
+  {
+    "ID": 175,
+    "Year": 1954,
+    "Date": "Dec 31",
+    "Weekday": "Friday",
+    "Artist": "Jack Payne",
+    "Price": ""
+  }
+]
