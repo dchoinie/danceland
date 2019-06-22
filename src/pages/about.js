@@ -12,8 +12,8 @@ export class about extends Component {
         <PageTitle title="About" />
         <Container>
           <div className="d-flex justify-content-center my-3">
-            <img src={aboutImg1} alt="aboutImg1" />
-            <img src={aboutImg2} alt="aboutImg2" />
+            <img src={aboutImg1} alt="aboutImg1" className="mx-2" />
+            <img src={aboutImg2} alt="aboutImg2" className="mx-2" />
           </div>
           <p>
             Danceland was billed as “Iowa’s Smartest Ballroom” and it would be

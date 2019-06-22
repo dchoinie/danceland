@@ -6,24 +6,30 @@ import Nav from "react-bootstrap/Nav"
 import Dropdown from "react-bootstrap/Dropdown"
 import { Link } from "gatsby"
 
+const StyledLink = styled(Link)`
+  :hover {
+    text-decoration: none;
+  }
+`
+
 const header = props => {
   return (
     <Navbar expand="lg" variant="dark" bg="dark">
       <Navbar.Brand>
-        <Link
+        <StyledLink
           style={{ color: "#fff" }}
           to="/"
           style={{ color: "#fff", textTransform: "uppercase" }}
         >
           Danceland
-        </Link>
+        </StyledLink>
       </Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="ml-auto">
           <Dropdown>
             <Dropdown.Toggle
-              as={Link}
+              as={StyledLink}
               style={{ color: "#fff" }}
               className="mx-2"
             >
@@ -31,106 +37,106 @@ const header = props => {
             </Dropdown.Toggle>
             <Dropdown.Menu>
               <Dropdown.Item>
-                <Link style={{ color: "#333" }} to="/1954">
+                <StyledLink style={{ color: "#333" }} to="/1954">
                   1954
-                </Link>
+                </StyledLink>
               </Dropdown.Item>
               <Dropdown.Item>
-                <Link style={{ color: "#333" }} to="/1955">
+                <StyledLink style={{ color: "#333" }} to="/1955">
                   1955
-                </Link>
+                </StyledLink>
               </Dropdown.Item>
               <Dropdown.Item>
-                <Link style={{ color: "#333" }} to="/1956">
+                <StyledLink style={{ color: "#333" }} to="/1956">
                   1956
-                </Link>
+                </StyledLink>
               </Dropdown.Item>
               <Dropdown.Item>
-                <Link style={{ color: "#333" }} to="/1957">
+                <StyledLink style={{ color: "#333" }} to="/1957">
                   1957
-                </Link>
+                </StyledLink>
               </Dropdown.Item>
               <Dropdown.Item>
-                <Link style={{ color: "#333" }} to="/1958">
+                <StyledLink style={{ color: "#333" }} to="/1958">
                   1958
-                </Link>
+                </StyledLink>
               </Dropdown.Item>
               <Dropdown.Item>
-                <Link style={{ color: "#333" }} to="/1959">
+                <StyledLink style={{ color: "#333" }} to="/1959">
                   1959
-                </Link>
+                </StyledLink>
               </Dropdown.Item>
               <Dropdown.Item>
-                <Link style={{ color: "#333" }} to="/1960">
+                <StyledLink style={{ color: "#333" }} to="/1960">
                   1960
-                </Link>
+                </StyledLink>
               </Dropdown.Item>
               <Dropdown.Item>
-                <Link style={{ color: "#333" }} to="/1961">
+                <StyledLink style={{ color: "#333" }} to="/1961">
                   1961
-                </Link>
+                </StyledLink>
               </Dropdown.Item>
               <Dropdown.Item>
-                <Link style={{ color: "#333" }} to="/1962">
+                <StyledLink style={{ color: "#333" }} to="/1962">
                   1962
-                </Link>
+                </StyledLink>
               </Dropdown.Item>
               <Dropdown.Item>
-                <Link style={{ color: "#333" }} to="/1963">
+                <StyledLink style={{ color: "#333" }} to="/1963">
                   1963
-                </Link>
+                </StyledLink>
               </Dropdown.Item>
               <Dropdown.Item>
-                <Link style={{ color: "#333" }} to="/1964">
+                <StyledLink style={{ color: "#333" }} to="/1964">
                   1964
-                </Link>
+                </StyledLink>
               </Dropdown.Item>
               <Dropdown.Item>
-                <Link style={{ color: "#333" }} to="/1965">
+                <StyledLink style={{ color: "#333" }} to="/1965">
                   1965
-                </Link>
+                </StyledLink>
               </Dropdown.Item>
               <Dropdown.Item>
-                <Link style={{ color: "#333" }} to="/1966">
+                <StyledLink style={{ color: "#333" }} to="/1966">
                   1966
-                </Link>
+                </StyledLink>
               </Dropdown.Item>
               <Dropdown.Item>
-                <Link style={{ color: "#333" }} to="/1967">
+                <StyledLink style={{ color: "#333" }} to="/1967">
                   1967
-                </Link>
+                </StyledLink>
               </Dropdown.Item>
               <Dropdown.Item>
-                <Link style={{ color: "#333" }} to="/1967">
+                <StyledLink style={{ color: "#333" }} to="/1967">
                   1968
-                </Link>
+                </StyledLink>
               </Dropdown.Item>
             </Dropdown.Menu>
           </Dropdown>
-          <Link
+          <StyledLink
             style={{ color: "#fff" }}
             to="/dancelandbandstand"
             style={{ color: "#fff" }}
             className="mx-2"
           >
             Danceland Bandstand
-          </Link>
-          <Link
+          </StyledLink>
+          <StyledLink
             style={{ color: "#fff" }}
             to="/about"
             style={{ color: "#fff" }}
             className="mx-2"
           >
             About
-          </Link>
-          <Link
+          </StyledLink>
+          <StyledLink
             style={{ color: "#fff" }}
             to="/contact"
             style={{ color: "#fff" }}
             className="mx-2"
           >
             Contact
-          </Link>
+          </StyledLink>
         </Nav>
       </Navbar.Collapse>
     </Navbar>

@@ -30,7 +30,7 @@ const StyledLink = styled(Link)`
 export class YearSelector extends Component {
   render() {
     return (
-      <Container>
+      <Container className="my-4">
         <h2 className="text-center my-4">Explore The Archives</h2>
         <div className="row">
           <div className="col-md">
