@@ -33,17 +33,18 @@ export class page1955 extends Component {
                 return (
                   <>
                     <p>
-                      {ItemDetail.weekday}, {ItemDetail.date}
+                      {ItemDetail.weekday} {ItemDetail.date}
                     </p>
                     <h3>{ItemDetail.artist}</h3>
                     <p>{ItemDetail.price}</p>
+                    <p>{ItemDetail.comment}</p>
                     <div className="d-flex flex-wrap justify-content-center">
                       <StyledImg
                         src={ItemDetail.img1}
                         alt=""
                         className="mx-2"
                         style={{
-                          maxWidth: "300px",
+                          maxHeight: "400px",
                           boxShadow: "2px 2px 10px #333",
                         }}
                       />
@@ -52,7 +53,7 @@ export class page1955 extends Component {
                         alt=""
                         className="mx-2"
                         style={{
-                          maxWidth: "300px",
+                          maxHeight: "400px",
                           boxShadow: "2px 2px 10px #333",
                         }}
                       />
@@ -61,7 +62,43 @@ export class page1955 extends Component {
                         alt=""
                         className="mx-2"
                         style={{
-                          maxWidth: "300px",
+                          maxHeight: "400px",
+                          boxShadow: "2px 2px 10px #333",
+                        }}
+                      />
+                      <StyledImg
+                        src={ItemDetail.img4}
+                        alt=""
+                        className="mx-2"
+                        style={{
+                          maxHeight: "400px",
+                          boxShadow: "2px 2px 10px #333",
+                        }}
+                      />
+                      <StyledImg
+                        src={ItemDetail.img5}
+                        alt=""
+                        className="mx-2"
+                        style={{
+                          maxHeight: "400px",
+                          boxShadow: "2px 2px 10px #333",
+                        }}
+                      />
+                      <StyledImg
+                        src={ItemDetail.img6}
+                        alt=""
+                        className="mx-2"
+                        style={{
+                          maxHeight: "400px",
+                          boxShadow: "2px 2px 10px #333",
+                        }}
+                      />
+                      <StyledImg
+                        src={ItemDetail.img7}
+                        alt=""
+                        className="mx-2"
+                        style={{
+                          maxHeight: "400px",
                           boxShadow: "2px 2px 10px #333",
                         }}
                       />

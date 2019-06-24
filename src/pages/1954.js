@@ -22,7 +22,7 @@ export class page1954 extends Component {
                 return (
                   <>
                     <p>
-                      {ItemDetail.weekday}, {ItemDetail.date}
+                      {ItemDetail.weekday} {ItemDetail.date}
                     </p>
                     <h3>{ItemDetail.artist}</h3>
                     <p>{ItemDetail.price}</p>
