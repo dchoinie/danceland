@@ -32,7 +32,7 @@ export class page1954 extends Component {
                         alt=""
                         className="mx-2"
                         style={{
-                          maxWidth: "300px",
+                          maxHeight: "400px",
                           boxShadow: "2px 2px 10px #333",
                         }}
                       />
@@ -41,7 +41,7 @@ export class page1954 extends Component {
                         alt=""
                         className="mx-2"
                         style={{
-                          maxWidth: "300px",
+                          maxHeight: "400px",
                           boxShadow: "2px 2px 10px #333",
                         }}
                       />
@@ -50,7 +50,7 @@ export class page1954 extends Component {
                         alt=""
                         className="mx-2"
                         style={{
-                          maxWidth: "300px",
+                          maxHeight: "400px",
                           boxShadow: "2px 2px 10px #333",
                         }}
                       />
