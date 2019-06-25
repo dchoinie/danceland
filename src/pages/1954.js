@@ -17,6 +17,12 @@ export class page1954 extends Component {
       <Layout>
         <PageTitle title="1954" />
         <div className="container mx-auto">
+          <p className="container max-w-4xl mx-auto mb-8">
+            National acts that played at Danceland in 1954 include - Wayne King
+            & His Orchestra, “Whoopee” John Wilfahrt & His Orchestra, WNAX
+            Bohemian Band, Fezz Fritsche & His Goosetown Band, Six Fat Dutchmen,
+            Frank Yankovic & His Yanks.
+          </p>
           <div className="row text-center">
             <div className="col">
               {YearData.map((ItemDetail, index) => {

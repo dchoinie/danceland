@@ -12,7 +12,7 @@ const IndexPage = props => (
       <img
         src={marquee}
         alt="marquee"
-        className="my-16"
+        className="my-10"
         style={{ boxShadow: "2px 2px 10px #333" }}
       />
     </div>

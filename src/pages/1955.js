@@ -36,7 +36,7 @@ export class page1955 extends Component {
                     <p>
                       {ItemDetail.weekday} {ItemDetail.date}
                     </p>
-                    <h3>{ItemDetail.artist}</h3>
+                    <h3 className="text-2xl">{ItemDetail.artist}</h3>
                     <p>{ItemDetail.price}</p>
                     <p>{ItemDetail.comment}</p>
                     <div className="flex flex-wrap justify-center">
