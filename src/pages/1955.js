@@ -3,6 +3,7 @@ import Layout from "../components/layout"
 import styled from "styled-components"
 import PageTitle from "../components/pageTitle"
 import YearData from "../data/data1955"
+import Hr from "../components/Hr"
 
 const StyledImg = styled.img`
   img[src=""] {
@@ -14,8 +15,8 @@ export class page1955 extends Component {
     return (
       <Layout>
         <PageTitle title="1955" />
-        <div className="container">
-          <p>
+        <div className="container mx-auto flex flex-wrap">
+          <p className="container max-w-4xl mx-auto mb-8">
             1955 was the year live rock and roll came to Cedar Rapids. The date
             was October 6th and the band was Bill Haley & His Comets. That would
             signal the beginning of Danceland being the place for eastern Iowans
@@ -38,72 +39,79 @@ export class page1955 extends Component {
                     <h3>{ItemDetail.artist}</h3>
                     <p>{ItemDetail.price}</p>
                     <p>{ItemDetail.comment}</p>
-                    <div className="d-flex flex-wrap justify-content-center">
+                    <div className="flex flex-wrap justify-center">
                       <StyledImg
                         src={ItemDetail.img1}
                         alt=""
-                        className="mx-2"
+                        className=""
                         style={{
-                          maxHeight: "400px",
+                          // maxHeight: "400px",
                           boxShadow: "2px 2px 10px #333",
+                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
                         src={ItemDetail.img2}
                         alt=""
-                        className="mx-2"
+                        className=""
                         style={{
-                          maxHeight: "400px",
+                          // maxHeight: "400px",
                           boxShadow: "2px 2px 10px #333",
+                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
                         src={ItemDetail.img3}
                         alt=""
-                        className="mx-2"
+                        className=""
                         style={{
-                          maxHeight: "400px",
+                          // maxHeight: "400px",
                           boxShadow: "2px 2px 10px #333",
+                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
                         src={ItemDetail.img4}
                         alt=""
-                        className="mx-2"
+                        className=""
                         style={{
-                          maxHeight: "400px",
+                          // maxHeight: "400px",
                           boxShadow: "2px 2px 10px #333",
+                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
                         src={ItemDetail.img5}
                         alt=""
-                        className="mx-2"
+                        className=""
                         style={{
-                          maxHeight: "400px",
+                          // maxHeight: "400px",
                           boxShadow: "2px 2px 10px #333",
+                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
                         src={ItemDetail.img6}
                         alt=""
-                        className="mx-2"
+                        className=""
                         style={{
-                          maxHeight: "400px",
+                          // maxHeight: "400px",
                           boxShadow: "2px 2px 10px #333",
+                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
                         src={ItemDetail.img7}
                         alt=""
-                        className="mx-2"
+                        className=""
                         style={{
-                          maxHeight: "400px",
+                          // maxHeight: "400px",
                           boxShadow: "2px 2px 10px #333",
+                          borderRadius: "0.5rem",
                         }}
                       />
                     </div>
-                    <hr />
+                    <Hr />
                   </>
                 )
               })}

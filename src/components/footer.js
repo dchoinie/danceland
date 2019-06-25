@@ -1,58 +1,39 @@
 import React, { Component } from "react"
 import { Link } from "gatsby"
-import styled from "styled-components"
-import "bootstrap/dist/css/bootstrap.css"
-
-const Footer = styled.div`
-  background-color: #343a40;
-  color: #fff;
-`
 
 export class footer extends Component {
   render() {
     return (
-      <Footer>
+      <div className="footer bg-gray-800 text-white">
         <div className="row text-center">
-          <div className="col-md my-3">
-            <ul style={{ marginLeft: "0", listStyleType: "none" }}>
+          <div className="">
+            <ul>
               <li>
-                <Link to="/" style={{ color: "#fff" }}>
-                  Archives
-                </Link>
+                <Link to="/">Archives</Link>
               </li>
               <li>
-                <Link to="/dancelandbandstand" style={{ color: "#fff" }}>
-                  Danceland Bandstand
-                </Link>
+                <Link to="/dancelandbandstand">Danceland Bandstand</Link>
               </li>
               <li>
-                <Link to="/about" style={{ color: "#fff" }}>
-                  About
-                </Link>
+                <Link to="/about">About</Link>
               </li>
               <li>
-                <Link to="/contact" style={{ color: "#fff" }}>
-                  Contact
-                </Link>
+                <Link to="/contact">Contact</Link>
               </li>
             </ul>
           </div>
-          <div className="col-md my-3">
+          <div className="">
             <p>© {new Date().getFullYear()} | Steve Wilson</p>
             <small>
               Website by{" "}
-              <a
-                href="https://github.com/dchoinie"
-                target="_blank"
-                style={{ color: "#fff" }}
-              >
+              <a href="https://github.com/dchoinie" target="_blank">
                 Dan Choiniere
               </a>
             </small>
           </div>
-          <div className="col-md my-3">Footer 3</div>
+          <div className="">Footer 3</div>
         </div>
-      </Footer>
+      </div>
     )
   }
 }

@@ -1,6 +1,5 @@
 import React, { Component } from "react"
 import PropTypes from "prop-types"
-import "bootstrap/dist/css/bootstrap.css"
 
 export class pageTitle extends Component {
   static propTypes = {

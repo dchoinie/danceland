@@ -1,9 +1,6 @@
 import React, { Component } from "react"
 import styled from "styled-components"
 import { Link } from "gatsby"
-import Container from "react-bootstrap/Container"
-import Row from "react-bootstrap/Row"
-import Card from "react-bootstrap"
 
 const YearWrapper = styled.div`
   border: 2px solid #333;
@@ -30,7 +27,7 @@ const StyledLink = styled(Link)`
 export class YearSelector extends Component {
   render() {
     return (
-      <Container className="my-4">
+      <>
         <h2 className="text-center my-4">Explore The Archives</h2>
         <div className="row">
           <div className="col-md">
@@ -173,7 +170,7 @@ export class YearSelector extends Component {
             </StyledLink>
           </div>
         </div>
-      </Container>
+      </>
     )
   }
 }

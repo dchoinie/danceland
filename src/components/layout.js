@@ -9,9 +9,8 @@ import React from "react"
 import PropTypes from "prop-types"
 import { StaticQuery, graphql } from "gatsby"
 import Footer from "../components/footer"
-import Container from "react-bootstrap/Container"
 
-import Header from "./header"
+import Header from "./Header"
 import "./layout.css"
 
 const Layout = ({ children }) => (
@@ -28,9 +27,7 @@ const Layout = ({ children }) => (
     render={data => (
       <>
         <Header />
-        <Container>
-          <main>{children}</main>
-        </Container>
+        <main>{children}</main>
         <Footer />
       </>
     )}

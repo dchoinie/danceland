@@ -2,13 +2,12 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 import Welcome from "../components/welcome"
 import marquee from "../images/marquee.jpg"
-import YearSelector from "../components/yearSelector"
 
 import Layout from "../components/layout"
 
 const IndexPage = props => (
   <Layout>
-    <div style={{ display: "flex", justifyContent: "center" }}>
+    <div className="flex justify-center">
       <img
         src={marquee}
         alt="marquee"
@@ -17,7 +16,6 @@ const IndexPage = props => (
       />
     </div>
     <Welcome />
-    <YearSelector />
   </Layout>
 )
 
