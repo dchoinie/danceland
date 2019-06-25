@@ -2,172 +2,92 @@ import React, { Component } from "react"
 import styled from "styled-components"
 import { Link } from "gatsby"
 
-const YearWrapper = styled.div`
-  border: 2px solid #333;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-top: 0.5rem;
-  margin-bottom: 0.5rem;
-  background-color: #333;
-  border-radius: 0.25rem;
-  :hover {
-    background-color: #fff;
-  }
-`
-
-const StyledLink = styled(Link)`
-  color: #fff;
-  :hover {
-    text-decoration: none;
-    color: #333;
-  }
-`
-
-export class YearSelector extends Component {
+class YearSelector extends Component {
   render() {
     return (
       <>
-        <h2 className="text-center my-4">Explore The Archives</h2>
-        <div className="row">
-          <div className="col-md">
-            <StyledLink to="/1954">
-              <YearWrapper className="year-wrapper">
-                <h3 className="year-header py-3" style={{ marginBottom: "0" }}>
-                  1954
-                </h3>
-              </YearWrapper>
-            </StyledLink>
+        <h2 className="font-bold text-4xl text-center my-16">Search By Year</h2>
+        <div className="container px-4 mx-auto my-8">
+          <div class="flex mb-4 text-center">
+            <div class="w-1/5 bg-gray-800">
+              <Link to="/1954">
+                <h2 className="text-lg font-bold py-4 text-white">1954</h2>
+              </Link>
+            </div>
+            <div class="w-1/5 bg-gray-400">
+              <Link to="/1955">
+                <h2 className="text-lg font-bold py-4 text-gray-800">1955</h2>
+              </Link>
+            </div>
+            <div class="w-1/5 bg-gray-800">
+              <Link to="/1956">
+                <h2 className="text-lg font-bold py-4 text-white">1956</h2>
+              </Link>
+            </div>
+            <div class="w-1/5 bg-gray-400 text-gray-800">
+              <Link to="/1957">
+                <h2 className="text-lg font-bold py-4 text-gray-800">1957</h2>
+              </Link>
+            </div>
+            <div class="w-1/5 bg-gray-800">
+              <Link to="/1958">
+                <h2 className="text-lg font-bold py-4 text-white">1958</h2>
+              </Link>
+            </div>
           </div>
-          <div className="col-md">
-            <StyledLink to="/1955">
-              <YearWrapper className="year-wrapper">
-                <h3 className="year-header py-3" style={{ marginBottom: "0" }}>
-                  1955
-                </h3>
-              </YearWrapper>
-            </StyledLink>
+          <div class="flex mb-4 text-center">
+            <div class="w-1/5 bg-gray-400 text-gray-800">
+              <Link to="/1959">
+                <h2 className="text-lg font-bold py-4">1959</h2>
+              </Link>
+            </div>
+            <div class="w-1/5 bg-gray-800 text-white">
+              <Link to="/1960">
+                <h2 className="text-lg font-bold py-4">1960</h2>
+              </Link>
+            </div>
+            <div class="w-1/5 bg-gray-400 text-gray-800">
+              <Link to="/1961">
+                <h2 className="text-lg font-bold py-4">1961</h2>
+              </Link>
+            </div>
+            <div class="w-1/5 bg-gray-800 text-white">
+              <Link to="/1962">
+                <h2 className="text-lg font-bold py-4">1962</h2>
+              </Link>
+            </div>
+            <div class="w-1/5 bg-gray-400 text-gray-800">
+              <Link to="/1963">
+                <h2 className="text-lg font-bold py-4">1963</h2>
+              </Link>
+            </div>
           </div>
-          <div className="col-md">
-            <StyledLink to="/1956">
-              <YearWrapper className="year-wrapper">
-                <h3 className="year-header py-3" style={{ marginBottom: "0" }}>
-                  1956
-                </h3>
-              </YearWrapper>
-            </StyledLink>
-          </div>
-          <div className="col-md">
-            <StyledLink to="/1957">
-              <YearWrapper className="year-wrapper">
-                <h3 className="year-header py-3" style={{ marginBottom: "0" }}>
-                  1957
-                </h3>
-              </YearWrapper>
-            </StyledLink>
-          </div>
-          <div className="col-md">
-            <StyledLink to="/1958">
-              <YearWrapper className="year-wrapper">
-                <h3 className="year-header py-3" style={{ marginBottom: "0" }}>
-                  1958
-                </h3>
-              </YearWrapper>
-            </StyledLink>
-          </div>
-        </div>
-        <div className="row">
-          <div className="col-md">
-            <StyledLink to="/1959">
-              <YearWrapper className="year-wrapper">
-                <h3 className="year-header py-3" style={{ marginBottom: "0" }}>
-                  1959
-                </h3>
-              </YearWrapper>
-            </StyledLink>
-          </div>
-          <div className="col-md">
-            <StyledLink to="/1960">
-              <YearWrapper className="year-wrapper">
-                <h3 className="year-header py-3" style={{ marginBottom: "0" }}>
-                  1960
-                </h3>
-              </YearWrapper>
-            </StyledLink>
-          </div>
-          <div className="col-md">
-            <StyledLink to="/1961">
-              <YearWrapper className="year-wrapper">
-                <h3 className="year-header py-3" style={{ marginBottom: "0" }}>
-                  1961
-                </h3>
-              </YearWrapper>
-            </StyledLink>
-          </div>
-          <div className="col-md">
-            <StyledLink to="/1962">
-              <YearWrapper className="year-wrapper">
-                <h3 className="year-header py-3" style={{ marginBottom: "0" }}>
-                  1962
-                </h3>
-              </YearWrapper>
-            </StyledLink>
-          </div>
-          <div className="col-md">
-            <StyledLink to="/1963">
-              <YearWrapper className="year-wrapper">
-                <h3 className="year-header py-3" style={{ marginBottom: "0" }}>
-                  1963
-                </h3>
-              </YearWrapper>
-            </StyledLink>
-          </div>
-        </div>
-        <div className="row">
-          <div className="col-md">
-            <StyledLink to="/1964">
-              <YearWrapper className="year-wrapper">
-                <h3 className="year-header py-3" style={{ marginBottom: "0" }}>
-                  1964
-                </h3>
-              </YearWrapper>
-            </StyledLink>
-          </div>
-          <div className="col-md">
-            <StyledLink to="/1965">
-              <YearWrapper className="year-wrapper">
-                <h3 className="year-header py-3" style={{ marginBottom: "0" }}>
-                  1965
-                </h3>
-              </YearWrapper>
-            </StyledLink>
-          </div>
-          <div className="col-md">
-            <StyledLink to="/1966">
-              <YearWrapper className="year-wrapper">
-                <h3 className="year-header py-3" style={{ marginBottom: "0" }}>
-                  1966
-                </h3>
-              </YearWrapper>
-            </StyledLink>
-          </div>
-          <div className="col-md">
-            <StyledLink to="/1967">
-              <YearWrapper className="year-wrapper">
-                <h3 className="year-header py-3" style={{ marginBottom: "0" }}>
-                  1967
-                </h3>
-              </YearWrapper>
-            </StyledLink>
-          </div>
-          <div className="col-md">
-            <StyledLink to="/1968">
-              <YearWrapper className="year-wrapper">
-                <h3 className="year-header py-3" style={{ marginBottom: "0" }}>
-                  1968
-                </h3>
-              </YearWrapper>
-            </StyledLink>
+          <div class="flex mb-4 text-center">
+            <div class="w-1/5 bg-gray-800">
+              <Link to="/1964">
+                <h2 className="text-lg font-bold py-4 text-white">1964</h2>
+              </Link>
+            </div>
+            <div class="w-1/5 bg-gray-400">
+              <Link to="/1965">
+                <h2 className="text-lg font-bold py-4 text-gray-800">1965</h2>
+              </Link>
+            </div>
+            <div class="w-1/5 bg-gray-800">
+              <Link to="/1966">
+                <h2 className="text-lg font-bold py-4 text-white">1966</h2>
+              </Link>
+            </div>
+            <div class="w-1/5 bg-gray-400 text-gray-800">
+              <Link to="/1967">
+                <h2 className="text-lg font-bold py-4 text-gray-800">1967</h2>
+              </Link>
+            </div>
+            <div class="w-1/5 bg-gray-800">
+              <Link to="/1968">
+                <h2 className="text-lg font-bold py-4 text-white">1968</h2>
+              </Link>
+            </div>
           </div>
         </div>
       </>
