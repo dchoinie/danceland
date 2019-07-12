@@ -4,7 +4,7 @@ export class welcome extends Component {
   render() {
     return (
       <div className="container container-md mx-auto">
-        <div className="">
+        <div className="max-w-3xl mx-auto">
           <p className="my-6">
             Welcome to the website that is dedicated to preserving the history
             of Danceland Ballroom in Cedar Rapids, Iowa. You can view the

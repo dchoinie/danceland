@@ -26,7 +26,7 @@ export class page1955 extends Component {
             orchestra of Sauter-Finegan, polka great “Whoopee” John Wilfahrt &
             His Orchestra and Yankton South Dakota’s popular WNAX Bohemian Band.
             Major country acts include Pee Wee King & His Golden West Cowboys
-            and Bob Wills & His Texas Playboys.{" "}
+            and Bob Wills & His Texas Playboys.
           </p>
           <div className="row text-center">
             <div className="col">
