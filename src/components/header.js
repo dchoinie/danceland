@@ -1,36 +1,45 @@
 import React, { Component } from "react"
 import { Link } from "gatsby"
-import Dropdown from "../components/Dropdown"
+import DropdownSearchByYear from "../components/dropdownSearchByYear"
 
 class Header extends Component {
   render() {
     return (
-      <nav className="flex items-center justify-between flex-wrap bg-gray-800 p-6">
-        <div>
-          <Link
-            to="/"
-            className="uppercase text-white text-3xl font-black tracking-wider"
+      <div id="header" className="bg-black">
+        <div
+          id="headerInner"
+          className="flex justify-between items-center py-2 text-center text-white"
+          style={{ borderBottom: "2px solid gray" }}
+        >
+          <ul
+            className="flex justify-around text-xl"
+            style={{ flex: "0 1 33.3vw" }}
           >
-            Danceland
+            <li>
+              <DropdownSearchByYear />
+            </li>
+            <li className="">
+              <Link to="/">Danceland Bio</Link>
+            </li>
+          </ul>
+          <Link to="/">
+            <h1 className="text-6xl font-bold" style={{ flex: "0 1 33.3vh" }}>
+              Danceland
+            </h1>
           </Link>
-        </div>
-        <div>
-          <ul className="flex text-white text-lg">
-            <li className="mx-2">
-              <Dropdown />
+          <ul
+            className="flex justify-around text-xl"
+            style={{ flex: "0 1 33.3vw" }}
+          >
+            <li>
+              <Link to="/">Early Years</Link>
             </li>
-            <li className="mx-2">
-              <Link to="/dancelandbandstand">Danceland Bandstand</Link>
-            </li>
-            <li className="mx-2">
-              <Link to="/about">About</Link>
-            </li>
-            <li className="mx-2">
-              <Link to="/contact">Contact</Link>
+            <li>
+              <Link to="/">Danceland Bandstand</Link>
             </li>
           </ul>
         </div>
-      </nav>
+      </div>
     )
   }
 }

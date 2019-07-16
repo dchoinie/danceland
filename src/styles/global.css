@@ -1,5 +1,25 @@
 @tailwind base;
 
+* {
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Kalam", cursive;
+}
+
+p,
+ul,
+li,
+a {
+  font-family: "Open Sans", sans-serif;
+}
+
 @tailwind components;
 
 @tailwind utilities;
