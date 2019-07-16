@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "orderId": 1,
     "year": 1954,
@@ -268,7 +268,7 @@
     "year": 1954,
     "date": "Jan 15",
     "weekday": "Friday",
-    "artist": "Iowa Cornhuskers",
+    "artist": "The Iowa Cornhuskers",
     "price": "82¢ + tax",
     "imageId": "",
     "img1": "",
@@ -576,7 +576,7 @@
     "year": 1954,
     "date": "Jan 30",
     "weekday": "Saturday",
-    "artist": "Hal Wiese with Eugenie Scott",
+    "artist": "Hal Wiese & His Orchestra with Eugenie Scott",
     "price": "82¢ + tax",
     "imageId": 2,
     "img1": "https://firebasestorage.googleapis.com/v0/b/danceland-cr.appspot.com/o/1954%2F1954-2-1.jpg?alt=media&token=f53941a0-eb5e-4ce6-8ab7-47f59b5456f4",
@@ -1192,7 +1192,7 @@
     "year": 1954,
     "date": "Feb 27",
     "weekday": "Saturday",
-    "artist": "Hal Wiese with Eugenie Scott",
+    "artist": "Hal Wiese & His Orchestra with Eugenie Scott",
     "price": "82¢ + tax",
     "imageId": "",
     "img1": "",
@@ -1456,7 +1456,7 @@
     "year": 1954,
     "date": "Mar 12",
     "weekday": "Friday",
-    "artist": "Iowa Cornhuskers / Joe's Troubadors",
+    "artist": "The Iowa Cornhuskers / Joe's Troubadors",
     "price": "82¢ + tax",
     "imageId": "",
     "img1": "",
@@ -2512,7 +2512,7 @@
     "year": 1954,
     "date": "May 1",
     "weekday": "Saturday",
-    "artist": "Hal Wiese with Cynthia Scott",
+    "artist": "Hal Wiese & His Orchestra with Cynthia Scott",
     "price": "89¢ + tax",
     "imageId": "",
     "img1": "",
@@ -2732,7 +2732,7 @@
     "year": 1954,
     "date": "May 14",
     "weekday": "Friday",
-    "artist": "Iowa Cornhuskers",
+    "artist": "The Iowa Cornhuskers",
     "price": "89¢ + tax",
     "imageId": "",
     "img1": "",
@@ -3700,7 +3700,7 @@
     "year": 1954,
     "date": "Jun 26",
     "weekday": "Saturday",
-    "artist": "Hal Wiese with Cynthia Scott",
+    "artist": "Hal Wiese & His Orchestra with Cynthia Scott",
     "price": "89¢ + tax",
     "imageId": "",
     "img1": "",
@@ -4400,7 +4400,7 @@
     "img35": ""
   },
   {
-    "orderId": "",
+    "orderId": 101,
     "year": "",
     "date": "",
     "weekday": "",
@@ -4444,7 +4444,7 @@
     "img35": ""
   },
   {
-    "orderId": 101,
+    "orderId": 102,
     "year": 1954,
     "date": "Aug 4",
     "weekday": "Wednesday",
@@ -4488,7 +4488,7 @@
     "img35": ""
   },
   {
-    "orderId": 102,
+    "orderId": 103,
     "year": 1954,
     "date": "Aug 6",
     "weekday": "Friday",
@@ -4532,7 +4532,7 @@
     "img35": ""
   },
   {
-    "orderId": 103,
+    "orderId": 104,
     "year": 1954,
     "date": "Aug 7",
     "weekday": "Saturday",
@@ -4576,7 +4576,7 @@
     "img35": ""
   },
   {
-    "orderId": 104,
+    "orderId": 105,
     "year": 1954,
     "date": "Aug 11",
     "weekday": "Wednesday",
@@ -4620,7 +4620,7 @@
     "img35": ""
   },
   {
-    "orderId": 105,
+    "orderId": 106,
     "year": 1954,
     "date": "Aug 13",
     "weekday": "Friday",
@@ -4664,7 +4664,7 @@
     "img35": ""
   },
   {
-    "orderId": 106,
+    "orderId": 107,
     "year": 1954,
     "date": "Aug 14",
     "weekday": "Saturday",
@@ -4708,7 +4708,7 @@
     "img35": ""
   },
   {
-    "orderId": 107,
+    "orderId": 108,
     "year": 1954,
     "date": "Aug 18",
     "weekday": "Wednesday",
@@ -4752,7 +4752,7 @@
     "img35": ""
   },
   {
-    "orderId": 108,
+    "orderId": 109,
     "year": 1954,
     "date": "Aug 19",
     "weekday": "Thursday",
@@ -4796,7 +4796,7 @@
     "img35": ""
   },
   {
-    "orderId": 109,
+    "orderId": 110,
     "year": 1954,
     "date": "Aug 20",
     "weekday": "Friday",
@@ -4840,11 +4840,11 @@
     "img35": ""
   },
   {
-    "orderId": 110,
+    "orderId": 111,
     "year": 1954,
     "date": "Aug 21",
     "weekday": "Saturday",
-    "artist": "Hal Wiese with Eugenie Scott",
+    "artist": "Hal Wiese & His Orchestra with Eugenie Scott",
     "price": "89¢ + tax",
     "imageId": "",
     "img1": "",
@@ -4884,7 +4884,7 @@
     "img35": ""
   },
   {
-    "orderId": 111,
+    "orderId": 112,
     "year": 1954,
     "date": "Aug 23",
     "weekday": "Monday",
@@ -4928,7 +4928,7 @@
     "img35": ""
   },
   {
-    "orderId": 112,
+    "orderId": 113,
     "year": 1954,
     "date": "Aug 25",
     "weekday": "Wednesday",
@@ -4972,7 +4972,7 @@
     "img35": ""
   },
   {
-    "orderId": 113,
+    "orderId": 114,
     "year": 1954,
     "date": "Aug 27",
     "weekday": "Friday",
@@ -5016,7 +5016,7 @@
     "img35": ""
   },
   {
-    "orderId": 114,
+    "orderId": 115,
     "year": 1954,
     "date": "Aug 28",
     "weekday": "Saturday",
@@ -5060,7 +5060,7 @@
     "img35": ""
   },
   {
-    "orderId": 115,
+    "orderId": 116,
     "year": 1954,
     "date": "Sep 1",
     "weekday": "Wednesday",
@@ -5104,7 +5104,7 @@
     "img35": ""
   },
   {
-    "orderId": 116,
+    "orderId": 117,
     "year": 1954,
     "date": "Sep 3",
     "weekday": "Friday",
@@ -5148,7 +5148,7 @@
     "img35": ""
   },
   {
-    "orderId": 117,
+    "orderId": 118,
     "year": 1954,
     "date": "Sep 4",
     "weekday": "Saturday",
@@ -5192,7 +5192,7 @@
     "img35": ""
   },
   {
-    "orderId": 118,
+    "orderId": 119,
     "year": 1954,
     "date": "Sep 7",
     "weekday": "Tuesday",
@@ -5236,7 +5236,7 @@
     "img35": ""
   },
   {
-    "orderId": 119,
+    "orderId": 120,
     "year": 1954,
     "date": "Sep 8",
     "weekday": "Wednesday",
@@ -5280,7 +5280,7 @@
     "img35": ""
   },
   {
-    "orderId": 120,
+    "orderId": 121,
     "year": 1954,
     "date": "Sep 10",
     "weekday": "Friday",
@@ -5324,7 +5324,7 @@
     "img35": ""
   },
   {
-    "orderId": 121,
+    "orderId": 122,
     "year": 1954,
     "date": "Sep 11",
     "weekday": "Saturday",
@@ -5368,7 +5368,7 @@
     "img35": ""
   },
   {
-    "orderId": 122,
+    "orderId": 123,
     "year": 1954,
     "date": "Sep 15",
     "weekday": "Wednesday",
@@ -5412,11 +5412,11 @@
     "img35": ""
   },
   {
-    "orderId": 123,
+    "orderId": 124,
     "year": 1954,
     "date": "Sep 17",
     "weekday": "Friday",
-    "artist": "Iowa Cornhukers",
+    "artist": "The Iowa Cornhukers",
     "price": "89¢ + tax",
     "imageId": "",
     "img1": "",
@@ -5456,7 +5456,7 @@
     "img35": ""
   },
   {
-    "orderId": 124,
+    "orderId": 125,
     "year": 1954,
     "date": "Sep 18",
     "weekday": "Saturday",
@@ -5500,7 +5500,7 @@
     "img35": ""
   },
   {
-    "orderId": 125,
+    "orderId": 126,
     "year": 1954,
     "date": "Sep 22",
     "weekday": "Wednesday",
@@ -5544,7 +5544,7 @@
     "img35": ""
   },
   {
-    "orderId": 126,
+    "orderId": 127,
     "year": 1954,
     "date": "Sep 24",
     "weekday": "Friday",
@@ -5588,11 +5588,11 @@
     "img35": ""
   },
   {
-    "orderId": 127,
+    "orderId": 128,
     "year": 1954,
     "date": "Sep 25",
     "weekday": "Saturday",
-    "artist": "Hal Wiese with Eugenie Scott",
+    "artist": "Hal Wiese & His Orchestra with Eugenie Scott",
     "price": "89¢ + tax",
     "imageId": 27,
     "img1": "https://firebasestorage.googleapis.com/v0/b/danceland-cr.appspot.com/o/1954%2F1954-27-1.jpg?alt=media&token=f34e7f93-c0e0-4a99-bcf6-1696cf5705d2",
@@ -5632,7 +5632,7 @@
     "img35": ""
   },
   {
-    "orderId": 128,
+    "orderId": 129,
     "year": 1954,
     "date": "Sep 28",
     "weekday": "Tuesday",
@@ -5676,7 +5676,7 @@
     "img35": ""
   },
   {
-    "orderId": 129,
+    "orderId": 130,
     "year": 1954,
     "date": "Sep 29",
     "weekday": "Wednesday",
@@ -5720,7 +5720,7 @@
     "img35": ""
   },
   {
-    "orderId": 130,
+    "orderId": 131,
     "year": 1954,
     "date": "Oct 1",
     "weekday": "Friday",
@@ -5764,7 +5764,7 @@
     "img35": ""
   },
   {
-    "orderId": 131,
+    "orderId": 132,
     "year": 1954,
     "date": "Oct 2",
     "weekday": "Saturday",
@@ -5808,7 +5808,7 @@
     "img35": ""
   },
   {
-    "orderId": 132,
+    "orderId": 133,
     "year": 1954,
     "date": "Oct 6",
     "weekday": "Wednesday",
@@ -5852,7 +5852,7 @@
     "img35": ""
   },
   {
-    "orderId": 133,
+    "orderId": 134,
     "year": 1954,
     "date": "Oct 8",
     "weekday": "Friday",
@@ -5896,11 +5896,11 @@
     "img35": ""
   },
   {
-    "orderId": 134,
+    "orderId": 135,
     "year": 1954,
     "date": "Oct 9",
     "weekday": "Saturday",
-    "artist": "Hal Wiese with Eugenie Scott",
+    "artist": "Hal Wiese & His Orchestra with Eugenie Scott",
     "price": "89¢ + tax",
     "imageId": "",
     "img1": "",
@@ -5940,7 +5940,7 @@
     "img35": ""
   },
   {
-    "orderId": 135,
+    "orderId": 136,
     "year": 1954,
     "date": "Oct 13",
     "weekday": "Wednesday",
@@ -5984,7 +5984,7 @@
     "img35": ""
   },
   {
-    "orderId": 136,
+    "orderId": 137,
     "year": 1954,
     "date": "Oct 15",
     "weekday": "Friday",
@@ -6028,7 +6028,7 @@
     "img35": ""
   },
   {
-    "orderId": 137,
+    "orderId": 138,
     "year": 1954,
     "date": "Oct 16",
     "weekday": "Saturday",
@@ -6072,7 +6072,7 @@
     "img35": ""
   },
   {
-    "orderId": 138,
+    "orderId": 139,
     "year": 1954,
     "date": "Oct 20",
     "weekday": "Wednesday",
@@ -6116,7 +6116,7 @@
     "img35": ""
   },
   {
-    "orderId": 139,
+    "orderId": 140,
     "year": 1954,
     "date": "Oct 22",
     "weekday": "Friday",
@@ -6160,7 +6160,7 @@
     "img35": ""
   },
   {
-    "orderId": 140,
+    "orderId": 141,
     "year": 1954,
     "date": "Oct 23",
     "weekday": "Saturday",
@@ -6204,7 +6204,7 @@
     "img35": ""
   },
   {
-    "orderId": 141,
+    "orderId": 142,
     "year": 1954,
     "date": "Oct 26",
     "weekday": "Tuesday",
@@ -6248,7 +6248,7 @@
     "img35": ""
   },
   {
-    "orderId": 142,
+    "orderId": 143,
     "year": 1954,
     "date": "Oct 27",
     "weekday": "Wednesday",
@@ -6292,7 +6292,7 @@
     "img35": ""
   },
   {
-    "orderId": 143,
+    "orderId": 144,
     "year": 1954,
     "date": "Oct 29",
     "weekday": "Friday",
@@ -6336,7 +6336,7 @@
     "img35": ""
   },
   {
-    "orderId": 144,
+    "orderId": 145,
     "year": 1954,
     "date": "Oct 30",
     "weekday": "Saturday",
@@ -6380,7 +6380,7 @@
     "img35": ""
   },
   {
-    "orderId": 145,
+    "orderId": 146,
     "year": 1954,
     "date": "Nov 3",
     "weekday": "Wednesday",
@@ -6424,7 +6424,7 @@
     "img35": ""
   },
   {
-    "orderId": 146,
+    "orderId": 147,
     "year": 1954,
     "date": "Nov 4",
     "weekday": "Thursday",
@@ -6468,7 +6468,7 @@
     "img35": ""
   },
   {
-    "orderId": 147,
+    "orderId": 148,
     "year": 1954,
     "date": "Nov 5",
     "weekday": "Friday",
@@ -6512,11 +6512,11 @@
     "img35": ""
   },
   {
-    "orderId": 148,
+    "orderId": 149,
     "year": 1954,
     "date": "Nov 6",
     "weekday": "Saturday",
-    "artist": "Hal Wiese with Eugenie Scott",
+    "artist": "Hal Wiese & His Orchestra with Eugenie Scott",
     "price": "89¢ + tax",
     "imageId": 33,
     "img1": "https://firebasestorage.googleapis.com/v0/b/danceland-cr.appspot.com/o/1954%2F1954-33-1.jpg?alt=media&token=28d26a6c-00f4-4746-bffa-dc7bcd0edbb1",
@@ -6556,7 +6556,7 @@
     "img35": ""
   },
   {
-    "orderId": 149,
+    "orderId": 150,
     "year": 1954,
     "date": "Nov 10",
     "weekday": "Wednesday",
@@ -6600,7 +6600,7 @@
     "img35": ""
   },
   {
-    "orderId": 150,
+    "orderId": 151,
     "year": 1954,
     "date": "Nov 12",
     "weekday": "Friday",
@@ -6644,7 +6644,7 @@
     "img35": ""
   },
   {
-    "orderId": 151,
+    "orderId": 152,
     "year": 1954,
     "date": "Nov 13",
     "weekday": "Saturday",
@@ -6688,7 +6688,7 @@
     "img35": ""
   },
   {
-    "orderId": 152,
+    "orderId": 153,
     "year": 1954,
     "date": "Nov 16",
     "weekday": "Tuesday",
@@ -6732,7 +6732,7 @@
     "img35": ""
   },
   {
-    "orderId": 153,
+    "orderId": 154,
     "year": 1954,
     "date": "Nov 17",
     "weekday": "Wednesday",
@@ -6776,7 +6776,7 @@
     "img35": ""
   },
   {
-    "orderId": 154,
+    "orderId": 155,
     "year": 1954,
     "date": "Nov 19",
     "weekday": "Friday",
@@ -6820,7 +6820,7 @@
     "img35": ""
   },
   {
-    "orderId": 155,
+    "orderId": 156,
     "year": 1954,
     "date": "Nov 20",
     "weekday": "Saturday",
@@ -6864,7 +6864,7 @@
     "img35": ""
   },
   {
-    "orderId": 156,
+    "orderId": 157,
     "year": 1954,
     "date": "Nov 24",
     "weekday": "Wednesday",
@@ -6908,7 +6908,7 @@
     "img35": ""
   },
   {
-    "orderId": 157,
+    "orderId": 158,
     "year": 1954,
     "date": "Nov 26",
     "weekday": "Friday",
@@ -6952,7 +6952,7 @@
     "img35": ""
   },
   {
-    "orderId": 158,
+    "orderId": 159,
     "year": 1954,
     "date": "Nov 27",
     "weekday": "Saturday",
@@ -6996,7 +6996,7 @@
     "img35": ""
   },
   {
-    "orderId": 159,
+    "orderId": 160,
     "year": 1954,
     "date": "Nov 30",
     "weekday": "Tuesday",
@@ -7040,7 +7040,7 @@
     "img35": ""
   },
   {
-    "orderId": 160,
+    "orderId": 161,
     "year": 1954,
     "date": "Dec 1",
     "weekday": "Wednesday",
@@ -7084,7 +7084,7 @@
     "img35": ""
   },
   {
-    "orderId": 161,
+    "orderId": 162,
     "year": 1954,
     "date": "Dec 3",
     "weekday": "Friday",
@@ -7128,7 +7128,7 @@
     "img35": ""
   },
   {
-    "orderId": 162,
+    "orderId": 163,
     "year": 1954,
     "date": "Dec 4",
     "weekday": "Saturday",
@@ -7172,7 +7172,7 @@
     "img35": ""
   },
   {
-    "orderId": 163,
+    "orderId": 164,
     "year": 1954,
     "date": "Dec 8",
     "weekday": "Wednesday",
@@ -7216,7 +7216,7 @@
     "img35": ""
   },
   {
-    "orderId": 164,
+    "orderId": 165,
     "year": 1954,
     "date": "Dec 10",
     "weekday": "Friday",
@@ -7260,7 +7260,7 @@
     "img35": ""
   },
   {
-    "orderId": 165,
+    "orderId": 166,
     "year": 1954,
     "date": "Dec 11",
     "weekday": "Saturday",
@@ -7304,7 +7304,7 @@
     "img35": ""
   },
   {
-    "orderId": 166,
+    "orderId": 167,
     "year": 1954,
     "date": "Dec 15",
     "weekday": "Wednesday",
@@ -7348,7 +7348,7 @@
     "img35": ""
   },
   {
-    "orderId": 167,
+    "orderId": 168,
     "year": 1954,
     "date": "Dec 17",
     "weekday": "Friday",
@@ -7392,7 +7392,7 @@
     "img35": ""
   },
   {
-    "orderId": 168,
+    "orderId": 169,
     "year": 1954,
     "date": "Dec 18",
     "weekday": "Saturday",
@@ -7436,7 +7436,7 @@
     "img35": ""
   },
   {
-    "orderId": 169,
+    "orderId": 170,
     "year": 1954,
     "date": "Dec 22",
     "weekday": "Wednesday",
@@ -7480,11 +7480,11 @@
     "img35": ""
   },
   {
-    "orderId": 170,
+    "orderId": 171,
     "year": 1954,
     "date": "Dec 23",
     "weekday": "Thursday",
-    "artist": "Pug's Western Playboys with Jerry Smith & Jimmy Seeley, Koberley Sisters, Judy Mae",
+    "artist": "Pug's Western Playboys with Jerry Smith & Jimmy Seeley, The Koberley Sisters, Judy Mae",
     "price": "89¢ + tax",
     "imageId": 39,
     "img1": "https://firebasestorage.googleapis.com/v0/b/danceland-cr.appspot.com/o/1954%2F1954-39-1.jpg?alt=media&token=bf678e19-6762-43a0-9ed2-ab4dc6620682",
@@ -7524,7 +7524,7 @@
     "img35": ""
   },
   {
-    "orderId": 171,
+    "orderId": 172,
     "year": 1954,
     "date": "Dec 24",
     "weekday": "Friday",
@@ -7568,7 +7568,7 @@
     "img35": ""
   },
   {
-    "orderId": 172,
+    "orderId": 173,
     "year": 1954,
     "date": "Dec 25",
     "weekday": "Saturday",
@@ -7612,7 +7612,7 @@
     "img35": ""
   },
   {
-    "orderId": 173,
+    "orderId": 174,
     "year": 1954,
     "date": "Dec 29",
     "weekday": "Wednesday",
@@ -7656,7 +7656,7 @@
     "img35": ""
   },
   {
-    "orderId": 174,
+    "orderId": 175,
     "year": 1954,
     "date": "Dec 30",
     "weekday": "Thursday",
@@ -7700,7 +7700,7 @@
     "img35": ""
   },
   {
-    "orderId": 175,
+    "orderId": 176,
     "year": 1954,
     "date": "Dec 31",
     "weekday": "Friday",
