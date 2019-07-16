@@ -2,7 +2,7 @@ import React, { Component } from "react"
 import Layout from "../components/layout"
 import styled from "styled-components"
 import PageTitle from "../components/pageTitle"
-import YearData from "../data/data1955"
+import YearData from "../data/data1959"
 import Hr from "../components/Hr"
 
 const StyledImg = styled.img`
@@ -11,11 +11,11 @@ const StyledImg = styled.img`
   }
 `
 
-export class page1954 extends Component {
+export class page1959 extends Component {
   render() {
     return (
       <Layout>
-        <PageTitle title="1955" />
+        <PageTitle title="1959" />
         <div className="container mx-auto">
           <p className="container max-w-4xl mx-auto mb-8"></p>
           <div className="row text-center">
@@ -392,4 +392,4 @@ export class page1954 extends Component {
   }
 }
 
-export default page1954
+export default page1959
