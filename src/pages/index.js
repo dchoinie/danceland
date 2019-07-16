@@ -3,6 +3,7 @@ import { Link, graphql } from "gatsby"
 import Welcome from "../components/welcome"
 import marquee from "../images/marquee.jpg"
 import YearSelector from "../components/yearSelector"
+import Background from "../images/interlaced.png"
 
 import Layout from "../components/layout"
 

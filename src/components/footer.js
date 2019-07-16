@@ -22,11 +22,6 @@ export class footer extends Component {
         </div>
         <div className="px-2 py-2">
           <p>© {new Date().getFullYear()} | Steve Wilson</p>
-          <small>
-            <a href="https://github.com/dchoinie" target="_blank">
-              Website by Dan Choiniere
-            </a>
-          </small>
         </div>
       </div>
     )
