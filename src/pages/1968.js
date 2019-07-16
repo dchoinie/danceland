@@ -5,7 +5,7 @@ import Layout from "../components/layout"
 const page1968 = props => {
   return (
     <Layout>
-      <h2 className="text-center">1968 Coming Soon!!</h2>
+      <h2 className="text-center">1968 Coming Soon!</h2>
     </Layout>
   )
 }
