@@ -15,6 +15,7 @@ export class pageTitle extends Component {
             fontSize: "3rem",
             fontWeight: "700",
             textDecoration: "underline",
+            fontFamily: "Open Sans",
           }}
         >
           {this.props.title}

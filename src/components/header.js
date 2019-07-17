@@ -9,7 +9,6 @@ class Header extends Component {
         <div
           id="headerInner"
           className="flex justify-between items-center py-2 text-center text-white"
-          style={{ borderBottom: "2px solid gray" }}
         >
           <ul
             className="flex justify-around text-xl"
