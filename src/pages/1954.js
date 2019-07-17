@@ -9,6 +9,8 @@ const StyledImg = styled.img`
   img[src=""] {
     display: none;
   }
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
 `
 
 export class page1954 extends Component {
@@ -40,7 +42,7 @@ export class page1954 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
+                          maxWidth: "400px",
                           borderRadius: "0.5rem",
                         }}
                       />
@@ -50,7 +52,6 @@ export class page1954 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
                           borderRadius: "0.5rem",
                         }}
                       />
@@ -60,7 +61,6 @@ export class page1954 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
                           borderRadius: "0.5rem",
                         }}
                       />
@@ -70,7 +70,6 @@ export class page1954 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
                           borderRadius: "0.5rem",
                         }}
                       />
@@ -80,7 +79,6 @@ export class page1954 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
                           borderRadius: "0.5rem",
                         }}
                       />
@@ -90,7 +88,6 @@ export class page1954 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
                           borderRadius: "0.5rem",
                         }}
                       />
@@ -100,7 +97,6 @@ export class page1954 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
                           borderRadius: "0.5rem",
                         }}
                       />
@@ -110,7 +106,6 @@ export class page1954 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
                           borderRadius: "0.5rem",
                         }}
                       />
@@ -120,7 +115,6 @@ export class page1954 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
                           borderRadius: "0.5rem",
                         }}
                       />
@@ -130,7 +124,6 @@ export class page1954 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
                           borderRadius: "0.5rem",
                         }}
                       />
@@ -140,7 +133,6 @@ export class page1954 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
                           borderRadius: "0.5rem",
                         }}
                       />
@@ -150,7 +142,6 @@ export class page1954 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
                           borderRadius: "0.5rem",
                         }}
                       />
@@ -160,7 +151,6 @@ export class page1954 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
                           borderRadius: "0.5rem",
                         }}
                       />
@@ -170,7 +160,6 @@ export class page1954 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
                           borderRadius: "0.5rem",
                         }}
                       />
@@ -180,7 +169,6 @@ export class page1954 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
                           borderRadius: "0.5rem",
                         }}
                       />
@@ -190,7 +178,6 @@ export class page1954 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
                           borderRadius: "0.5rem",
                         }}
                       />
@@ -200,7 +187,6 @@ export class page1954 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
                           borderRadius: "0.5rem",
                         }}
                       />
@@ -210,7 +196,6 @@ export class page1954 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
                           borderRadius: "0.5rem",
                         }}
                       />
@@ -220,7 +205,6 @@ export class page1954 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
                           borderRadius: "0.5rem",
                         }}
                       />
@@ -230,7 +214,6 @@ export class page1954 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
                           borderRadius: "0.5rem",
                         }}
                       />
@@ -240,7 +223,6 @@ export class page1954 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
                           borderRadius: "0.5rem",
                         }}
                       />
@@ -250,7 +232,6 @@ export class page1954 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
                           borderRadius: "0.5rem",
                         }}
                       />
@@ -260,7 +241,6 @@ export class page1954 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
                           borderRadius: "0.5rem",
                         }}
                       />
@@ -270,7 +250,6 @@ export class page1954 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
                           borderRadius: "0.5rem",
                         }}
                       />
@@ -280,7 +259,6 @@ export class page1954 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
                           borderRadius: "0.5rem",
                         }}
                       />
@@ -290,7 +268,6 @@ export class page1954 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
                           borderRadius: "0.5rem",
                         }}
                       />
@@ -300,7 +277,6 @@ export class page1954 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
                           borderRadius: "0.5rem",
                         }}
                       />
@@ -310,7 +286,6 @@ export class page1954 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
                           borderRadius: "0.5rem",
                         }}
                       />
@@ -320,7 +295,6 @@ export class page1954 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
                           borderRadius: "0.5rem",
                         }}
                       />
@@ -330,7 +304,6 @@ export class page1954 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
                           borderRadius: "0.5rem",
                         }}
                       />
@@ -340,7 +313,6 @@ export class page1954 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
                           borderRadius: "0.5rem",
                         }}
                       />
@@ -350,7 +322,6 @@ export class page1954 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
                           borderRadius: "0.5rem",
                         }}
                       />
@@ -360,7 +331,6 @@ export class page1954 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
                           borderRadius: "0.5rem",
                         }}
                       />
@@ -370,7 +340,6 @@ export class page1954 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
                           borderRadius: "0.5rem",
                         }}
                       />
@@ -380,7 +349,6 @@ export class page1954 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
                           borderRadius: "0.5rem",
                         }}
                       />
