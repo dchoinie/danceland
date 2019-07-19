@@ -1,6 +1,6 @@
 import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
-import HeroImg from "../images/front_wider.jpg"
+import HeroImg from "../images/Front_Wider.jpg"
 
 export default () => {
   const data = useStaticQuery(graphql`
