@@ -12,7 +12,7 @@ class Header extends Component {
         >
           <ul
             className="flex justify-around text-lg"
-            style={{ flex: "0 1 33.3vw" }}
+            style={{ flex: "0 1 37.5vw" }}
           >
             <li>
               <DropdownSearchByYear />
@@ -25,13 +25,13 @@ class Header extends Component {
             </li>
           </ul>
           <Link to="/">
-            <h1 className="text-6xl font-bold" style={{ flex: "0 1 33.3vh" }}>
+            <h1 className="text-6xl font-bold" style={{ flex: "0 1 25vh" }}>
               Danceland
             </h1>
           </Link>
           <ul
             className="flex justify-around text-lg"
-            style={{ flex: "0 1 33.3vw" }}
+            style={{ flex: "0 1 37.5vw" }}
           >
             <li>
               <Link to="/">Darlowe Olesen</Link>

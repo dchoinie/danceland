@@ -5,15 +5,6 @@ import HeroImg from "../images/front_wider.jpg"
 export default () => {
   const data = useStaticQuery(graphql`
     query {
-      file(relativePath: { eq: "front_wider.jpg" }) {
-        childImageSharp {
-          # Specify a fixed image and fragment.
-          # The default width is 400 pixelss
-          fluid(quality: 100) {
-            ...GatsbyImageSharpFluid
-          }
-        }
-      }
       site {
         siteMetadata {
           title
@@ -37,7 +28,7 @@ export default () => {
         style={{
           position: "absolute",
           top: "65%",
-          backgroundColor: "rgba(112, 36, 89, 0.5)",
+          backgroundColor: "rgba(80, 26, 64, 0.5)",
         }}
       >
         <h1 className="text-6xl font-bold">{data.site.siteMetadata.title}</h1>
