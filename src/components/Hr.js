@@ -7,6 +7,7 @@ const StyledHr = styled.hr`
   border-top: medium double #333;
   color: #333;
   text-align: center;
+  z-index: 1;
 
   :after {
     content: "D";
@@ -14,8 +15,9 @@ const StyledHr = styled.hr`
     position: relative;
     top: -0.8em;
     font-size: 1em;
-    padding: 0 0.25em;
-    background: white;
+    padding: 0 0.25rem;
+    background: rgba(255, 255, 255, 1);
+    z-index: 40;
   }
 `
 
