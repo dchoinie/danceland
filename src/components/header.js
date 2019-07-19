@@ -5,13 +5,13 @@ import DropdownSearchByYear from "../components/dropdownSearchByYear"
 class Header extends Component {
   render() {
     return (
-      <div id="header" className="bg-black">
+      <div id="header" style={{ backgroundColor: "#222" }}>
         <div
           id="headerInner"
-          className="flex justify-between items-center py-2 text-center text-white"
+          className="flex justify-between items-center py-1 text-center text-white"
         >
           <ul
-            className="flex justify-around text-xl"
+            className="flex justify-around text-lg"
             style={{ flex: "0 1 33.3vw" }}
           >
             <li>
@@ -20,6 +20,9 @@ class Header extends Component {
             <li className="">
               <Link to="/">Danceland Bio</Link>
             </li>
+            <li>
+              <Link to="/">Early Years</Link>
+            </li>
           </ul>
           <Link to="/">
             <h1 className="text-6xl font-bold" style={{ flex: "0 1 33.3vh" }}>
@@ -27,11 +30,14 @@ class Header extends Component {
             </h1>
           </Link>
           <ul
-            className="flex justify-around text-xl"
+            className="flex justify-around text-lg"
             style={{ flex: "0 1 33.3vw" }}
           >
             <li>
-              <Link to="/">Early Years</Link>
+              <Link to="/">Darlowe Olesen</Link>
+            </li>
+            <li>
+              <Link to="/">Posters</Link>
             </li>
             <li>
               <Link to="/">Danceland Bandstand</Link>

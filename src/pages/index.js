@@ -1,22 +1,13 @@
 import React from "react"
-import { Link, graphql } from "gatsby"
+import Hero from "../components/hero"
 import Welcome from "../components/welcome"
-import marquee from "../images/marquee.jpg"
 import YearSelector from "../components/yearSelector"
-import Background from "../images/interlaced.png"
 
 import Layout from "../components/layout"
 
 const IndexPage = props => (
   <Layout>
-    <div className="flex justify-center">
-      <img
-        src={marquee}
-        alt="marquee"
-        className="my-10"
-        style={{ boxShadow: "2px 2px 10px #333" }}
-      />
-    </div>
+    <Hero />
     <Welcome />
     <YearSelector />
   </Layout>
