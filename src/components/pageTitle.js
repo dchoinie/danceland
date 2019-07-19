@@ -10,7 +10,7 @@ export class pageTitle extends Component {
     return (
       <div>
         <h2
-          className="text-center my-4"
+          className="text-center py-4"
           style={{
             fontSize: "3rem",
             fontWeight: "700",

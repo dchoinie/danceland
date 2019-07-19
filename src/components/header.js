@@ -18,7 +18,7 @@ class Header extends Component {
               <DropdownSearchByYear />
             </li>
             <li className="">
-              <Link to="/">Danceland Bio</Link>
+              <Link to="/bio">Danceland Bio</Link>
             </li>
             <li>
               <Link to="/">Early Years</Link>

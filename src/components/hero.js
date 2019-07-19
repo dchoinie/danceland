@@ -28,6 +28,7 @@ export default () => {
           position: "absolute",
           top: "65%",
           backgroundColor: "rgba(80, 26, 64, 0.5)",
+          border: "1.5px solid rgba(80, 26, 64, 1)",
         }}
       >
         <h1 className="text-6xl font-bold">{data.site.siteMetadata.title}</h1>
