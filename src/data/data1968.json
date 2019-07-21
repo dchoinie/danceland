@@ -1,8 +1,9 @@
-﻿[
+[
   {
     "orderId": 2201,
     "year": 1968,
     "date": "Mar 17",
+    "fullDate": "March 17",
     "weekday": "Sunday",
     "artist": "Pete Klint Quintet",
     "price": "$1.50",

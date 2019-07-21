@@ -33,7 +33,7 @@ export class page1954 extends Component {
                   return (
                     <>
                       <p>
-                        {ItemDetail.date}, {ItemDetail.weekday}
+                        {ItemDetail.fullDate}, {ItemDetail.weekday}
                       </p>
                       <h3 className="text-2xl">{ItemDetail.artist}</h3>
                       <p>{ItemDetail.price}</p>
