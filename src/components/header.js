@@ -1,7 +1,6 @@
 import React, { Component } from "react"
 import { Link } from "gatsby"
 import DropdownSearchByYear from "../components/dropdownSearchByYear"
-import Texture from "../images/interlaced.png"
 import { FaBars } from "react-icons/Fa"
 
 class Header extends Component {
