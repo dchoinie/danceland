@@ -48,9 +48,9 @@ class Header extends Component {
             </li>
           </ul>
           <ul>
-            {/* <li className="px-6 lg:hidden">
+            <li className="px-6 lg:hidden">
               <FaBars />
-            </li> */}
+            </li>
           </ul>
         </div>
       </div>
