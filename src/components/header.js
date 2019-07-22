@@ -1,7 +1,7 @@
 import React, { Component } from "react"
 import { Link } from "gatsby"
 import DropdownSearchByYear from "../components/dropdownSearchByYear"
-import { FaBars } from "react-icons/Fa"
+// import { FaBars } from "react-icons/Fa"
 
 class Header extends Component {
   render() {
@@ -48,9 +48,9 @@ class Header extends Component {
             </li>
           </ul>
           <ul>
-            <li className="px-6 lg:hidden">
+            {/* <li className="px-6 lg:hidden">
               <FaBars />
-            </li>
+            </li> */}
           </ul>
         </div>
       </div>
