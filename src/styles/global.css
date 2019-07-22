@@ -22,4 +22,29 @@ a {
 
 @tailwind components;
 
+#heroContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  height: calc(100vh - 96px);
+}
+
+#heroTitle {
+  font-size: 4rem;
+}
+
+@media screen and (min-width: 768px) {
+  #heroContainer {
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 5%;
+    text-align: left;
+  }
+  #heroTitle {
+    font-size: 5rem;
+  }
+}
+
 @tailwind utilities;

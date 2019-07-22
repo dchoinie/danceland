@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 export class welcome extends Component {
     render() {
         return (
-            <div className="container mx-auto my-16 max-w-4xl shadow-lg">
+            <div className="container mx-auto my-16 max-w-4xl shadow-lg rounded">
                 <div className="welcomeInner p-6">
                     <p className="my-4"><span className="text-4xl font-bold text-pink-500">Welcome</span> to the website that is dedicated to preserving the history of Danceland Ballroom in Cedar Rapids, Iowa.  You can view the history from the grand opening in 1929 to it’s razing in 1968 (urban renewal). The array of top acts that graced the Danceland stage through the years is impressive to say the least.</p><hr style={{borderTop: "2px solid #e2e8f0"}} />
                     <p className="my-4">The “Big Band” years saw Duke Ellington, Glenn Miller, Count Basie, Tommy Dorsey with Frank Sinatra, Louis Armstrong, Woody Herman, Gene Krupa, Les Brown with Doris Day, Lawrence Welk, Sammy Kaye, Eddy Howard and Stan Kenton all stop by.</p><hr style={{borderTop: "2px solid #e2e8f0"}} />
