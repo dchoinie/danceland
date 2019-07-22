@@ -1,26 +1,27 @@
 import React, { Component } from "react"
 import { Link } from "gatsby"
 import DropdownSearchByYear from "../components/dropdownSearchByYear"
+import Texture from "../images/interlaced.png"
 
 class Header extends Component {
   render() {
     return (
-      <div id="header" style={{ backgroundColor: "#222" }}>
+      <div id="header" style={{backgroundColor: "#3e3e3e"}}>
         <div
           id="headerInner"
-          className="flex justify-between items-center py-1 text-center text-white"
+          className="flex justify-between items-center text-center text-white py-2"
         >
           <ul
             className="flex justify-around text-lg"
             style={{ flex: "0 1 37.5vw" }}
           >
-            <li>
+            <li className="hover:text-pink-500">
               <DropdownSearchByYear />
             </li>
-            <li className="">
+            <li className="hover:text-pink-500">
               <Link to="/bio">Danceland Bio</Link>
             </li>
-            <li>
+            <li className="hover:text-pink-500">
               <Link to="/">Early Years</Link>
             </li>
           </ul>
@@ -33,13 +34,13 @@ class Header extends Component {
             className="flex justify-around text-lg"
             style={{ flex: "0 1 37.5vw" }}
           >
-            <li>
+            <li className="hover:text-pink-500">
               <Link to="/">Darlowe Olesen</Link>
             </li>
-            <li>
+            <li className="hover:text-pink-500">
               <Link to="/">Posters</Link>
             </li>
-            <li>
+            <li className="hover:text-pink-500">
               <Link to="/">Danceland Bandstand</Link>
             </li>
           </ul>

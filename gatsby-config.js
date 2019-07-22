@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Danceland`,
     description: `The History Of A Midwest Ballroom`,
+    summary: `Summary text goes here`,
     author: `Steve Wilson`,
   },
   plugins: [
