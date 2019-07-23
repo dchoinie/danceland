@@ -4,6 +4,7 @@ import styled from "styled-components"
 import PageTitle from "../components/pageTitle"
 import YearData from "../data/data1956"
 import Hr from "../components/Hr"
+import StickyYear from "../components/stickyYear"
 
 const StyledImg = styled.img`
   img[src=""] {
@@ -17,6 +18,7 @@ export class page1956 extends Component {
       <Layout>
         <PageTitle title="1956" />
         <div className="container mx-auto">
+          <StickyYear year="1956" />
           <p className="container max-w-4xl mx-auto mb-8"></p>
           <div className="row text-center">
             <div className="col">

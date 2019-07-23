@@ -56,12 +56,7 @@ export class dropdownSearchByYear extends Component {
         </div>
         {this.state.displayMenu ? (
           <div className="flex justify-center">
-            <ul
-              className="text-white text-center absolute py-1 px-4 whitespace-no-wrap border border-gray-900"
-              style={{
-                backgroundColor: "rgba(80, 26, 64, 1)",
-              }}
-            >
+            <ul className="text-black bg-white text-center absolute py-1 px-4 whitespace-no-wrap border border-gray-900">
               <li className="px-2 py-1">
                 <Link to="/1954">1954</Link>
               </li>

@@ -4,7 +4,7 @@ import styled from "styled-components"
 import PageTitle from "../components/pageTitle"
 import YearData from "../data/data1954"
 import Hr from "../components/Hr"
-import Texture from "../images/interlaced.png"
+import StickyYear from "../components/stickyYear"
 
 const StyledImg = styled.img`
   img[src=""] {
@@ -18,9 +18,10 @@ export class page1954 extends Component {
   render() {
     return (
       <Layout>
-        <div style={{ backgroundImage: `url(${Texture})` }}>
+        <div>
           <PageTitle title="1954" />
           <div className="container mx-auto">
+            <StickyYear year="1954" />
             <p className="container max-w-4xl mx-auto mb-8">
               National acts that played at Danceland in 1954 include - Wayne
               King & His Orchestra, “Whoopee” John Wilfahrt & His Orchestra,
