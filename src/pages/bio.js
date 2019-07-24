@@ -10,7 +10,7 @@ export class bio extends Component {
     return (
       <Layout>
         <div>
-          <PageTitle title="Danceland" />
+          <PageTitle title="Danceland Bio" />
           <div className="flex justify-center my-3">
             <img src={aboutImg1} alt="aboutImg1" className="mx-2" />
             <img src={aboutImg2} alt="aboutImg2" className="mx-2" />
