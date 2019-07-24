@@ -4,13 +4,12 @@ import aboutImg1 from "../images/aboutImage.jpg"
 import aboutImg2 from "../images/marquee.jpg"
 import PageTitle from "../components/pageTitle"
 import Hr from "../components/Hr"
-import Texture from "../images/interlaced.png"
 
 export class bio extends Component {
   render() {
     return (
       <Layout>
-        <div style={{ backgroundImage: `url(${Texture})` }}>
+        <div>
           <PageTitle title="Danceland" />
           <div className="flex justify-center my-3">
             <img src={aboutImg1} alt="aboutImg1" className="mx-2" />

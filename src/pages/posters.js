@@ -1,5 +1,6 @@
 import React, { Component } from "react"
 import Layout from "../components/layout"
+import styled from "styled-components"
 import PageTitle from "../components/pageTitle"
 import PosterData from "../data/dataPosters"
 import Hr from "../components/Hr"
@@ -24,18 +25,16 @@ export class posters extends Component {
           </p>
           {PosterData.map((ItemDetail, index) => {
             return (
-              <div>
-                <div className="flex justify-center my-2">
-                  <img
-                    src={ItemDetail.img}
-                    alt=""
-                    style={{
-                      minWidth: "470px",
-                      border: "2px solid #333",
-                      padding: "0.5rem",
-                    }}
-                  />
-                </div>
+              <div className="flex-row justify-center my-2">
+                <img
+                  src={ItemDetail.img}
+                  alt=""
+                  style={{
+                    minWidth: "470px",
+                    marginLeft: "auto",
+                    marginRight: "auto",
+                  }}
+                />
                 <p className="text-4xl my-2 font-bold text-center">
                   {ItemDetail.date}
                 </p>
