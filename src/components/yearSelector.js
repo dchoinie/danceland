@@ -6,7 +6,7 @@ class YearSelector extends Component {
   render() {
     return (
       <>
-        <h2 className="font-bold text-4xl text-center py-16">Browse By Year</h2>
+        <h2 className="font-bold text-4xl text-center py-16">Search By Year</h2>
         <div className="container px-4 mx-auto py-8">
           <div class="flex mb-4 text-center">
             <div class="w-1/5 bg-gray-800 hover:bg-gray-700">

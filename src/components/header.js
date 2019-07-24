@@ -22,7 +22,7 @@ class Header extends Component {
               <Link to="/bio">Danceland Bio</Link>
             </li>
             <li className="hover:text-pink-500">
-              <Link to="/">Early Years</Link>
+              <Link to="/earlyYears">Early Years</Link>
             </li>
           </ul>
           <Link to="/">
@@ -44,7 +44,7 @@ class Header extends Component {
               <Link to="/posters">Posters</Link>
             </li>
             <li className="hover:text-pink-500">
-              <Link to="/">Danceland Bandstand</Link>
+              <Link to="/dancelandBandstand">Danceland Bandstand</Link>
             </li>
           </ul>
           <ul>

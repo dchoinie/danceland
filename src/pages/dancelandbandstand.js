@@ -1,8 +1,13 @@
 import React, { Component } from "react"
 import Layout from "../components/layout"
+import PageTitle from "../components/pageTitle"
 
-const dancelandbandstand = props => {
-  return <Layout></Layout>
+const dancelandBandstand = props => {
+  return (
+    <Layout>
+      <PageTitle title="Danceland Bandstand" />
+    </Layout>
+  )
 }
 
-export default dancelandbandstand
+export default dancelandBandstand
