@@ -37,8 +37,6 @@ export class page1965 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
-                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
@@ -47,8 +45,6 @@ export class page1965 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
-                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
@@ -57,8 +53,6 @@ export class page1965 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
-                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
@@ -67,8 +61,6 @@ export class page1965 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
-                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
@@ -77,8 +69,6 @@ export class page1965 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
-                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
@@ -87,8 +77,6 @@ export class page1965 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
-                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
@@ -97,8 +85,6 @@ export class page1965 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
-                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
@@ -107,8 +93,6 @@ export class page1965 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
-                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
@@ -117,8 +101,6 @@ export class page1965 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
-                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
@@ -127,8 +109,6 @@ export class page1965 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
-                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
@@ -137,8 +117,6 @@ export class page1965 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
-                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
@@ -147,8 +125,6 @@ export class page1965 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
-                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
@@ -157,8 +133,6 @@ export class page1965 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
-                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
@@ -167,8 +141,6 @@ export class page1965 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
-                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
@@ -177,8 +149,6 @@ export class page1965 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
-                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
@@ -187,8 +157,6 @@ export class page1965 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
-                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
@@ -197,8 +165,6 @@ export class page1965 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
-                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
@@ -207,8 +173,6 @@ export class page1965 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
-                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
@@ -217,8 +181,6 @@ export class page1965 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
-                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
@@ -227,8 +189,6 @@ export class page1965 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
-                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
@@ -237,8 +197,6 @@ export class page1965 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
-                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
@@ -247,8 +205,6 @@ export class page1965 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
-                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
@@ -257,8 +213,6 @@ export class page1965 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
-                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
@@ -267,8 +221,6 @@ export class page1965 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
-                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
@@ -277,8 +229,6 @@ export class page1965 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
-                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
@@ -287,8 +237,6 @@ export class page1965 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
-                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
@@ -297,8 +245,6 @@ export class page1965 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
-                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
@@ -307,8 +253,6 @@ export class page1965 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
-                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
@@ -317,8 +261,6 @@ export class page1965 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
-                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
@@ -327,8 +269,6 @@ export class page1965 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
-                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
@@ -337,8 +277,6 @@ export class page1965 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
-                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
@@ -347,8 +285,6 @@ export class page1965 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
-                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
@@ -357,8 +293,6 @@ export class page1965 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
-                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
@@ -367,8 +301,6 @@ export class page1965 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
-                          borderRadius: "0.5rem",
                         }}
                       />
                       <StyledImg
@@ -377,8 +309,6 @@ export class page1965 extends Component {
                         className=""
                         style={{
                           maxHeight: "400px",
-                          boxShadow: "2px 2px 10px #333",
-                          borderRadius: "0.5rem",
                         }}
                       />
                     </div>

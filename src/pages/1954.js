@@ -46,7 +46,6 @@ export class page1954 extends Component {
                           style={{
                             maxHeight: "400px",
                             maxWidth: "400px",
-                            borderRadius: "0.5rem",
                           }}
                         />
                         <StyledImg
@@ -55,7 +54,6 @@ export class page1954 extends Component {
                           className=""
                           style={{
                             maxHeight: "400px",
-                            borderRadius: "0.5rem",
                           }}
                         />
                         <StyledImg
@@ -64,7 +62,6 @@ export class page1954 extends Component {
                           className=""
                           style={{
                             maxHeight: "400px",
-                            borderRadius: "0.5rem",
                           }}
                         />
                         <StyledImg
@@ -73,7 +70,6 @@ export class page1954 extends Component {
                           className=""
                           style={{
                             maxHeight: "400px",
-                            borderRadius: "0.5rem",
                           }}
                         />
                         <StyledImg
@@ -82,7 +78,6 @@ export class page1954 extends Component {
                           className=""
                           style={{
                             maxHeight: "400px",
-                            borderRadius: "0.5rem",
                           }}
                         />
                         <StyledImg
@@ -91,7 +86,6 @@ export class page1954 extends Component {
                           className=""
                           style={{
                             maxHeight: "400px",
-                            borderRadius: "0.5rem",
                           }}
                         />
                         <StyledImg
@@ -100,7 +94,6 @@ export class page1954 extends Component {
                           className=""
                           style={{
                             maxHeight: "400px",
-                            borderRadius: "0.5rem",
                           }}
                         />
                         <StyledImg
@@ -109,7 +102,6 @@ export class page1954 extends Component {
                           className=""
                           style={{
                             maxHeight: "400px",
-                            borderRadius: "0.5rem",
                           }}
                         />
                         <StyledImg
@@ -118,7 +110,6 @@ export class page1954 extends Component {
                           className=""
                           style={{
                             maxHeight: "400px",
-                            borderRadius: "0.5rem",
                           }}
                         />
                         <StyledImg
@@ -127,7 +118,6 @@ export class page1954 extends Component {
                           className=""
                           style={{
                             maxHeight: "400px",
-                            borderRadius: "0.5rem",
                           }}
                         />
                         <StyledImg
@@ -136,7 +126,6 @@ export class page1954 extends Component {
                           className=""
                           style={{
                             maxHeight: "400px",
-                            borderRadius: "0.5rem",
                           }}
                         />
                         <StyledImg
@@ -145,7 +134,6 @@ export class page1954 extends Component {
                           className=""
                           style={{
                             maxHeight: "400px",
-                            borderRadius: "0.5rem",
                           }}
                         />
                         <StyledImg
@@ -154,7 +142,6 @@ export class page1954 extends Component {
                           className=""
                           style={{
                             maxHeight: "400px",
-                            borderRadius: "0.5rem",
                           }}
                         />
                         <StyledImg
@@ -163,7 +150,6 @@ export class page1954 extends Component {
                           className=""
                           style={{
                             maxHeight: "400px",
-                            borderRadius: "0.5rem",
                           }}
                         />
                         <StyledImg
@@ -172,7 +158,6 @@ export class page1954 extends Component {
                           className=""
                           style={{
                             maxHeight: "400px",
-                            borderRadius: "0.5rem",
                           }}
                         />
                         <StyledImg
@@ -181,7 +166,6 @@ export class page1954 extends Component {
                           className=""
                           style={{
                             maxHeight: "400px",
-                            borderRadius: "0.5rem",
                           }}
                         />
                         <StyledImg
@@ -190,7 +174,6 @@ export class page1954 extends Component {
                           className=""
                           style={{
                             maxHeight: "400px",
-                            borderRadius: "0.5rem",
                           }}
                         />
                         <StyledImg
@@ -199,7 +182,6 @@ export class page1954 extends Component {
                           className=""
                           style={{
                             maxHeight: "400px",
-                            borderRadius: "0.5rem",
                           }}
                         />
                         <StyledImg
@@ -208,7 +190,6 @@ export class page1954 extends Component {
                           className=""
                           style={{
                             maxHeight: "400px",
-                            borderRadius: "0.5rem",
                           }}
                         />
                         <StyledImg
@@ -217,7 +198,6 @@ export class page1954 extends Component {
                           className=""
                           style={{
                             maxHeight: "400px",
-                            borderRadius: "0.5rem",
                           }}
                         />
                         <StyledImg
@@ -226,7 +206,6 @@ export class page1954 extends Component {
                           className=""
                           style={{
                             maxHeight: "400px",
-                            borderRadius: "0.5rem",
                           }}
                         />
                         <StyledImg
@@ -235,7 +214,6 @@ export class page1954 extends Component {
                           className=""
                           style={{
                             maxHeight: "400px",
-                            borderRadius: "0.5rem",
                           }}
                         />
                         <StyledImg
@@ -244,7 +222,6 @@ export class page1954 extends Component {
                           className=""
                           style={{
                             maxHeight: "400px",
-                            borderRadius: "0.5rem",
                           }}
                         />
                         <StyledImg
@@ -253,7 +230,6 @@ export class page1954 extends Component {
                           className=""
                           style={{
                             maxHeight: "400px",
-                            borderRadius: "0.5rem",
                           }}
                         />
                         <StyledImg
@@ -262,7 +238,6 @@ export class page1954 extends Component {
                           className=""
                           style={{
                             maxHeight: "400px",
-                            borderRadius: "0.5rem",
                           }}
                         />
                         <StyledImg
@@ -271,7 +246,6 @@ export class page1954 extends Component {
                           className=""
                           style={{
                             maxHeight: "400px",
-                            borderRadius: "0.5rem",
                           }}
                         />
                         <StyledImg
@@ -280,7 +254,6 @@ export class page1954 extends Component {
                           className=""
                           style={{
                             maxHeight: "400px",
-                            borderRadius: "0.5rem",
                           }}
                         />
                         <StyledImg
@@ -289,7 +262,6 @@ export class page1954 extends Component {
                           className=""
                           style={{
                             maxHeight: "400px",
-                            borderRadius: "0.5rem",
                           }}
                         />
                         <StyledImg
@@ -298,7 +270,6 @@ export class page1954 extends Component {
                           className=""
                           style={{
                             maxHeight: "400px",
-                            borderRadius: "0.5rem",
                           }}
                         />
                         <StyledImg
@@ -307,7 +278,6 @@ export class page1954 extends Component {
                           className=""
                           style={{
                             maxHeight: "400px",
-                            borderRadius: "0.5rem",
                           }}
                         />
                         <StyledImg
@@ -316,7 +286,6 @@ export class page1954 extends Component {
                           className=""
                           style={{
                             maxHeight: "400px",
-                            borderRadius: "0.5rem",
                           }}
                         />
                         <StyledImg
@@ -325,7 +294,6 @@ export class page1954 extends Component {
                           className=""
                           style={{
                             maxHeight: "400px",
-                            borderRadius: "0.5rem",
                           }}
                         />
                         <StyledImg
@@ -334,7 +302,6 @@ export class page1954 extends Component {
                           className=""
                           style={{
                             maxHeight: "400px",
-                            borderRadius: "0.5rem",
                           }}
                         />
                         <StyledImg
@@ -343,7 +310,6 @@ export class page1954 extends Component {
                           className=""
                           style={{
                             maxHeight: "400px",
-                            borderRadius: "0.5rem",
                           }}
                         />
                         <StyledImg
@@ -352,7 +318,6 @@ export class page1954 extends Component {
                           className=""
                           style={{
                             maxHeight: "400px",
-                            borderRadius: "0.5rem",
                           }}
                         />
                       </div>
