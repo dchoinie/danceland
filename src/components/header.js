@@ -15,13 +15,13 @@ class Header extends Component {
             className="xl:text-lg hidden lg:flex lg:justify-around"
             style={{ flex: "0 1 37.5vw" }}
           >
-            <li className="hover:text-pink-500">
+            <li className="hover:text-red-700">
               <DropdownSearchByYear />
             </li>
-            <li className="hover:text-pink-500">
+            <li className="hover:text-red-700">
               <Link to="/bio">Danceland Bio</Link>
             </li>
-            <li className="hover:text-pink-500">
+            <li className="hover:text-red-700">
               <Link to="/earlyYears">Early Years</Link>
             </li>
           </ul>
@@ -37,13 +37,13 @@ class Header extends Component {
             className="xl:text-lg hidden lg:flex lg:justify-around"
             style={{ flex: "0 1 37.5vw" }}
           >
-            <li className="hover:text-pink-500">
+            <li className="hover:text-red-700">
               <Link to="/darloweOleson">Darlowe Oleson</Link>
             </li>
-            <li className="hover:text-pink-500">
+            <li className="hover:text-red-700">
               <Link to="/posters">Posters</Link>
             </li>
-            <li className="hover:text-pink-500">
+            <li className="hover:text-red-700">
               <Link to="/dancelandBandstand">Danceland Bandstand</Link>
             </li>
           </ul>
