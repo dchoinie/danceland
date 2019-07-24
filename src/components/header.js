@@ -38,10 +38,10 @@ class Header extends Component {
             style={{ flex: "0 1 37.5vw" }}
           >
             <li className="hover:text-pink-500">
-              <Link to="/">Darlowe Olesen</Link>
+              <Link to="/darloweOleson">Darlowe Oleson</Link>
             </li>
             <li className="hover:text-pink-500">
-              <Link to="/">Posters</Link>
+              <Link to="/posters">Posters</Link>
             </li>
             <li className="hover:text-pink-500">
               <Link to="/">Danceland Bandstand</Link>

@@ -2,8 +2,9 @@ module.exports = {
   siteMetadata: {
     title: `Danceland`,
     description: `The History Of A Midwest Ballroom`,
-    summary: `Summary text goes here`,
+    summary: ``,
     author: `Steve Wilson`,
+    developer: `Dan Choiniere`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

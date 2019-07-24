@@ -5,7 +5,7 @@ import dropdownSearchByYear from "../components/dropdownSearchByYear"
 export class footer extends Component {
   render() {
     return (
-      <div className="flex flex-col justify-center bg-gray-800 text-white text-center">
+      <div className="flex flex-col justify-center bg-black text-white text-center">
         <div className="px-2 py-2 flex justify-center">
           <ul className="flex flex-row">
             <dropdownSearchByYear />
