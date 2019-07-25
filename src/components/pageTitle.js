@@ -15,7 +15,8 @@ export class pageTitle extends Component {
           backgroundImage: `linear-gradient(rgba(0,0,0,0.3), rgba(255,255,255,1)), url(${HeaderImg})`,
           backgroundPosition: "center",
           backgroundSize: "cover",
-          height: "25vh",
+          height: "50vh",
+          marginTop: "-88px",
         }}
       >
         <div className="self-center text-black">

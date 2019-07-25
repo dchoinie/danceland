@@ -17,7 +17,7 @@ export default () => {
     }
   `)
   return (
-    <div className="bg-black text-white flex justify-between py-6">
+    <div className="bg-gray-900 text-white flex justify-between py-6">
       <div className="mx-12">
         <div className="flex">
           <Link to="/">

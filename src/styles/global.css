@@ -10,7 +10,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Kalam", cursive;
+  font-family: "Quicksand", sans-serif;
 }
 
 p,
@@ -22,7 +22,7 @@ a {
 
 @tailwind components;
 
-#heroContainer {
+/* #heroContainer {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -31,8 +31,7 @@ a {
 
 #heroTitle {
   font-size: 4rem;
-  line-height: 1.2;
-}
+} */
 
 #stickyYear {
   position: fixed;
@@ -40,7 +39,7 @@ a {
   right: 2%;
 }
 
-@media screen and (min-width: 768px) {
+/* @media screen and (min-width: 768px) {
   #heroContainer {
     display: block;
     position: absolute;
@@ -51,6 +50,6 @@ a {
   #heroTitle {
     font-size: 5rem;
   }
-}
+} */
 
 @tailwind utilities;

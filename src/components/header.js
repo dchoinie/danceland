@@ -6,53 +6,38 @@ import DropdownSearchByYear from "../components/dropdownSearchByYear"
 class Header extends Component {
   render() {
     return (
-      <div id="header" style={{ backgroundColor: "#000" }}>
-        <div
-          id="headerInner"
-          className="flex justify-between items-center text-center text-white py-2"
-        >
-          <ul
-            className="xl:text-lg hidden lg:flex lg:justify-around"
-            style={{ flex: "0 1 37.5vw" }}
-          >
-            <li className="hover:text-red-700">
-              <DropdownSearchByYear />
-            </li>
-            <li className="hover:text-red-700">
-              <Link to="/bio">Danceland Bio</Link>
-            </li>
-            <li className="hover:text-red-700">
-              <Link to="/earlyYears">Early Years</Link>
-            </li>
-          </ul>
-          <Link to="/">
-            <h1
-              className="xs:text-2xl sm:text-3xl md:text-4xl px-6 lg:px-0 lg:text-6xl font-bold"
-              style={{ flex: "0 1 25vh" }}
-            >
-              Danceland
-            </h1>
+      <div
+        id="header"
+        className="flex text-center text-white items-center px-12 py-2"
+        style={{ backgroundColor: "rgba(0,0,0,0)" }}
+      >
+        <ul className="hidden lg:flex lg:justify-between lg:w-1/3">
+          <li>
+            <DropdownSearchByYear />
+          </li>
+          <Link to="/earlyYears">
+            <li>Early Years</li>
           </Link>
-          <ul
-            className="xl:text-lg hidden lg:flex lg:justify-around"
-            style={{ flex: "0 1 37.5vw" }}
-          >
-            <li className="hover:text-red-700">
-              <Link to="/darloweOleson">Darlowe Oleson</Link>
-            </li>
-            <li className="hover:text-red-700">
-              <Link to="/posters">Posters</Link>
-            </li>
-            <li className="hover:text-red-700">
-              <Link to="/dancelandBandstand">Danceland Bandstand</Link>
-            </li>
-          </ul>
-          <ul>
-            {/* <li className="px-6 lg:hidden">
-              <FaBars />
-            </li> */}
-          </ul>
+          <Link to="/bio">
+            <li>Danceland Bio</li>
+          </Link>
+        </ul>
+        <div className="w-1/3 flex justify-center text-xl md:text-3xl lg:text-5xl font-bold">
+          <Link to="/">
+            <h1 style={{ transform: "rotate(-3deg)" }}>Danceland</h1>
+          </Link>
         </div>
+        <ul className="hidden lg:flex lg:justify-between lg:w-1/3">
+          <Link to="/darloweOleson">
+            <li>Darlowe Oleson</li>
+          </Link>
+          <Link to="/posters">
+            <li>Posters</li>
+          </Link>
+          <Link to="/dancelandBandstand">
+            <li>Danceland Bandstand</li>
+          </Link>
+        </ul>
       </div>
     )
   }
