@@ -38,7 +38,7 @@ export default () => {
         <h1
           id="heroTitle"
           style={{ fontWeight: "700" }}
-          className="text-gray-900 xs:text-2xl sm:text-3xl md:text-4xl lg:text-6xl"
+          className="text-gray-900 xs:text-2xl sm:text-3xl md:text-4xl lg:text-6xl font-bold"
         >
           {data.site.siteMetadata.title}
         </h1>

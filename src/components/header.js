@@ -12,30 +12,30 @@ class Header extends Component {
         style={{ backgroundColor: "rgba(0,0,0,0)" }}
       >
         <ul className="hidden lg:flex lg:justify-between lg:w-1/3">
-          <li>
+          <li className="hover:text-red-800">
             <DropdownSearchByYear />
           </li>
           <Link to="/earlyYears">
-            <li>Early Years</li>
+            <li className="hover:text-red-800">Early Years</li>
           </Link>
           <Link to="/bio">
-            <li>Danceland Bio</li>
+            <li className="hover:text-red-800">Danceland Bio</li>
           </Link>
         </ul>
         <div className="w-1/3 flex justify-center text-xl md:text-3xl lg:text-5xl font-bold">
           <Link to="/">
-            <h1 style={{ transform: "rotate(-3deg)" }}>Danceland</h1>
+            <h1>Danceland</h1>
           </Link>
         </div>
         <ul className="hidden lg:flex lg:justify-between lg:w-1/3">
           <Link to="/darloweOleson">
-            <li>Darlowe Oleson</li>
+            <li className="hover:text-red-800">Darlowe Oleson</li>
           </Link>
           <Link to="/posters">
-            <li>Posters</li>
+            <li className="hover:text-red-800">Posters</li>
           </Link>
           <Link to="/dancelandBandstand">
-            <li>Danceland Bandstand</li>
+            <li className="hover:text-red-800">Danceland Bandstand</li>
           </Link>
         </ul>
       </div>
