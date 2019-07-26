@@ -1,7 +1,7 @@
 [
   {
-    "ID": "",
-    "Full Date": "",
+    "ID": 1,
+    "Full_Date": "",
     "Artist": "Grand Opening",
     "Price": "",
     "Text": "",
@@ -42,8 +42,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "September 2, 1926",
+    "ID": 2,
+    "Full_Date": "September 2, 1926",
     "Artist": "Coon-Sanders Original Nighthawks",
     "Price": "",
     "Text": "",
@@ -84,8 +84,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "January 23, 1930",
+    "ID": 3,
+    "Full_Date": "January 23, 1930",
     "Artist": "Zez Confrey & His Victor Recording Orchestra",
     "Price": "",
     "Text": "",
@@ -126,8 +126,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "January 15, 1931",
+    "ID": 4,
+    "Full_Date": "January 15, 1931",
     "Artist": "Herbie Kay",
     "Price": "",
     "Text": "",
@@ -168,8 +168,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "January 22, 1931",
+    "ID": 5,
+    "Full_Date": "January 22, 1931",
     "Artist": "McKinney's Cotton Pickers",
     "Price": "",
     "Text": "",
@@ -210,8 +210,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "March 26, 1931",
+    "ID": 6,
+    "Full_Date": "March 26, 1931",
     "Artist": "Coon-Sanders Orchestra",
     "Price": "",
     "Text": "",
@@ -252,8 +252,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "April 6, 1931",
+    "ID": 7,
+    "Full_Date": "April 6, 1931",
     "Artist": "The Commanders",
     "Price": "",
     "Text": "",
@@ -294,8 +294,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "April 23, 1931",
+    "ID": 8,
+    "Full_Date": "April 23, 1931",
     "Artist": "Ace Brigode & His 14 Virginians",
     "Price": "",
     "Text": "",
@@ -336,8 +336,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "May 7, 1931",
+    "ID": 9,
+    "Full_Date": "May 7, 1931",
     "Artist": "The Pennsylvanians",
     "Price": "",
     "Text": "",
@@ -378,8 +378,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "September 20, 1931",
+    "ID": 10,
+    "Full_Date": "September 20, 1931",
     "Artist": "Ted Rio Fito & His Orchestra",
     "Price": "",
     "Text": "",
@@ -420,8 +420,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "January 28, 1932",
+    "ID": 11,
+    "Full_Date": "January 28, 1932",
     "Artist": "Jan Garber & His Orchestra",
     "Price": "",
     "Text": "",
@@ -462,8 +462,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "September 24, 1932",
+    "ID": 12,
+    "Full_Date": "September 24, 1932",
     "Artist": "Art Kassel & His Kassels In The Air",
     "Price": "",
     "Text": "",
@@ -504,8 +504,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "October 15, 1932",
+    "ID": 13,
+    "Full_Date": "October 15, 1932",
     "Artist": "Carl \"Deacon\" Moore & His Orchestra",
     "Price": "",
     "Text": "",
@@ -546,8 +546,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "April 20, 1933",
+    "ID": 14,
+    "Full_Date": "April 20, 1933",
     "Artist": "Frankie Trumbauer & His Orchestra",
     "Price": "",
     "Text": "",
@@ -588,8 +588,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "September 16, 1933",
+    "ID": 15,
+    "Full_Date": "September 16, 1933",
     "Artist": "Carlton Coon & His Brunswick Orchestra",
     "Price": "",
     "Text": "",
@@ -630,8 +630,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "September 9 & 10, 1933",
+    "ID": 16,
+    "Full_Date": "September 9 & 10, 1933",
     "Artist": "Ann Heald & Her Ambassadors Of Men",
     "Price": "",
     "Text": "",
@@ -672,8 +672,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "November 17, 1933",
+    "ID": 17,
+    "Full_Date": "November 17, 1933",
     "Artist": "Ben Bernie & His Orchestra",
     "Price": "",
     "Text": "",
@@ -714,8 +714,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "December 2, 1933",
+    "ID": 18,
+    "Full_Date": "December 2, 1933",
     "Artist": "The Barnstormers",
     "Price": "",
     "Text": "",
@@ -756,8 +756,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "December 9, 1933",
+    "ID": 19,
+    "Full_Date": "December 9, 1933",
     "Artist": "Lew Gogerty & His Orchestra",
     "Price": "",
     "Text": "",
@@ -798,8 +798,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "December 31, 1933",
+    "ID": 20,
+    "Full_Date": "December 31, 1933",
     "Artist": "Elston's 11 Piece Orchestra",
     "Price": "",
     "Text": "",
@@ -840,8 +840,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "February 7, 1934",
+    "ID": 21,
+    "Full_Date": "February 7, 1934",
     "Artist": "Bus\" Canfield & His Orchestra",
     "Price": "",
     "Text": "",
@@ -882,8 +882,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "February 8, 1934",
+    "ID": 22,
+    "Full_Date": "February 8, 1934",
     "Artist": "Red Nichols & His Pennies",
     "Price": "",
     "Text": "",
@@ -924,8 +924,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "February 16, 1934",
+    "ID": 23,
+    "Full_Date": "February 16, 1934",
     "Artist": "Emil Flindt & His Orchestra",
     "Price": "",
     "Text": "",
@@ -966,8 +966,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "March 17, 1935",
+    "ID": 24,
+    "Full_Date": "March 17, 1935",
     "Artist": "Benny Meroff & His Orchestra",
     "Price": "",
     "Text": "",
@@ -1008,8 +1008,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "September 10, 1935",
+    "ID": 25,
+    "Full_Date": "September 10, 1935",
     "Artist": "Anson Weeks & His Orchestra",
     "Price": "",
     "Text": "",
@@ -1050,8 +1050,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "December 31, 1935",
+    "ID": 26,
+    "Full_Date": "December 31, 1935",
     "Artist": "Ralph Slade & His Orchestra",
     "Price": "",
     "Text": "",
@@ -1092,8 +1092,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "May 4, 1939",
+    "ID": 27,
+    "Full_Date": "May 4, 1939",
     "Artist": "Vincent Lopez & His Orchestra with Betty Hutton",
     "Price": "",
     "Text": "",
@@ -1134,8 +1134,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "September 1, 1939",
+    "ID": 28,
+    "Full_Date": "September 1, 1939",
     "Artist": "Griff Williams & His Orchestra",
     "Price": "",
     "Text": "",
@@ -1176,8 +1176,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "September 13, 1939",
+    "ID": 29,
+    "Full_Date": "September 13, 1939",
     "Artist": "Wayne King & His Orchestra",
     "Price": "",
     "Text": "",
@@ -1218,8 +1218,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "October 5, 1939",
+    "ID": 30,
+    "Full_Date": "October 5, 1939",
     "Artist": "Gray Gordon & His Tic Toc Rhythm",
     "Price": "",
     "Text": "",
@@ -1260,8 +1260,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "January 26, 1940",
+    "ID": 31,
+    "Full_Date": "January 26, 1940",
     "Artist": "Don Kroll's Orchestra",
     "Price": "",
     "Text": "",
@@ -1302,8 +1302,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "October 25, 1940",
+    "ID": 32,
+    "Full_Date": "October 25, 1940",
     "Artist": "Duke Ellington & His Orchestra",
     "Price": "",
     "Text": "",
@@ -1344,8 +1344,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "December 12, 1940",
+    "ID": 33,
+    "Full_Date": "December 12, 1940",
     "Artist": "Orrin Tucker & His Orchestra",
     "Price": "",
     "Text": "",
@@ -1386,8 +1386,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "January 11 & 12, 1941",
+    "ID": 34,
+    "Full_Date": "January 11 & 12, 1941",
     "Artist": "Leo Pieper & His Orchestra",
     "Price": "",
     "Text": "",
@@ -1428,8 +1428,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "May 8, 1941",
+    "ID": 35,
+    "Full_Date": "May 8, 1941",
     "Artist": "Henry Busse & His Orchestra",
     "Price": "",
     "Text": "",
@@ -1470,8 +1470,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "June 9, 1941",
+    "ID": 36,
+    "Full_Date": "June 9, 1941",
     "Artist": "Glenn Miller & His Orchestra",
     "Price": "",
     "Text": "",
@@ -1512,8 +1512,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "December 11, 1941",
+    "ID": 37,
+    "Full_Date": "December 11, 1941",
     "Artist": "Art Jarrett & His Orchestra",
     "Price": "",
     "Text": "",
@@ -1554,8 +1554,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "February 12, 1942",
+    "ID": 38,
+    "Full_Date": "February 12, 1942",
     "Artist": "Eddy Howard & His Orchestra",
     "Price": "",
     "Text": "",
@@ -1596,8 +1596,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "February 26, 1942",
+    "ID": 39,
+    "Full_Date": "February 26, 1942",
     "Artist": "Johnny \"Scat\" Davis & His Orchestra",
     "Price": "",
     "Text": "",
@@ -1638,8 +1638,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "March 11, 1942",
+    "ID": 40,
+    "Full_Date": "March 11, 1942",
     "Artist": "Hank Winder & His Orchestra",
     "Price": "",
     "Text": "",
@@ -1680,8 +1680,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "March 25, 1942",
+    "ID": 41,
+    "Full_Date": "March 25, 1942",
     "Artist": "Tommy Dorsey & His Orchestra with Frank Sinatra",
     "Price": "",
     "Text": "",
@@ -1722,8 +1722,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "May 13, 1942",
+    "ID": 42,
+    "Full_Date": "May 13, 1942",
     "Artist": "Oran \"Hot Lips\" Page & His Orchestra",
     "Price": "",
     "Text": "",
@@ -1764,8 +1764,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "September 10, 1942",
+    "ID": 43,
+    "Full_Date": "September 10, 1942",
     "Artist": "Jack Teagarden & His Orchestra / Tiny Hill & His Orchestra",
     "Price": "",
     "Text": "",
@@ -1806,8 +1806,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "October 14, 1942",
+    "ID": 44,
+    "Full_Date": "October 14, 1942",
     "Artist": "Eddy Howard & His Orchestra",
     "Price": "",
     "Text": "",
@@ -1848,8 +1848,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "November 5, 1942",
+    "ID": 45,
+    "Full_Date": "November 5, 1942",
     "Artist": "Jimmy Joy & His Orchestra",
     "Price": "",
     "Text": "",
@@ -1890,8 +1890,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "November 12, 1942",
+    "ID": 46,
+    "Full_Date": "November 12, 1942",
     "Artist": "Chuck Foster & His Orchestra",
     "Price": "",
     "Text": "",
@@ -1932,8 +1932,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "December 7, 1942",
+    "ID": 47,
+    "Full_Date": "December 7, 1942",
     "Artist": "Alvino Rey & His Orchestra with The Four King Sisters",
     "Price": "",
     "Text": "",
@@ -1974,8 +1974,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "January 11, 1943",
+    "ID": 48,
+    "Full_Date": "January 11, 1943",
     "Artist": "Dick Jurgens & His Orchestra",
     "Price": "",
     "Text": "",
@@ -2016,8 +2016,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "March 25, 1943",
+    "ID": 49,
+    "Full_Date": "March 25, 1943",
     "Artist": "Charlie Spivak & His Orchestra",
     "Price": "",
     "Text": "",
@@ -2058,8 +2058,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "April 14, 1943",
+    "ID": 50,
+    "Full_Date": "April 14, 1943",
     "Artist": "Freddy Nagel & His Orchestra",
     "Price": "",
     "Text": "",
@@ -2100,8 +2100,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "May 19, 1943",
+    "ID": 51,
+    "Full_Date": "May 19, 1943",
     "Artist": "Fletcher Henderson & His Orchestra",
     "Price": "",
     "Text": "",
@@ -2142,8 +2142,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "December 23, 1943",
+    "ID": 52,
+    "Full_Date": "December 23, 1943",
     "Artist": "Duke Ellington & His Orchestra",
     "Price": "",
     "Text": "",
@@ -2184,8 +2184,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "February 3, 1944",
+    "ID": 53,
+    "Full_Date": "February 3, 1944",
     "Artist": "Ray Pearl & His Musical Gems",
     "Price": "",
     "Text": "",
@@ -2226,8 +2226,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "March 19, 1944",
+    "ID": 54,
+    "Full_Date": "March 19, 1944",
     "Artist": "Clyde Lucas & His Orchestra",
     "Price": "",
     "Text": "",
@@ -2268,8 +2268,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "March 30, 1944",
+    "ID": 55,
+    "Full_Date": "March 30, 1944",
     "Artist": "Louis Armstrong & His Orchestra",
     "Price": "",
     "Text": "",
@@ -2310,8 +2310,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "April 11, 1944",
+    "ID": 56,
+    "Full_Date": "April 11, 1944",
     "Artist": "Nat Towles & His Orchestra featuring Marva (Mrs. Joe) Lewis",
     "Price": "",
     "Text": "",
@@ -2352,8 +2352,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "April 29 & 30, 1944",
+    "ID": 57,
+    "Full_Date": "April 29 & 30, 1944",
     "Artist": "Billie Rogers & Her Orchestra",
     "Price": "",
     "Text": "",
@@ -2394,8 +2394,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "May 26, 1944",
+    "ID": 58,
+    "Full_Date": "May 26, 1944",
     "Artist": "Moeller's Accordian Band",
     "Price": "",
     "Text": "",
@@ -2436,8 +2436,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "June 6, 1944",
+    "ID": 59,
+    "Full_Date": "June 6, 1944",
     "Artist": "Vaughn Monroe & His Orchestra",
     "Price": "",
     "Text": "",
@@ -2478,8 +2478,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "June 28, 1944",
+    "ID": 60,
+    "Full_Date": "June 28, 1944",
     "Artist": "Count Basie & His Orchestra",
     "Price": "",
     "Text": "",
@@ -2520,8 +2520,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "July 11, 1944",
+    "ID": 61,
+    "Full_Date": "July 11, 1944",
     "Artist": "Eddie Stone & His Orchestra",
     "Price": "",
     "Text": "",
@@ -2562,8 +2562,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "August 24, 1944",
+    "ID": 62,
+    "Full_Date": "August 24, 1944",
     "Artist": "Snookum Russell & His Hollywood Orchestra",
     "Price": "",
     "Text": "",
@@ -2604,8 +2604,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "September 17, 1944",
+    "ID": 63,
+    "Full_Date": "September 17, 1944",
     "Artist": "Glen Gray & His Casa Loma Orchestra",
     "Price": "",
     "Text": "",
@@ -2646,8 +2646,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "September 26, 1944",
+    "ID": 64,
+    "Full_Date": "September 26, 1944",
     "Artist": "Art Kassel & His Kassels In The Air",
     "Price": "",
     "Text": "",
@@ -2688,8 +2688,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "October 4, 1944",
+    "ID": 65,
+    "Full_Date": "October 4, 1944",
     "Artist": "Sonny Dunham & His Orchestra",
     "Price": "",
     "Text": "",
@@ -2730,8 +2730,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "October 10, 1944",
+    "ID": 66,
+    "Full_Date": "October 10, 1944",
     "Artist": "Bob Berkey & His Orchestra",
     "Price": "",
     "Text": "",
@@ -2772,8 +2772,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "October 17, 1944",
+    "ID": 67,
+    "Full_Date": "October 17, 1944",
     "Artist": "Benefit Dance",
     "Price": "",
     "Text": "",
@@ -2814,8 +2814,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "October 25, 1944",
+    "ID": 68,
+    "Full_Date": "October 25, 1944",
     "Artist": "Tony Pastor & His Orchestra",
     "Price": "",
     "Text": "",
@@ -2856,8 +2856,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "November 14, 1944",
+    "ID": 69,
+    "Full_Date": "November 14, 1944",
     "Artist": "Wee Bonnie Baker & Her California Sweethearts",
     "Price": "",
     "Text": "",
@@ -2898,8 +2898,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "November 28, 1944",
+    "ID": 70,
+    "Full_Date": "November 28, 1944",
     "Artist": "Don Reid & His Orchestra",
     "Price": "",
     "Text": "",
@@ -2940,8 +2940,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "December 22, 1944",
+    "ID": 71,
+    "Full_Date": "December 22, 1944",
     "Artist": "Denny Beckner & His Madcap Merrymakers",
     "Price": "",
     "Text": "",
@@ -2982,8 +2982,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "February 14, 1945",
+    "ID": 72,
+    "Full_Date": "February 14, 1945",
     "Artist": "Del Courtney & His Orchestra",
     "Price": "",
     "Text": "",
@@ -3024,8 +3024,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "April 9, 1945",
+    "ID": 73,
+    "Full_Date": "April 9, 1945",
     "Artist": "Count Basie & His Orchestra",
     "Price": "",
     "Text": "",
@@ -3066,8 +3066,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "July 4, 1945",
+    "ID": 74,
+    "Full_Date": "July 4, 1945",
     "Artist": "Bob Cross & His Orchestra",
     "Price": "",
     "Text": "",
@@ -3108,8 +3108,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "July 24, 1945",
+    "ID": 75,
+    "Full_Date": "July 24, 1945",
     "Artist": "Jack Staulcup & His Orchestra",
     "Price": "",
     "Text": "",
@@ -3150,8 +3150,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "August 28, 1945",
+    "ID": 76,
+    "Full_Date": "August 28, 1945",
     "Artist": "Jerry Wald & His Orchestra",
     "Price": "",
     "Text": "",
@@ -3192,8 +3192,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "September 8, 1945",
+    "ID": 77,
+    "Full_Date": "September 8, 1945",
     "Artist": "Ted Weems & His Orchestra",
     "Price": "",
     "Text": "",
@@ -3234,8 +3234,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "September 18, 1945",
+    "ID": 78,
+    "Full_Date": "September 18, 1945",
     "Artist": "Frankie Masters & His Orchestra",
     "Price": "",
     "Text": "",
@@ -3276,8 +3276,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "October 9, 1945",
+    "ID": 79,
+    "Full_Date": "October 9, 1945",
     "Artist": "Tiny Hill & His Orchestra",
     "Price": "",
     "Text": "",
@@ -3318,8 +3318,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "October 24, 1945",
+    "ID": 80,
+    "Full_Date": "October 24, 1945",
     "Artist": "Tommy Tucker & His Orchestra",
     "Price": "",
     "Text": "",
@@ -3360,8 +3360,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "January 6, 1946",
+    "ID": 81,
+    "Full_Date": "January 6, 1946",
     "Artist": "Griff Williams & His Orchestra",
     "Price": "",
     "Text": "",
@@ -3402,8 +3402,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "February 5, 1946",
+    "ID": 82,
+    "Full_Date": "February 5, 1946",
     "Artist": "Blue Barron & His Orchestra",
     "Price": "",
     "Text": "",
@@ -3444,8 +3444,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "February 17, 1946",
+    "ID": 83,
+    "Full_Date": "February 17, 1946",
     "Artist": "Harry Cool & His Orchestra",
     "Price": "",
     "Text": "",
@@ -3486,8 +3486,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "February 23, 1946",
+    "ID": 84,
+    "Full_Date": "February 23, 1946",
     "Artist": "Clarence Zahina's Barnstormers",
     "Price": "",
     "Text": "",
@@ -3528,8 +3528,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "March 12, 1946",
+    "ID": 85,
+    "Full_Date": "March 12, 1946",
     "Artist": "Sully Mason & His Orchestra",
     "Price": "",
     "Text": "",
@@ -3570,8 +3570,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "April 18, 1946",
+    "ID": 86,
+    "Full_Date": "April 18, 1946",
     "Artist": "Sammy Kaye & His Orchestra",
     "Price": "",
     "Text": "",
@@ -3612,8 +3612,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "April 28, 1946",
+    "ID": 87,
+    "Full_Date": "April 28, 1946",
     "Artist": "Frankie Carle & His Orchestra",
     "Price": "",
     "Text": "",
@@ -3654,8 +3654,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "May 5, 1946",
+    "ID": 88,
+    "Full_Date": "May 5, 1946",
     "Artist": "Tiny Hill & His Orchestra",
     "Price": "",
     "Text": "",
@@ -3696,8 +3696,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "June 25, 1946",
+    "ID": 89,
+    "Full_Date": "June 25, 1946",
     "Artist": "Woody Herman & His Orchestra",
     "Price": "",
     "Text": "",
@@ -3738,8 +3738,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "July 4, 1946",
+    "ID": 90,
+    "Full_Date": "July 4, 1946",
     "Artist": "Les Brown & His Orchestra with Doris Day",
     "Price": "",
     "Text": "",
@@ -3780,8 +3780,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "July 16, 1946",
+    "ID": 91,
+    "Full_Date": "July 16, 1946",
     "Artist": "Charlie Spivak & His Orchestra",
     "Price": "",
     "Text": "",
@@ -3822,8 +3822,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "October 22, 1946",
+    "ID": 92,
+    "Full_Date": "October 22, 1946",
     "Artist": "Hal McIntyre & His Orchestra",
     "Price": "",
     "Text": "",
@@ -3864,8 +3864,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "January 16, 1947",
+    "ID": 93,
+    "Full_Date": "January 16, 1947",
     "Artist": "Claude Thornhill & His Orchestra",
     "Price": "",
     "Text": "",
@@ -3906,8 +3906,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "March 19, 1947",
+    "ID": 94,
+    "Full_Date": "March 19, 1947",
     "Artist": "Elliot Lawrence & His Orchestra",
     "Price": "",
     "Text": "",
@@ -3948,8 +3948,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "April 20, 1947",
+    "ID": 95,
+    "Full_Date": "April 20, 1947",
     "Artist": "Carlos Molina & His Orchestra",
     "Price": "",
     "Text": "",
@@ -3990,8 +3990,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "May 7, 1947",
+    "ID": 96,
+    "Full_Date": "May 7, 1947",
     "Artist": "Guy Lombardo & His Royal Canadians",
     "Price": "",
     "Text": "",
@@ -4032,8 +4032,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "May 15, 1947",
+    "ID": 97,
+    "Full_Date": "May 15, 1947",
     "Artist": "Buddy Moreno & His Orchestra",
     "Price": "",
     "Text": "",
@@ -4074,8 +4074,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "May 22, 1947",
+    "ID": 98,
+    "Full_Date": "May 22, 1947",
     "Artist": "Ray McKinley & His Orchestra",
     "Price": "",
     "Text": "",
@@ -4116,8 +4116,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "May 29, 1947",
+    "ID": 99,
+    "Full_Date": "May 29, 1947",
     "Artist": "Mal Dunn & His Orchestra",
     "Price": "",
     "Text": "",
@@ -4158,8 +4158,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "October 2, 1947",
+    "ID": 100,
+    "Full_Date": "October 2, 1947",
     "Artist": "Charlie Barnet & His Orchestra",
     "Price": "",
     "Text": "",
@@ -4200,8 +4200,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "October 10, 1947",
+    "ID": 101,
+    "Full_Date": "October 10, 1947",
     "Artist": "Kenny Sargent",
     "Price": "",
     "Text": "",
@@ -4242,8 +4242,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "October 30, 1947",
+    "ID": 102,
+    "Full_Date": "October 30, 1947",
     "Artist": "Jimmy Dorsey & His Orchestra",
     "Price": "",
     "Text": "",
@@ -4284,8 +4284,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "November 13, 1947",
+    "ID": 103,
+    "Full_Date": "November 13, 1947",
     "Artist": "Stan Kenton & His Orchestra",
     "Price": "",
     "Text": "",
@@ -4326,8 +4326,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "December 11, 1947",
+    "ID": 104,
+    "Full_Date": "December 11, 1947",
     "Artist": "Clyde McCoy & His Sugar Blues Orchestra",
     "Price": "",
     "Text": "",
@@ -4368,8 +4368,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "December 17, 1947",
+    "ID": 105,
+    "Full_Date": "December 17, 1947",
     "Artist": "Sam Donahue & His Orchestra",
     "Price": "",
     "Text": "",
@@ -4410,8 +4410,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "February 19, 1948",
+    "ID": 106,
+    "Full_Date": "February 19, 1948",
     "Artist": "Lawrence Welk & His Champagne Music",
     "Price": "",
     "Text": "",
@@ -4452,8 +4452,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "March 4, 1948",
+    "ID": 107,
+    "Full_Date": "March 4, 1948",
     "Artist": "Gene Krupa & His Orchestra",
     "Price": "",
     "Text": "",
@@ -4494,8 +4494,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "April 19, 1948",
+    "ID": 108,
+    "Full_Date": "April 19, 1948",
     "Artist": "Phil Levant & His Orchestra",
     "Price": "",
     "Text": "",
@@ -4536,8 +4536,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "April 22, 1948",
+    "ID": 109,
+    "Full_Date": "April 22, 1948",
     "Artist": "Russ Morgan & His Orchestra",
     "Price": "",
     "Text": "",
@@ -4578,8 +4578,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "August 28, 1948",
+    "ID": 110,
+    "Full_Date": "August 28, 1948",
     "Artist": "Art Mooney & His Orchestra",
     "Price": "",
     "Text": "",
@@ -4620,8 +4620,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "October 10, 1948",
+    "ID": 111,
+    "Full_Date": "October 10, 1948",
     "Artist": "Art Kassel & His Kassels In The Air",
     "Price": "",
     "Text": "",
@@ -4662,8 +4662,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "May 1, 1949",
+    "ID": 112,
+    "Full_Date": "May 1, 1949",
     "Artist": "Boyd Raeburn & His Orchestra",
     "Price": "",
     "Text": "",
@@ -4704,8 +4704,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "May 29, 1949",
+    "ID": 113,
+    "Full_Date": "May 29, 1949",
     "Artist": "Benny Strong & His Orchestra",
     "Price": "",
     "Text": "",
@@ -4746,8 +4746,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "June 21, 1949",
+    "ID": 114,
+    "Full_Date": "June 21, 1949",
     "Artist": "Eddy Howard & His Orchestra",
     "Price": "",
     "Text": "",
@@ -4788,8 +4788,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "July 19, 1949",
+    "ID": 115,
+    "Full_Date": "July 19, 1949",
     "Artist": "Elliot Lawrence & His Orchestra",
     "Price": "",
     "Text": "",
@@ -4830,8 +4830,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "July 23, 1949",
+    "ID": 116,
+    "Full_Date": "July 23, 1949",
     "Artist": "Billy Bishop & His Music from Mayfair",
     "Price": "",
     "Text": "",
@@ -4872,8 +4872,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "August 11, 1949",
+    "ID": 117,
+    "Full_Date": "August 11, 1949",
     "Artist": "Johnny Long & His Orchestra",
     "Price": "",
     "Text": "",
@@ -4914,8 +4914,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "January 28, 1950",
+    "ID": 118,
+    "Full_Date": "January 28, 1950",
     "Artist": "Hal Wiese & His Orchestra / The Ballantines",
     "Price": "",
     "Text": "",
@@ -4956,8 +4956,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "January 30, 1950",
+    "ID": 119,
+    "Full_Date": "January 30, 1950",
     "Artist": "Stan Stanley & The Danciest Band In The Land",
     "Price": "",
     "Text": "",
@@ -4998,8 +4998,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "January 20, 1951",
+    "ID": 120,
+    "Full_Date": "January 20, 1951",
     "Artist": "Vance Dixon with Box Car Myrtle",
     "Price": "",
     "Text": "",
@@ -5040,8 +5040,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "February 2, 1951",
+    "ID": 121,
+    "Full_Date": "February 2, 1951",
     "Artist": "Stan Kenton & His Orchestra",
     "Price": "",
     "Text": "",
@@ -5082,8 +5082,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "January 8, 1952",
+    "ID": 122,
+    "Full_Date": "January 8, 1952",
     "Artist": "Frank Yankovic & His Yanks",
     "Price": "",
     "Text": "",
@@ -5124,8 +5124,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "January 29, 1952",
+    "ID": 123,
+    "Full_Date": "January 29, 1952",
     "Artist": "Lawrence Duchow & His Red Ravens Orchestra",
     "Price": "",
     "Text": "",
@@ -5166,8 +5166,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "February 9, 1952",
+    "ID": 124,
+    "Full_Date": "February 9, 1952",
     "Artist": "Vance Dixon",
     "Price": "",
     "Text": "",
@@ -5208,8 +5208,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "April 5, 1952",
+    "ID": 125,
+    "Full_Date": "April 5, 1952",
     "Artist": "Ray Winegar & His Orchestra",
     "Price": "",
     "Text": "",
@@ -5250,8 +5250,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "April 13, 1952",
+    "ID": 126,
+    "Full_Date": "April 13, 1952",
     "Artist": "Del Clayton & His Orchestra",
     "Price": "",
     "Text": "",
@@ -5292,8 +5292,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "August 6, 1952",
+    "ID": 127,
+    "Full_Date": "August 6, 1952",
     "Artist": "Skippy Anderson & His Orchestra",
     "Price": "",
     "Text": "",
@@ -5334,8 +5334,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "November 9, 1952",
+    "ID": 128,
+    "Full_Date": "November 9, 1952",
     "Artist": "Six Fat Dutchmen",
     "Price": "",
     "Text": "",
@@ -5376,8 +5376,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "November 25, 1952",
+    "ID": 129,
+    "Full_Date": "November 25, 1952",
     "Artist": "Fezz Fritsche & His Goosetown Band",
     "Price": "",
     "Text": "",
@@ -5418,8 +5418,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "April 22, 1953",
+    "ID": 130,
+    "Full_Date": "April 22, 1953",
     "Artist": "Little John Beecher & His Orchestra",
     "Price": "",
     "Text": "",
@@ -5460,8 +5460,8 @@
     "Img35": ""
   },
   {
-    "ID": "",
-    "Full Date": "June 6, 1953",
+    "ID": 131,
+    "Full_Date": "June 6, 1953",
     "Artist": "Johnnie Kaye & His Orchestra",
     "Price": "",
     "Text": "",
