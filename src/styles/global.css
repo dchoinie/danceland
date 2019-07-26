@@ -39,6 +39,28 @@ a {
   right: 2%;
 }
 
+#yearSelectorWrapper {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-gap: 15px;
+  grid-template-rows: repeat(3, 200px);
+  justify-content: stretch;
+}
+
+@media screen and (max-width: 768px) {
+  #yearSelectorWrapper {
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(5, 200px);
+  }
+}
+
+@media screen and (max-width: 640px) {
+  #yearSelectorWrapper {
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: repeat(15, 200px);
+  }
+}
+
 /* @media screen and (min-width: 768px) {
   #heroContainer {
     display: block;
