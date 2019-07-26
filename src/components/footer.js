@@ -1,4 +1,4 @@
-import React, { Component } from "react"
+import React from "react"
 import { useStaticQuery, graphql, Link } from "gatsby"
 import DropdownSearchByYear from "../components/dropdownSearchByYear"
 
@@ -60,6 +60,7 @@ export default () => {
             <a
               href="https://github.com/dchoinie"
               target="_blank"
+              rel="noopener noreferrer"
               className="cursor-pointer"
             >
               {data.site.siteMetadata.developer}
