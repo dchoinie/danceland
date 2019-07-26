@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "date": "December 15, 1957",
     "artist": "Buddy Knox / Jimmy Bowen & The Rhythm Orchids",
     "price": "90¢",
@@ -11,6 +12,7 @@
     "img5": ""
   },
   {
+    "id": 2,
     "date": "December 22, 1957",
     "artist": "Record Hop with KCRG's Dave Etzel",
     "price": "50¢",
@@ -22,6 +24,7 @@
     "img5": ""
   },
   {
+    "id": 3,
     "date": "December 29, 1957",
     "artist": "Record Hop",
     "price": "50¢",
@@ -33,6 +36,7 @@
     "img5": ""
   },
   {
+    "id": 4,
     "date": "January 5, 1958",
     "artist": "Gene Vincent & The Blue Caps",
     "price": "90¢",
@@ -44,6 +48,7 @@
     "img5": ""
   },
   {
+    "id": 5,
     "date": "January 12, 1958",
     "artist": "Des Moines Rock Band with KCRG's Dave Etzel",
     "price": "50¢",
@@ -55,6 +60,7 @@
     "img5": ""
   },
   {
+    "id": 6,
     "date": "January 19, 1958",
     "artist": "The Rock-A-Beats with KCRG's Dave Etzel",
     "price": "50¢",
@@ -66,6 +72,7 @@
     "img5": ""
   },
   {
+    "id": 7,
     "date": "January 26, 1958",
     "artist": "The Comet-Aires",
     "price": "50¢",
@@ -77,6 +84,7 @@
     "img5": ""
   },
   {
+    "id": 8,
     "date": "February 2, 1958",
     "artist": "Record Hop",
     "price": "50¢",
@@ -88,6 +96,7 @@
     "img5": ""
   },
   {
+    "id": 9,
     "date": "February 9, 1958",
     "artist": "Record Hop",
     "price": "50¢",
@@ -99,6 +108,7 @@
     "img5": ""
   },
   {
+    "id": 10,
     "date": "February 16, 1958",
     "artist": "Eddie Randall & The Downbeats",
     "price": "50¢",
@@ -110,6 +120,7 @@
     "img5": ""
   },
   {
+    "id": 11,
     "date": "February 23, 1958",
     "artist": "Record Hop with KCRG's Dave Etzel",
     "price": "50¢",
@@ -121,6 +132,7 @@
     "img5": ""
   },
   {
+    "id": 12,
     "date": "March 2, 1958",
     "artist": "Record Hop with KCRG's Dave Etzel",
     "price": "50¢",
@@ -132,6 +144,7 @@
     "img5": ""
   },
   {
+    "id": 13,
     "date": "March 9, 1958",
     "artist": "Record Hop with KCRG's Dave Etzel",
     "price": "50¢",
@@ -143,6 +156,7 @@
     "img5": ""
   },
   {
+    "id": 14,
     "date": "March 16, 1958",
     "artist": "The Crescendos",
     "price": "90¢",
@@ -154,6 +168,7 @@
     "img5": ""
   },
   {
+    "id": 15,
     "date": "March 23, 1958",
     "artist": "Record Hop with KCRG's Dave Etzel",
     "price": "50¢",
@@ -165,6 +180,7 @@
     "img5": ""
   },
   {
+    "id": 16,
     "date": "March 30, 1958",
     "artist": "Record Hop",
     "price": "50¢",
@@ -176,6 +192,7 @@
     "img5": ""
   },
   {
+    "id": 17,
     "date": "April 6, 1958",
     "artist": "Record Hop with KCRG's Jim Young",
     "price": "50¢",
@@ -187,6 +204,7 @@
     "img5": ""
   },
   {
+    "id": 18,
     "date": "April 13, 1958",
     "artist": "Dale Thomas & The Bandera Boys with KCRG's Jim Young",
     "price": "50¢",
@@ -198,6 +216,7 @@
     "img5": ""
   },
   {
+    "id": 19,
     "date": "October 12, 1958",
     "artist": "Dale Thomas & The Bandera Boys with KCRG's Jim Jensen",
     "price": "75¢",
@@ -209,6 +228,7 @@
     "img5": ""
   },
   {
+    "id": 20,
     "date": "October 19, 1958",
     "artist": "The Big Beats with KCRG's Jim Jensen",
     "price": "75¢",
@@ -220,6 +240,7 @@
     "img5": ""
   },
   {
+    "id": 21,
     "date": "October 26, 1958",
     "artist": "Don Shaw's \"Top 40\" Band featuring Ronnie Meek with KCRG's Jim Jensen",
     "price": "75¢",
@@ -231,6 +252,7 @@
     "img5": ""
   },
   {
+    "id": 22,
     "date": "November 2, 1958",
     "artist": "Eddie Randall & The Downbeats with KCRG's Jim Jensen",
     "price": "75¢",
@@ -242,6 +264,7 @@
     "img5": ""
   },
   {
+    "id": 23,
     "date": "November 9, 1958",
     "artist": "Dale Thomas & The Bandera Boys with KCRG's Jim Jensen",
     "price": "75¢",
@@ -253,6 +276,7 @@
     "img5": ""
   },
   {
+    "id": 24,
     "date": "November 16, 1958",
     "artist": "The Big Beats with KCRG's Jim Jensen",
     "price": "75¢",
@@ -264,6 +288,7 @@
     "img5": ""
   },
   {
+    "id": 25,
     "date": "November 23, 1958",
     "artist": "Dale Thomas & The Bandera Boys with KCRG's Jim Jensen",
     "price": "75¢",
@@ -275,6 +300,7 @@
     "img5": ""
   },
   {
+    "id": 26,
     "date": "November 30, 1958",
     "artist": "Don Shaw's \"Top 40\" Band featuring Ronnie Meek with KCRG's Jim Jensen",
     "price": "75¢",
@@ -286,6 +312,7 @@
     "img5": ""
   },
   {
+    "id": 27,
     "date": "December 7, 1958",
     "artist": "The Big Beats with KCRG's Jim Jensen",
     "price": "75¢",
@@ -297,6 +324,7 @@
     "img5": ""
   },
   {
+    "id": 28,
     "date": "December 14, 1958",
     "artist": "Dale Thomas & The Bandera Boys with KCRG's Jim Jensen",
     "price": "75¢",
@@ -308,6 +336,7 @@
     "img5": ""
   },
   {
+    "id": 29,
     "date": "December 21, 1958",
     "artist": "Eddie Randall & The Downbeats with KCRG's Jim Jensen",
     "price": "75¢",
@@ -319,6 +348,7 @@
     "img5": ""
   },
   {
+    "id": 30,
     "date": "December 28, 1958",
     "artist": "Don Shaw's \"Top 40\" Band featuring Ronnie Meek with KCRG's Jim Jensen",
     "price": "75¢",
@@ -330,6 +360,7 @@
     "img5": ""
   },
   {
+    "id": 31,
     "date": "January 4, 1959",
     "artist": "Dale Thomas & The Bandera Boys with KCRG's Jim Jensen",
     "price": "75¢",
@@ -341,6 +372,7 @@
     "img5": ""
   },
   {
+    "id": 32,
     "date": "January 11, 1959",
     "artist": "Jimmy Clanton / The Highlights with KCRG's Jim Jensen",
     "price": "90¢",
@@ -352,6 +384,7 @@
     "img5": ""
   },
   {
+    "id": 33,
     "date": "January 18, 11959",
     "artist": "Don Shaw's \"Top 40\" Band featuring Ronnie Meek with KCRG's Jim Jensen",
     "price": "75¢",
@@ -363,6 +396,7 @@
     "img5": ""
   },
   {
+    "id": 34,
     "date": "January 25, 1959",
     "artist": "The Big Beats with KCRG's Jim Jensen",
     "price": "75¢",
@@ -374,6 +408,7 @@
     "img5": ""
   },
   {
+    "id": 35,
     "date": "February 1, 1959",
     "artist": "Dale Thomas & The Bandera Boys with KCRG's Jim Jensen",
     "price": "75¢",
@@ -385,6 +420,7 @@
     "img5": ""
   },
   {
+    "id": 36,
     "date": "February 8, 1959",
     "artist": "Eddie Randall & The Downbeats with KCRG's Jim Jensen",
     "price": "75¢",
@@ -396,6 +432,7 @@
     "img5": ""
   },
   {
+    "id": 37,
     "date": "February 15, 1959",
     "artist": "Don Shaw's \"Top 40\" Band featuring Ronnie Meek & Tommy Gilman with KCRG's Jim Jensen",
     "price": "75¢",
@@ -407,6 +444,7 @@
     "img5": ""
   },
   {
+    "id": 38,
     "date": "February 22, 1959",
     "artist": "Dale Thomas & The Bandera Boys with KCRG's Jim Jensen",
     "price": "75¢",
@@ -418,6 +456,7 @@
     "img5": ""
   },
   {
+    "id": 39,
     "date": "March 1, 1959",
     "artist": "The Big Beats with KCRG's Jim Jensen",
     "price": "75¢",
@@ -429,6 +468,7 @@
     "img5": ""
   },
   {
+    "id": 40,
     "date": "March 8, 1959",
     "artist": "The Highlights with KCRG's Jim Jensen",
     "price": "75¢",
@@ -440,6 +480,7 @@
     "img5": ""
   },
   {
+    "id": 41,
     "date": "March 15, 1959",
     "artist": "Don Shaw's \"Top 40\" Band featuring  Ronnie Meek & Tommy Gilman with KCRG's Jim Jensen",
     "price": "75¢",
@@ -451,6 +492,7 @@
     "img5": ""
   },
   {
+    "id": 42,
     "date": "March 22, 1959",
     "artist": "Dale Thomas & The Bandera Boys with KCRG's Jim Jensen",
     "price": "75¢",
@@ -462,6 +504,7 @@
     "img5": ""
   },
   {
+    "id": 43,
     "date": "March 29, 1959",
     "artist": "Bill Sherrell & The Dell Tones with KCRG's Jim Jensen",
     "price": "$1.00",
