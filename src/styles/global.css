@@ -22,16 +22,11 @@ a {
 
 @tailwind components;
 
-/* #heroContainer {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  text-align: center;
+#hamburgerWrapper {
+  display: absolute;
+  right: 5%;
+  top: 0%;
 }
-
-#heroTitle {
-  font-size: 4rem;
-} */
 
 #stickyYear {
   position: fixed;

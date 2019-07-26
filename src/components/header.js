@@ -1,7 +1,7 @@
 import React, { Component } from "react"
 import { Link } from "gatsby"
+import HamburgerMenu from "../components/hamburgerMenu"
 import DropdownSearchByYear from "../components/dropdownSearchByYear"
-import { FaBars } from "react-icons/fa"
 
 class Header extends Component {
   render() {
@@ -38,7 +38,9 @@ class Header extends Component {
             <li className="hover:text-red-800">Danceland Bandstand</li>
           </Link>
         </ul>
-        <FaBars className="lg:hidden" />
+        <div className="lg:hidden" id="hamburgerWrapper">
+          <HamburgerMenu />
+        </div>
       </div>
     )
   }
