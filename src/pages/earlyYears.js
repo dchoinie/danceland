@@ -17,7 +17,7 @@ export class earlyYears extends Component {
   render() {
     return (
       <Layout>
-        <div>
+        <div className="px-4 lg:px-0">
           <PageTitle title="Early Years" />
           <div className="container mx-auto">
             <div className="row text-center">
