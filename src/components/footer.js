@@ -17,19 +17,19 @@ export default () => {
     }
   `)
   return (
-    <div className="bg-gray-900 text-white flex justify-between py-6">
-      <div className="mx-12">
-        <div className="flex">
+    <div className="bg-gray-900 text-white flex-row text-center lg:text-left lg:flex lg:justify-between py-6">
+      <div className="my-4 lg:my-0 lg:mx-12">
+        <div className="lg:flex">
           <Link to="/">
             <h2 className="text-4xl">{data.site.siteMetadata.title}</h2>
           </Link>
         </div>
-        <div className="flex">
+        <div className="lg:flex">
           <h6>{data.site.siteMetadata.description}</h6>
         </div>
       </div>
-      <div className="mx-12">
-        <ul className="flex justify-end my-2">
+      <div className="my-4 lg:my-0 lg:mx-12">
+        <ul className="lg:flex lg:justify-end my-2">
           <li className="mx-2">
             <DropdownSearchByYear />
           </li>
@@ -49,12 +49,12 @@ export default () => {
             <li className="mx-2">Danceland Bandstand</li>
           </Link>
         </ul>
-        <div className="flex justify-end my-2">
+        <div className="my-4 lg:my-0 lg:flex lg:justify-end my-2">
           <p className="mx-2">
             © {new Date().getFullYear()} | {data.site.siteMetadata.author}
           </p>
         </div>
-        <div className="flex justify-end my-2">
+        <div className="lg:flex lg:justify-end my-2">
           <p className="text-xs text-gray-700">
             Website by:{" "}
             <a

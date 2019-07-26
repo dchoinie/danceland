@@ -1,14 +1,14 @@
 import React, { Component } from "react"
 import { Link } from "gatsby"
 import DropdownSearchByYear from "../components/dropdownSearchByYear"
-// import { FaBars } from "react-icons/Fa"
+import { FaBars } from "react-icons/Fa"
 
 class Header extends Component {
   render() {
     return (
       <div
         id="header"
-        className="flex text-center text-white items-center px-12 py-2"
+        className="flex justify-between text-center text-white items-center px-12 py-2"
         style={{ backgroundColor: "rgba(0,0,0,0)" }}
       >
         <ul className="hidden lg:flex lg:justify-between lg:w-1/3">
@@ -38,6 +38,7 @@ class Header extends Component {
             <li className="hover:text-red-800">Danceland Bandstand</li>
           </Link>
         </ul>
+        <FaBars className="lg:hidden" />
       </div>
     )
   }
