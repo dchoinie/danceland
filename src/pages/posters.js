@@ -1,8 +1,19 @@
 import React, { Component } from "react"
+import styled from "styled-components"
 import Layout from "../components/layout"
 import PageTitle from "../components/pageTitle"
 import PosterData from "../data/dataPosters"
 import Hr from "../components/Hr"
+
+const PosterImg = styled.img`
+  width: 100%;
+
+  @media screen and (min-width: 768px) {
+    max-width: 470px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+`
 
 export class posters extends Component {
   render() {
@@ -10,7 +21,7 @@ export class posters extends Component {
       <Layout>
         <PageTitle title="Danceland Posters" />
         <div className="container mx-auto">
-          <p className="my-4 max-w-4xl mx-auto">
+          <p className="my-4 max-w-4xl mx-auto px-4">
             At the entrance to the ballroom Danceland patrons were greeted by a
             poster that would announce upcoming or current shows. Poster is
             probably an under-statement. These were large 28” X 44” hand-painted
@@ -24,16 +35,8 @@ export class posters extends Component {
           </p>
           {PosterData.map((ItemDetail, index) => {
             return (
-              <div className="flex-row justify-center my-2">
-                <img
-                  src={ItemDetail.img}
-                  alt=""
-                  style={{
-                    minWidth: "470px",
-                    marginLeft: "auto",
-                    marginRight: "auto",
-                  }}
-                />
+              <div className="flex-row justify-center my-2 px-4">
+                <PosterImg src={ItemDetail.img} alt="" />
                 <p className="text-4xl my-2 font-bold text-center">
                   {ItemDetail.date}
                 </p>
