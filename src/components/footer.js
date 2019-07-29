@@ -1,6 +1,7 @@
 import React from "react"
 import { useStaticQuery, graphql, Link } from "gatsby"
 import DropdownSearchByYear from "../components/dropdownSearchByYear"
+import { FaFacebook, FaTwitter } from "react-icons/fa"
 
 export default () => {
   const data = useStaticQuery(graphql`
@@ -49,9 +50,23 @@ export default () => {
             <li className="mx-2">Danceland Bandstand</li>
           </Link>
         </ul>
+        <ul className="lg:flex lg:justify-end my-2 text-sm text-gray-600">
+          <li className="mx-2 self-center">
+            <FaFacebook />
+          </li>
+          <li className="mx-2 self-center">
+            <FaTwitter />
+          </li>
+          <li className="mx-2 self-center">Privacy Policy</li>
+          <li className="mx-2 self-center">Terms &amp; Conditions</li>
+          <li className="mx-2 self-center">
+            <Link to="/contact">Contact</Link>
+          </li>
+        </ul>
         <div className="my-4 lg:my-0 lg:flex lg:justify-end my-2">
           <p className="mx-2">
-            © {new Date().getFullYear()} | {data.site.siteMetadata.author}
+            Copyright © {new Date().getFullYear()} |{" "}
+            {data.site.siteMetadata.author}
           </p>
         </div>
         <div className="lg:flex lg:justify-end my-2">
