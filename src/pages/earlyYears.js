@@ -24,7 +24,7 @@ export class earlyYears extends Component {
               <div className="col">
                 {YearData.map((ItemDetail, index) => {
                   return (
-                    <>
+                    <div className="px-4 lg:px-0">
                       <p>{ItemDetail.Full_Date}</p>
                       <h3 className="text-2xl">{ItemDetail.Artist}</h3>
                       <div className="flex flex-wrap justify-center">
@@ -34,7 +34,7 @@ export class earlyYears extends Component {
                           className=""
                           style={{
                             maxHeight: "400px",
-                            maxWidth: "400px",
+                            // maxWidth: "400px",
                           }}
                         />
                         <StyledImg
@@ -71,7 +71,7 @@ export class earlyYears extends Component {
                         />
                       </div>
                       <Hr />
-                    </>
+                    </div>
                   )
                 })}
               </div>
