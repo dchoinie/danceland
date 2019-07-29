@@ -22,14 +22,14 @@ export class page1954 extends Component {
           <PageTitle title="1954" />
           <div className="container mx-auto">
             <StickyYear year="1954" />
-            <p className="container max-w-4xl mx-auto mb-8">
+            <p className="container max-w-4xl mx-auto mb-8 px-4 lg:px-0">
               National acts that played at Danceland in 1954 include - Wayne
               King & His Orchestra, “Whoopee” John Wilfahrt & His Orchestra,
               WNAX Bohemian Band, Fezz Fritsche & His Goosetown Band, Six Fat
               Dutchmen, Frank Yankovic & His Yanks.
             </p>
             <div className="row text-center">
-              <div className="col">
+              <div className="col px-4 lg:px-0">
                 {YearData.map((ItemDetail, index) => {
                   return (
                     <>

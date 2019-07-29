@@ -3,7 +3,7 @@ import React, { Component } from "react"
 export class welcome extends Component {
   render() {
     return (
-      <div className="container mx-auto my-16 max-w-4xl shadow-lg rounded">
+      <div className="container mx-auto my-16 max-w-4xl">
         <div className="welcomeInner p-6">
           <p className="my-4">
             <span className="text-4xl font-bold text-red-700">Welcome</span> to

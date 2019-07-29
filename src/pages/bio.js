@@ -1,9 +1,23 @@
 import React, { Component } from "react"
+import styled from "styled-components"
 import Layout from "../components/layout"
 import aboutImg1 from "../images/aboutImage.jpg"
 import aboutImg2 from "../images/marquee.jpg"
+import aboutImg3 from "../images/dancelandInterior.jpg"
 import PageTitle from "../components/pageTitle"
 import Hr from "../components/Hr"
+
+const BioImgGrid = styled.div`
+  display: grid;
+  grid-template-columns: repeat(1, auto);
+  grid-template-rows: repeat(3, auto);
+  place-items: center;
+
+  @media screen and (min-width: 768px) {
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 5px;
+  }
+`
 
 export class bio extends Component {
   render() {
@@ -11,11 +25,27 @@ export class bio extends Component {
       <Layout>
         <div>
           <PageTitle title="Danceland Bio" />
-          <div className="flex justify-center my-3">
-            <img src={aboutImg1} alt="aboutImg1" className="mx-2" />
-            <img src={aboutImg2} alt="aboutImg2" className="mx-2" />
-          </div>
-          <div className="container mx-auto w-3/5">
+          <BioImgGrid className="px-4">
+            <img
+              src={aboutImg1}
+              alt="aboutImg1"
+              className="my-4"
+              style={{ minWidth: "350px" }}
+            />
+            <img
+              src={aboutImg2}
+              alt="aboutImg2"
+              className="my-4"
+              style={{ minWidth: "350px" }}
+            />
+            <img
+              src={aboutImg3}
+              alt="aboutImg3"
+              className="my-4"
+              style={{ minWidth: "350px" }}
+            />
+          </BioImgGrid>
+          <div className="container mx-auto px-4 lg:px-12">
             <p className="my-4">
               Danceland was billed as “Iowa’s Smartest Ballroom” and it would be
               hard to argue that point. The ballroom was built in the heart of

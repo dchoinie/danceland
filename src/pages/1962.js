@@ -21,7 +21,7 @@ export class page1962 extends Component {
           <StickyYear year="1962" />
           <p className="container max-w-4xl mx-auto mb-8"></p>
           <div className="row text-center">
-            <div className="col">
+            <div className="col px-4 lg:px-0">
               {YearData.map((ItemDetail, index) => {
                 return (
                   <>
