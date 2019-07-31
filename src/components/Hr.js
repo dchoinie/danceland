@@ -24,7 +24,7 @@ const StyledHr = styled.hr`
 class Hr extends Component {
   render() {
     return (
-      <div className="py-2 max-w-4xl mx-auto">
+      <div className="py-2 max-w-4xl mx-auto my-2">
         <StyledHr />
       </div>
     )

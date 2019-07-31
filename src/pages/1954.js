@@ -38,6 +38,8 @@ export class page1954 extends Component {
                       </p>
                       <h3 className="text-2xl">{ItemDetail.artist}</h3>
                       <p>{ItemDetail.price}</p>
+                      <p>{ItemDetail.comment1}</p>
+
                       <div className="flex flex-wrap justify-center">
                         <StyledImg
                           src={ItemDetail.img1}
@@ -48,14 +50,19 @@ export class page1954 extends Component {
                             maxWidth: "400px",
                           }}
                         />
-                        <StyledImg
-                          src={ItemDetail.img2}
-                          alt=""
-                          className=""
-                          style={{
-                            maxHeight: "400px",
-                          }}
-                        />
+                        <figure
+                          style={{ maxHeight: "400px", maxWidth: "400px" }}
+                        >
+                          <StyledImg
+                            src={ItemDetail.img2}
+                            alt=""
+                            className="h-full"
+                            style={{
+                              maxHeight: "400px",
+                            }}
+                          />
+                          <figcaption>{ItemDetail.caption}</figcaption>
+                        </figure>
                         <StyledImg
                           src={ItemDetail.img3}
                           alt=""
@@ -321,6 +328,7 @@ export class page1954 extends Component {
                           }}
                         />
                       </div>
+                      <p>{ItemDetail.comment2}</p>
                       <Hr />
                     </>
                   )

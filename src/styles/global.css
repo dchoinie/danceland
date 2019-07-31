@@ -20,6 +20,10 @@ a {
   font-family: "Open Sans", sans-serif;
 }
 
+p:empty {
+  display: none;
+}
+
 @tailwind components;
 
 #hamburgerWrapper {
