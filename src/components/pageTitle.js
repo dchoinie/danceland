@@ -4,7 +4,7 @@ import HeaderImg from "../images/Front_Wider.jpg"
 
 export class pageTitle extends Component {
   static propTypes = {
-    title: PropTypes.string.isRequired,
+    title: PropTypes.string,
   }
 
   render() {
@@ -23,10 +23,11 @@ export class pageTitle extends Component {
           <h2
             className="text-center py-4"
             style={{
-              fontSize: "3rem",
+              fontSize: "4rem",
               fontWeight: "700",
               textDecoration: "underline",
               fontFamily: "Open Sans",
+              marginTop: "75px",
             }}
           >
             {this.props.title}
