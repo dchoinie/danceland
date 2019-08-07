@@ -19,7 +19,7 @@ export class page1956 extends Component {
         <PageTitle title="1956" />
         <div className="container mx-auto">
           <StickyYear year="1956" />
-          <p className="container max-w-4xl mx-auto mb-8">
+          <p className="container max-w-4xl mx-auto mb-8 px-4 lg:px-0">
             National acts that played at Danceland in 1956 include: Boyd Bennett
             &amp; His Rockets, Wanda Jackson, Faron Young, Webb Pierce, Marvin
             Rainwater, Porter Wagoner, Hank Thompson &amp; His Bravos Valley

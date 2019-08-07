@@ -25,27 +25,27 @@ export class bio extends Component {
       <Layout>
         <div>
           <PageTitle title="Danceland Bio" />
-          <BioImgGrid className="px-4">
-            <img
-              src={aboutImg1}
-              alt="aboutImg1"
-              className="my-4"
-              style={{ minWidth: "350px" }}
-            />
-            <img
-              src={aboutImg2}
-              alt="aboutImg2"
-              className="my-4"
-              style={{ minWidth: "350px" }}
-            />
-            <img
-              src={aboutImg3}
-              alt="aboutImg3"
-              className="my-4"
-              style={{ minWidth: "350px" }}
-            />
-          </BioImgGrid>
           <div className="container mx-auto px-4 lg:px-12">
+            <div className="flex flex-col justify-center px-4 md:flex-row">
+              <img
+                src={aboutImg1}
+                alt="about 1"
+                className="my-2 md:mx-2"
+                style={{ maxWidth: "300px" }}
+              />
+              <img
+                src={aboutImg2}
+                alt="about 2"
+                className="my-2 md:mx-2"
+                style={{ maxWidth: "300px" }}
+              />
+              <img
+                src={aboutImg3}
+                alt="about 3"
+                className="my-2 md:mx-2"
+                style={{ maxWidth: "300px" }}
+              />
+            </div>
             <p className="my-4">
               Danceland was billed as “Iowa’s Smartest Ballroom” and it would be
               hard to argue that point. The ballroom was built in the heart of

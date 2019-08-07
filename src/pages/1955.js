@@ -19,7 +19,18 @@ export class page1954 extends Component {
         <PageTitle title="1955" />
         <div className="container mx-auto">
           <StickyYear year="1955" />
-          <p className="container max-w-4xl mx-auto mb-8">1955 was the year live rock and roll came to Cedar Rapids. The date was October 6th and the band was Bill Haley &amp; His Comets. That would signal the beginning of Danceland being the place for eastern Iowans to witness live rock and roll. Later that month Boyd Bennett &amp; His Rockets, became the second rock and rollers to make an appearance. Also gracing the Danceland stage in 1955 were the innovating orchestra of Sauter-Finegan, polka great “Whoopee” John Wilfahrt &amp; His Orchestra and Yankton South Dakota’s popular WNAX Bohemian Band. Major country acts include Pee Wee King &amp; His Golden West Cowboys and Bob Wills &amp; His Texas Playboys. </p>
+          <p className="container max-w-4xl mx-auto mb-8 px-4 lg:px-0">
+            1955 was the year live rock and roll came to Cedar Rapids. The date
+            was October 6th and the band was Bill Haley &amp; His Comets. That
+            would signal the beginning of Danceland being the place for eastern
+            Iowans to witness live rock and roll. Later that month Boyd Bennett
+            &amp; His Rockets, became the second rock and rollers to make an
+            appearance. Also gracing the Danceland stage in 1955 were the
+            innovating orchestra of Sauter-Finegan, polka great “Whoopee” John
+            Wilfahrt &amp; His Orchestra and Yankton South Dakota’s popular WNAX
+            Bohemian Band. Major country acts include Pee Wee King &amp; His
+            Golden West Cowboys and Bob Wills &amp; His Texas Playboys.{" "}
+          </p>
           <div className="row text-center">
             <div className="col px-4 lg:px-0">
               {YearData.map((ItemDetail, index) => {

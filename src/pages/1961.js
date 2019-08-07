@@ -19,7 +19,7 @@ export class page1961 extends Component {
         <PageTitle title="1961" />
         <div className="container mx-auto">
           <StickyYear year="1961" />
-          <p className="container max-w-4xl mx-auto mb-8">
+          <p className="container max-w-4xl mx-auto mb-8 px-4 lg:px-0">
             National acts that played at Danceland in 1961 include - The
             Ventures, Del Shannon, Bobby Vee, Donnie Brooks, Dion, Jimmy Dean,
             Conway Twitty, Ray Stevens, Johnny Cash, Danny &amp; The Juniors,

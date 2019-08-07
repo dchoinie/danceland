@@ -19,7 +19,7 @@ export class page1958 extends Component {
         <PageTitle title="1958" />
         <div className="container mx-auto">
           <StickyYear year="1958" />
-          <p className="container max-w-4xl mx-auto mb-8">
+          <p className="container max-w-4xl mx-auto mb-8 px-4 lg:px-0">
             National acts that played at Danceland in 1958 include - Gene
             Vincent &amp; The Blue Caps, Bobby Darin, Dion &amp; The Belmonts,
             Buddy Knox, Jimmy Bowen, The Crescendos, Johnny Cash, Carl Perkins,

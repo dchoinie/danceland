@@ -19,7 +19,7 @@ export class page1960 extends Component {
         <PageTitle title="1960" />
         <div className="container mx-auto">
           <StickyYear year="1960" />
-          <p className="container max-w-4xl mx-auto mb-8">
+          <p className="container max-w-4xl mx-auto mb-8 px-4 lg:px-0">
             National acts that played at Danceland in 1960 include - Johnny
             Cash, Bobby Vee, Frankie Ford, Bobby Rydell, Carl Mann, The Four
             Preps, Jimmy Clanton, Johnny Burnette, Brian Hyland, Wanda Jackson,
