@@ -30,19 +30,19 @@ export class bio extends Component {
               <img
                 src={aboutImg1}
                 alt="about 1"
-                className="my-2 md:mx-2"
+                className="mx-auto my-2 md:mx-2"
                 style={{ maxWidth: "300px" }}
               />
               <img
                 src={aboutImg2}
                 alt="about 2"
-                className="my-2 md:mx-2"
+                className="mx-auto my-2 md:mx-2"
                 style={{ maxWidth: "300px" }}
               />
               <img
                 src={aboutImg3}
                 alt="about 3"
-                className="my-2 md:mx-2"
+                className="mx-auto my-2 md:mx-2"
                 style={{ maxWidth: "300px" }}
               />
             </div>
