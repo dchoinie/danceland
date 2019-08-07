@@ -19,7 +19,18 @@ export class page1958 extends Component {
         <PageTitle title="1958" />
         <div className="container mx-auto">
           <StickyYear year="1958" />
-          <p className="container max-w-4xl mx-auto mb-8"></p>
+          <p className="container max-w-4xl mx-auto mb-8">
+            National acts that played at Danceland in 1958 include - Gene
+            Vincent &amp; The Blue Caps, Bobby Darin, Dion &amp; The Belmonts,
+            Buddy Knox, Jimmy Bowen, The Crescendos, Johnny Cash, Carl Perkins,
+            Jimmy Clanton, The Big Beats, Jo Ann Campbell, Wanda Jackson, Bobby
+            Helms, Will Mercer, The Dukes Of Dixieland, Richard Maltby, Don
+            Gibson, Jim Reeves, Hank Thompson &amp; His Brazos Valley Boys,
+            Billy Walker, Kitty Wells, Jimmy Newman, Leon McAuliffe, Norma Jean,
+            Bobby Lord, Johnnie &amp; Jack, “Whoopee” John Wilfahrt &amp; His
+            Orchestra, Tony Pastor, Teddy Phillips &amp; His Orchestra, Chuck
+            Foster &amp; His Orchestra.
+          </p>
           <div className="row text-center">
             <div className="col px-4 lg:px-0">
               {YearData.map((ItemDetail, index) => {

@@ -19,7 +19,16 @@ export class page1957 extends Component {
         <PageTitle title="1957" />
         <div className="container mx-auto">
           <StickyYear year="1957" />
-          <p className="container max-w-4xl mx-auto mb-8"></p>
+          <p className="container max-w-4xl mx-auto mb-8">
+            National acts that played at Danceland in 1957 include - Johnny
+            Cash, The Everly Brothers, Gene Vincent &amp; His Blue Caps, Jerry
+            Lee Lewis, Buddy Knox, Jimmy Bowen, Bobby Helms, Wanda Jackson, Hank
+            Thompson &amp; His Bravos Valley Boys, Porter Wagoner, Jim Reeves,
+            Ray Price, Marty Robbins, Leroy Van Dyke, Leon McAuliffe &amp; His
+            Cimarron Boys, Lee Emerson, Chuck Foster &amp; His Orchestra, Guy
+            Lombardo, Don Glasser, Six Fat Dutchmen, “Whoopee” John Wilfahrt
+            &amp; His Orchestra.
+          </p>
           <div className="row text-center">
             <div className="col px-4 lg:px-0">
               {YearData.map((ItemDetail, index) => {

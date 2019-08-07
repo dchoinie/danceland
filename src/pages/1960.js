@@ -19,7 +19,22 @@ export class page1960 extends Component {
         <PageTitle title="1960" />
         <div className="container mx-auto">
           <StickyYear year="1960" />
-          <p className="container max-w-4xl mx-auto mb-8"></p>
+          <p className="container max-w-4xl mx-auto mb-8">
+            National acts that played at Danceland in 1960 include - Johnny
+            Cash, Bobby Vee, Frankie Ford, Bobby Rydell, Carl Mann, The Four
+            Preps, Jimmy Clanton, Johnny Burnette, Brian Hyland, Wanda Jackson,
+            Conway Twitty, The Fendermen, Gene Vincent, Danny &amp; The Juniors,
+            Jack Scott, Johnny Tillotson, Freddy Cannon, Buddy Knox, Johnny
+            Preston, Dicky Doo &amp; The Don’ts, The Fireballs, Bobby Helms,
+            Johnny &amp; The Hurricanes, The Skyliners, Carl Dobkins, Jr.,
+            Donnie Brooks, Johnny Ferguson, The Hollywood Argyles, Ray Smith,
+            The Champs, Harold Dorman, The Crests, Rod Lauren, Gary Stites,
+            Johnny Restivo, Nick DeMatteo, Dick Caruso, Danny Valentino, Johnny
+            McKay, Larry Ellis, Skip &amp; Flip, Johnny Ferguson, Gary Miles,
+            The Big Beats, Jim Reeves, Big Tiny Little, “Whoopee” John Wilfahrt
+            &amp; His Orchestra, Don Glasser, Buddy Morrow, Sammy Stevens &amp;
+            His Orchestra, Smokey Stover, Russ Carlyle, Ralph Zarnow.
+          </p>
           <div className="row text-center">
             <div className="col px-4 lg:px-0">
               {YearData.map((ItemDetail, index) => {

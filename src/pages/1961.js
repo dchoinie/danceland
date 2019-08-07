@@ -19,7 +19,20 @@ export class page1961 extends Component {
         <PageTitle title="1961" />
         <div className="container mx-auto">
           <StickyYear year="1961" />
-          <p className="container max-w-4xl mx-auto mb-8"></p>
+          <p className="container max-w-4xl mx-auto mb-8">
+            National acts that played at Danceland in 1961 include - The
+            Ventures, Del Shannon, Bobby Vee, Donnie Brooks, Dion, Jimmy Dean,
+            Conway Twitty, Ray Stevens, Johnny Cash, Danny &amp; The Juniors,
+            Bill Black’s Combo, Jan &amp; Dean, Dick &amp; Dee Dee, Bobby
+            Vinton, Larry Verne, The Champs, Buck Owens, The Fendermen, Tony
+            Orlando, Cathy Jean &amp; The Roommates, Johnny Burnette, Buddy
+            Knox, Dicky Doo &amp; The Don’ts, Jerry Fuller, Wanda Jackson, Ral
+            Donner, The String-A-Longs, Bobby Bare, Johnny &amp; The Hurricanes,
+            Gary Stites, Janie Grant, Ray Ruff, Gene Simmons, Johnny Maestro,
+            Ersel Hickey, Chuck Tharp, Gerry Granahan, B. Bumble &amp; The
+            Stingers, Bobby Lord, Johnny Western, The Velaires, Pee Wee Hunt
+            &amp; His Twelfth Street Ragtime Band.
+          </p>
           <div className="row text-center">
             <div className="col px-4 lg:px-0">
               {YearData.map((ItemDetail, index) => {
@@ -30,6 +43,7 @@ export class page1961 extends Component {
                     </p>
                     <h3 className="text-2xl">{ItemDetail.artist}</h3>
                     <p>{ItemDetail.price}</p>
+                    <p>{ItemDetail.comment1}</p>
                     <div className="flex flex-wrap justify-center">
                       <StyledImg
                         src={ItemDetail.img1}
@@ -39,6 +53,7 @@ export class page1961 extends Component {
                           maxHeight: "400px",
                         }}
                       />
+                      <p className="self-center">{ItemDetail.comment2}</p>
                       <StyledImg
                         src={ItemDetail.img2}
                         alt=""
@@ -47,6 +62,7 @@ export class page1961 extends Component {
                           maxHeight: "400px",
                         }}
                       />
+                      {/* <p className="self-center">{ItemDetail.comment3}</p> */}
                       <StyledImg
                         src={ItemDetail.img3}
                         alt=""
@@ -55,6 +71,7 @@ export class page1961 extends Component {
                           maxHeight: "400px",
                         }}
                       />
+                      {/* <p className="self-center">{ItemDetail.comment4}</p> */}
                       <StyledImg
                         src={ItemDetail.img4}
                         alt=""
@@ -63,6 +80,7 @@ export class page1961 extends Component {
                           maxHeight: "400px",
                         }}
                       />
+                      {/* <p className="self-center">{ItemDetail.comment5}</p> */}
                       <StyledImg
                         src={ItemDetail.img5}
                         alt=""

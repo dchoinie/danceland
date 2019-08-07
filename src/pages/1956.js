@@ -19,7 +19,15 @@ export class page1956 extends Component {
         <PageTitle title="1956" />
         <div className="container mx-auto">
           <StickyYear year="1956" />
-          <p className="container max-w-4xl mx-auto mb-8"></p>
+          <p className="container max-w-4xl mx-auto mb-8">
+            National acts that played at Danceland in 1956 include: Boyd Bennett
+            &amp; His Rockets, Wanda Jackson, Faron Young, Webb Pierce, Marvin
+            Rainwater, Porter Wagoner, Hank Thompson &amp; His Bravos Valley
+            Boys, Red Sovine, Bill Wimberly &amp; His Country Rhythm Boys, Bobby
+            Lord, Jimmy &amp; Johnny, Rusty Draper, Dick Mango &amp; His
+            Orchestra, Ray Pearl &amp; His Musical Gems, Six Fat Dutchmen,
+            “Whoopee” John Wilfahrt &amp; His Orchestra.
+          </p>
           <div className="row text-center">
             <div className="col px-4 lg:px-0">
               {YearData.map((ItemDetail, index) => {
