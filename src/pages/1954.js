@@ -5,6 +5,7 @@ import PageTitle from "../components/pageTitle"
 import YearData from "../data/data1954"
 import Hr from "../components/Hr"
 import StickyYear from "../components/stickyYear"
+import SearchBox from "../components/searchBox"
 
 const StyledImg = styled.img`
   img[src=""] {
@@ -28,6 +29,7 @@ export class page1954 extends Component {
               Orchestra, WNAX Bohemian Band, Fezz Fritsche &amp; His Goosetown
               Band, Six Fat Dutchmen, Frank Yankovic &amp; His Yanks.
             </p>
+            <SearchBox />
             <div className="row text-center">
               <div className="col px-4 lg:px-0">
                 {YearData.map((ItemDetail, index) => {
@@ -36,7 +38,9 @@ export class page1954 extends Component {
                       <p>
                         {ItemDetail.fullDate}, {ItemDetail.weekday}
                       </p>
-                      <h3 className="text-2xl">{ItemDetail.artist}</h3>
+                      <h3 className="text-2xl lg:text-3xl font-bold">
+                        {ItemDetail.artist}
+                      </h3>
                       <p>{ItemDetail.price}</p>
                       <p>{ItemDetail.comment1}</p>
 

@@ -39,7 +39,12 @@ export class page1954 extends Component {
                     <p>
                       {ItemDetail.fullDate}, {ItemDetail.weekday}
                     </p>
-                    <h3 className="text-2xl">{ItemDetail.artist}</h3>
+                    <h3
+                      className="text-2xl lg:text-3xl font-bold"
+                      style={{ fontFamily: "Noto Serif" }}
+                    >
+                      {ItemDetail.artist}
+                    </h3>
                     <p>{ItemDetail.price}</p>
                     <div className="flex flex-wrap justify-center">
                       <StyledImg

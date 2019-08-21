@@ -33,7 +33,13 @@ module.exports = {
       resolve: "gatsby-plugin-web-font-loader",
       options: {
         google: {
-          families: ["Kalam", "Open Sans", "Quicksand"],
+          families: [
+            "Kalam",
+            "Open Sans",
+            "Quicksand",
+            "Hepta Slab",
+            "Noto Serif",
+          ],
         },
       },
     },
