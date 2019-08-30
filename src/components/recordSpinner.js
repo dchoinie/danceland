@@ -28,7 +28,7 @@ export class recordSpinner extends Component {
             <h2
               onMouseOver={() => this.setState({ isHovered: true })}
               onMouseLeave={() => this.setState({ isHovered: false })}
-              className="text-5xl text-white"
+              className="text-5xl text-white font-bold"
               style={{
                 position: "absolute",
                 top: "15%",
