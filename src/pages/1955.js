@@ -12,7 +12,7 @@ const StyledImg = styled.img`
   }
 `
 
-export class page1954 extends Component {
+export class page1955 extends Component {
   render() {
     return (
       <Layout>
@@ -41,7 +41,7 @@ export class page1954 extends Component {
                     </p>
                     <h3
                       className="text-2xl lg:text-3xl font-bold"
-                      style={{ fontFamily: "Noto Serif" }}
+                      style={{ fontFamily: "Hepta Slab" }}
                     >
                       {ItemDetail.artist}
                     </h3>
@@ -340,4 +340,4 @@ export class page1954 extends Component {
   }
 }
 
-export default page1954
+export default page1955
