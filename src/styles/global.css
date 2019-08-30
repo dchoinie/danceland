@@ -41,9 +41,28 @@ p:empty {
 #yearSelectorWrapper {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
-  grid-gap: 15px;
-  grid-template-rows: repeat(3, 200px);
+  grid-gap: 20px;
+  grid-template-rows: repeat(3, auto);
   justify-content: stretch;
+}
+
+.yearLink {
+}
+
+.yearLink:hover {
+}
+
+.rotate {
+  animation: rotation 2.5s infinite linear;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
 }
 
 @media screen and (max-width: 768px) {

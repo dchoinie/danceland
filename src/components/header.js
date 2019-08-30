@@ -12,13 +12,16 @@ class Header extends Component {
         style={{ backgroundColor: "rgba(0,0,0,0)" }}
       >
         <ul className="hidden lg:flex lg:justify-between lg:w-1/3">
-          <li className="hover:text-red-800">
+          <li className="hover:text-red-800 self-center">
             <DropdownSearchByYear />
           </li>
-          <Link to="/earlyYears">
-            <li className="hover:text-red-800">Early Years</li>
+          <Link to="/earlyYears" className="self-center">
+            <li className="hover:text-red-800">
+              <div>Early Years</div>
+              <div>&#40;1926 - 1953&#41;</div>
+            </li>
           </Link>
-          <Link to="/bio">
+          <Link to="/bio" className="self-center">
             <li className="hover:text-red-800">Danceland Bio</li>
           </Link>
         </ul>

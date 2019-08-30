@@ -1,349 +1,115 @@
-import React, { Component } from "react"
+import React from "react"
+import { graphql } from "gatsby"
 import Layout from "../components/layout"
-import styled from "styled-components"
 import PageTitle from "../components/pageTitle"
-import YearData from "../data/data1954"
 import Hr from "../components/Hr"
-import StickyYear from "../components/stickyYear"
-import SearchBox from "../components/searchBox"
 
-const StyledImg = styled.img`
-  img[src=""] {
-    display: none;
-  }
-  margin-top: 0.5rem;
-  margin-bottom: 0.5rem;
-`
-
-export class page1954 extends Component {
-  render() {
-    return (
-      <Layout>
-        <div>
-          <PageTitle title="1954" />
-          <div className="container mx-auto">
-            <StickyYear year="1954" />
-            <p className="container max-w-4xl mx-auto mb-8 px-4 lg:px-0">
-              National acts that played at Danceland in 1954 include - Wayne
-              King &amp; His Orchestra, “Whoopee” John Wilfahrt &amp; His
-              Orchestra, WNAX Bohemian Band, Fezz Fritsche &amp; His Goosetown
-              Band, Six Fat Dutchmen, Frank Yankovic &amp; His Yanks.
-            </p>
-            <SearchBox />
-            <div className="row text-center">
-              <div className="col px-4 lg:px-0">
-                {YearData.map((ItemDetail, index) => {
-                  return (
-                    <>
-                      <p>
-                        {ItemDetail.fullDate}, {ItemDetail.weekday}
-                      </p>
-                      <h3 className="text-2xl lg:text-3xl font-bold">
-                        {ItemDetail.artist}
-                      </h3>
-                      <p>{ItemDetail.price}</p>
-                      <p>{ItemDetail.comment1}</p>
-
-                      <div className="flex flex-wrap justify-center">
-                        <StyledImg
-                          src={ItemDetail.img1}
-                          alt=""
-                          className=""
-                          style={{
-                            maxHeight: "400px",
-                            maxWidth: "400px",
-                          }}
-                        />
-                        <figure
-                          style={{ maxHeight: "400px", maxWidth: "400px" }}
-                        >
-                          <StyledImg
-                            src={ItemDetail.img2}
-                            alt=""
-                            className="h-full"
-                            style={{
-                              maxHeight: "400px",
-                            }}
-                          />
-                          <figcaption>{ItemDetail.caption}</figcaption>
-                        </figure>
-                        <StyledImg
-                          src={ItemDetail.img3}
-                          alt=""
-                          className=""
-                          style={{
-                            maxHeight: "400px",
-                          }}
-                        />
-                        <StyledImg
-                          src={ItemDetail.img4}
-                          alt=""
-                          className=""
-                          style={{
-                            maxHeight: "400px",
-                          }}
-                        />
-                        <StyledImg
-                          src={ItemDetail.img5}
-                          alt=""
-                          className=""
-                          style={{
-                            maxHeight: "400px",
-                          }}
-                        />
-                        <StyledImg
-                          src={ItemDetail.img6}
-                          alt=""
-                          className=""
-                          style={{
-                            maxHeight: "400px",
-                          }}
-                        />
-                        <StyledImg
-                          src={ItemDetail.img7}
-                          alt=""
-                          className=""
-                          style={{
-                            maxHeight: "400px",
-                          }}
-                        />
-                        <StyledImg
-                          src={ItemDetail.img8}
-                          alt=""
-                          className=""
-                          style={{
-                            maxHeight: "400px",
-                          }}
-                        />
-                        <StyledImg
-                          src={ItemDetail.img9}
-                          alt=""
-                          className=""
-                          style={{
-                            maxHeight: "400px",
-                          }}
-                        />
-                        <StyledImg
-                          src={ItemDetail.img10}
-                          alt=""
-                          className=""
-                          style={{
-                            maxHeight: "400px",
-                          }}
-                        />
-                        <StyledImg
-                          src={ItemDetail.img11}
-                          alt=""
-                          className=""
-                          style={{
-                            maxHeight: "400px",
-                          }}
-                        />
-                        <StyledImg
-                          src={ItemDetail.img12}
-                          alt=""
-                          className=""
-                          style={{
-                            maxHeight: "400px",
-                          }}
-                        />
-                        <StyledImg
-                          src={ItemDetail.img13}
-                          alt=""
-                          className=""
-                          style={{
-                            maxHeight: "400px",
-                          }}
-                        />
-                        <StyledImg
-                          src={ItemDetail.img14}
-                          alt=""
-                          className=""
-                          style={{
-                            maxHeight: "400px",
-                          }}
-                        />
-                        <StyledImg
-                          src={ItemDetail.img15}
-                          alt=""
-                          className=""
-                          style={{
-                            maxHeight: "400px",
-                          }}
-                        />
-                        <StyledImg
-                          src={ItemDetail.img16}
-                          alt=""
-                          className=""
-                          style={{
-                            maxHeight: "400px",
-                          }}
-                        />
-                        <StyledImg
-                          src={ItemDetail.img17}
-                          alt=""
-                          className=""
-                          style={{
-                            maxHeight: "400px",
-                          }}
-                        />
-                        <StyledImg
-                          src={ItemDetail.img18}
-                          alt=""
-                          className=""
-                          style={{
-                            maxHeight: "400px",
-                          }}
-                        />
-                        <StyledImg
-                          src={ItemDetail.img19}
-                          alt=""
-                          className=""
-                          style={{
-                            maxHeight: "400px",
-                          }}
-                        />
-                        <StyledImg
-                          src={ItemDetail.img20}
-                          alt=""
-                          className=""
-                          style={{
-                            maxHeight: "400px",
-                          }}
-                        />
-                        <StyledImg
-                          src={ItemDetail.img21}
-                          alt=""
-                          className=""
-                          style={{
-                            maxHeight: "400px",
-                          }}
-                        />
-                        <StyledImg
-                          src={ItemDetail.img22}
-                          alt=""
-                          className=""
-                          style={{
-                            maxHeight: "400px",
-                          }}
-                        />
-                        <StyledImg
-                          src={ItemDetail.img23}
-                          alt=""
-                          className=""
-                          style={{
-                            maxHeight: "400px",
-                          }}
-                        />
-                        <StyledImg
-                          src={ItemDetail.img24}
-                          alt=""
-                          className=""
-                          style={{
-                            maxHeight: "400px",
-                          }}
-                        />
-                        <StyledImg
-                          src={ItemDetail.img25}
-                          alt=""
-                          className=""
-                          style={{
-                            maxHeight: "400px",
-                          }}
-                        />
-                        <StyledImg
-                          src={ItemDetail.img26}
-                          alt=""
-                          className=""
-                          style={{
-                            maxHeight: "400px",
-                          }}
-                        />
-                        <StyledImg
-                          src={ItemDetail.img27}
-                          alt=""
-                          className=""
-                          style={{
-                            maxHeight: "400px",
-                          }}
-                        />
-                        <StyledImg
-                          src={ItemDetail.img28}
-                          alt=""
-                          className=""
-                          style={{
-                            maxHeight: "400px",
-                          }}
-                        />
-                        <StyledImg
-                          src={ItemDetail.img29}
-                          alt=""
-                          className=""
-                          style={{
-                            maxHeight: "400px",
-                          }}
-                        />
-                        <StyledImg
-                          src={ItemDetail.img30}
-                          alt=""
-                          className=""
-                          style={{
-                            maxHeight: "400px",
-                          }}
-                        />
-                        <StyledImg
-                          src={ItemDetail.img31}
-                          alt=""
-                          className=""
-                          style={{
-                            maxHeight: "400px",
-                          }}
-                        />
-                        <StyledImg
-                          src={ItemDetail.img32}
-                          alt=""
-                          className=""
-                          style={{
-                            maxHeight: "400px",
-                          }}
-                        />
-                        <StyledImg
-                          src={ItemDetail.img33}
-                          alt=""
-                          className=""
-                          style={{
-                            maxHeight: "400px",
-                          }}
-                        />
-                        <StyledImg
-                          src={ItemDetail.img34}
-                          alt=""
-                          className=""
-                          style={{
-                            maxHeight: "400px",
-                          }}
-                        />
-                        <StyledImg
-                          src={ItemDetail.img35}
-                          alt=""
-                          className=""
-                          style={{
-                            maxHeight: "400px",
-                          }}
-                        />
-                      </div>
-                      <p>{ItemDetail.comment2}</p>
-                      <Hr />
-                    </>
-                  )
-                })}
-              </div>
-            </div>
+export default ({ data }) => (
+  <Layout>
+    <PageTitle title="1954" />
+    <>
+      <p className="container mx-auto max-w-4xl pb-6">
+        National acts that played at Danceland in 1954 include - Wayne King
+        &amp; His Orchestra, “Whoopee” John Wilfahrt &amp; His Orchestra, WNAX
+        Bohemian Band, Fezz Fritsche &amp; His Goosetown Band, Six Fat Dutchmen,
+        Frank Yankovic &amp; His Yanks.
+      </p>
+      {data.allData1954Json.edges.map(({ node }) => (
+        <div key={node.id} className="text-center px-6 lg:px-0">
+          <p style={{ fontFamily: "Hepta Slab" }}>
+            {node.fullDate}, {node.weekday}
+          </p>
+          <p
+            className="text-3xl font-bold"
+            style={{ fontFamily: "Hepta Slab" }}
+          >
+            {node.artist}
+          </p>
+          <p style={{ fontFamily: "Hepta Slab" }}>{node.price}</p>
+          <div
+            className="lg:flex lg:items-center lg:justify-center lg:mx-auto flex-wrap lg:no-wrap"
+            // style={{ border: "1px solid red" }}
+          >
+            <img
+              src={node.img1}
+              alt=""
+              className="mx-1"
+              style={{
+                // border: "1px solid blue",
+                maxHeight: "500px",
+                maxWidth: "500px",
+              }}
+            />
+            <img
+              src={node.img2}
+              alt=""
+              className="mx-1"
+              style={{
+                // border: "1px solid blue",
+                maxHeight: "500px",
+                maxWidth: "500px",
+              }}
+            />
+            <img
+              src={node.img3}
+              alt=""
+              className="mx-1"
+              style={{
+                // border: "1px solid blue",
+                maxHeight: "500px",
+                maxWidth: "500px",
+              }}
+            />
+            <img
+              src={node.img4}
+              alt=""
+              className="mx-1"
+              style={{
+                // border: "1px solid blue",
+                maxHeight: "500px",
+                maxWidth: "500px",
+              }}
+            />
           </div>
+          <div id="spotifyDiv" className="flex justify-center">
+            <iframe
+              src={node.spotify}
+              width={node.iwidth}
+              height={node.iheight}
+              frameborder="0"
+              allowtransparency="true"
+              allow="encrypted-media"
+            ></iframe>
+          </div>
+          <Hr />
         </div>
-      </Layout>
-    )
-  }
-}
+      ))}
+    </>
+  </Layout>
+)
 
-export default page1954
+export const query = graphql`
+  query {
+    allData1954Json {
+      edges {
+        node {
+          artist
+          caption
+          comment1
+          comment2
+          fullDate
+          id
+          price
+          weekday
+          img1
+          img2
+          img3
+          img4
+          spotify
+          iwidth
+          iheight
+        }
+      }
+    }
+  }
+`

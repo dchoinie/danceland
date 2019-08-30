@@ -47,15 +47,24 @@ export class dropdownSearchByYear extends Component {
     return (
       <div className="dropdown relative inline-block cursor-pointer z-40">
         <div
-          className="button flex"
+          className="button flex-col self-center"
           onClick={this.showDropdownMenu}
           onMouseOver={this.mouseShowDropdownMenu}
         >
-          Search By Year {dropdownArrow}
+          <div className="flex self-center">
+            Search By Year
+            {dropdownArrow}
+          </div>
+          <div className="flex justify-center self-center">
+            &#40;1954 - 1968&#41;
+          </div>
         </div>
         {this.state.displayMenu ? (
           <div className="flex justify-center">
-            <ul className="text-black bg-white text-center absolute py-1 px-4 whitespace-no-wrap border border-gray-900">
+            <ul
+              className="text-black text-center absolute py-1 px-4 whitespace-no-wrap border border-gray-900"
+              style={{ backgroundColor: "rgba(255, 255, 255, 1)" }}
+            >
               <li className="px-2 py-1 hover:text-red-700">
                 <Link to="/1954">1954</Link>
               </li>

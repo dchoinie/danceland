@@ -23,11 +23,11 @@ export class pageTitle extends Component {
           <h2
             className="text-center py-4"
             style={{
-              fontSize: "4rem",
+              fontSize: "5.5rem",
               fontWeight: "700",
-              textDecoration: "underline",
+              textDecoration: "",
               fontFamily: "Open Sans",
-              marginTop: "75px",
+              marginTop: "215px",
             }}
           >
             {this.props.title}
