@@ -1,3 +1,5 @@
+require("dotenv").config()
+
 module.exports = {
   siteMetadata: {
     title: `Danceland`,
@@ -46,8 +48,21 @@ module.exports = {
             "Quicksand",
             "Hepta Slab",
             "Noto Serif",
+            "Londrina Outline",
           ],
         },
+      },
+    },
+    {
+      resolve: `gatsby-source-airtable`,
+      options: {
+        tables: [
+          {
+            apiKey: process.env.AIRTABLE_API_KEY,
+            baseId: `appuy1aNCsQH9hOAw`,
+            tableName: `data1954`,
+          },
+        ],
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
