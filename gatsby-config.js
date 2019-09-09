@@ -62,6 +62,16 @@ module.exports = {
             baseId: `appuy1aNCsQH9hOAw`,
             tableName: `data1954`,
           },
+          {
+            apiKey: process.env.AIRTABLE_API_KEY,
+            baseId: `appuy1aNCsQH9hOAw`,
+            tableName: `data1955`,
+          },
+          {
+            apiKey: process.env.AIRTABLE_API_KEY,
+            baseId: `appuy1aNCsQH9hOAw`,
+            tableName: `data1956`,
+          },
         ],
       },
     },

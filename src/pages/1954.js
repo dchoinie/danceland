@@ -3,16 +3,14 @@ import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import PageTitle from "../components/pageTitle"
 import Hr from "../components/Hr"
-import Marquee from "../components/marquee"
 
 export const query = graphql`
   {
     allAirtable(
-      filter: { table: { eq: "data1954" } }
+      filter: { table: { eq: "data1955" } }
       sort: { fields: data___orderId }
     ) {
       nodes {
-        recordId
         data {
           artist
           comment1
@@ -23,9 +21,16 @@ export const query = graphql`
           img1caption
           img2
           img3
+          img4
+          img5
+          img6
+          img7
           iwidth
+          orderId
           price
           spotify1
+          spotify2
+          spotify3
           weekday
           year
         }
@@ -37,7 +42,12 @@ export const query = graphql`
 export default ({ data }) => (
   <Layout>
     <PageTitle title="1954" />
-    <Marquee title="National acts that played at Danceland in 1954 include:" />
+    <p className="text-center max-w-5xl mx-auto pb-12">
+      National acts that played at Danceland in 1954 include - Wayne King &amp;
+      His Orchestra, “Whoopee” John Wilfahrt &amp; His Orchestra, WNAX Bohemian
+      Band, Fezz Fritsche &amp; His Goosetown Band, Six Fat Dutchmen, Frank
+      Yankovic &amp; His Yanks
+    </p>
     <div className="container mx-auto text-center px-6 lg:px-0">
       {data.allAirtable.nodes.map(node => (
         <div key={node.recordId}>
