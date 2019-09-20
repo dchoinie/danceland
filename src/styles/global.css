@@ -47,7 +47,7 @@ p:empty {
 }
 
 .rotate {
-  animation: rotation 2.5s infinite linear;
+  animation: rotation 2.5s 1 ease-in;
 }
 
 @keyframes rotation {
