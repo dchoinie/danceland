@@ -15,7 +15,7 @@ class Header extends Component {
           <li className="hover:text-red-800 self-center">
             <DropdownSearchByYear />
           </li>
-          <Link to="/earlyYears" className="self-center">
+          <Link to="/early-years" className="self-center">
             <li className="hover:text-red-800">
               <div>Early Years</div>
               <div>&#40;1926 - 1953&#41;</div>

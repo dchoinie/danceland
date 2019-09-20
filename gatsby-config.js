@@ -54,9 +54,20 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-env-variables`,
+      options: {
+        whitelist: ["AIRTABLE_API_KEY"],
+      },
+    },
+    {
       resolve: `gatsby-source-airtable`,
       options: {
         tables: [
+          {
+            apiKey: process.env.AIRTABLE_API_KEY,
+            baseId: `appuy1aNCsQH9hOAw`,
+            tableName: `earlyYears`,
+          },
           {
             apiKey: process.env.AIRTABLE_API_KEY,
             baseId: `appuy1aNCsQH9hOAw`,
