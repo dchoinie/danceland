@@ -53,33 +53,33 @@ module.exports = {
         },
       },
     },
-    {
-      resolve: `gatsby-plugin-env-variables`,
-      options: {
-        whitelist: ["AIRTABLE_API_KEY"],
-      },
-    },
+    // {
+    //   resolve: `gatsby-plugin-env-variables`,
+    //   options: {
+    //     whitelist: ["GATSBY_AIRTABLE_API_KEY"],
+    //   },
+    // },
     {
       resolve: `gatsby-source-airtable`,
       options: {
         tables: [
           {
-            apiKey: process.env.AIRTABLE_API_KEY,
+            apiKey: process.env.GATSBY_AIRTABLE_API_KEY,
             baseId: `appuy1aNCsQH9hOAw`,
             tableName: `earlyYears`,
           },
           {
-            apiKey: process.env.AIRTABLE_API_KEY,
+            apiKey: process.env.GATSBY_AIRTABLE_API_KEY,
             baseId: `appuy1aNCsQH9hOAw`,
             tableName: `data1954`,
           },
           {
-            apiKey: process.env.AIRTABLE_API_KEY,
+            apiKey: process.env.GATSBY_AIRTABLE_API_KEY,
             baseId: `appuy1aNCsQH9hOAw`,
             tableName: `data1955`,
           },
           {
-            apiKey: process.env.AIRTABLE_API_KEY,
+            apiKey: process.env.GATSBY_AIRTABLE_API_KEY,
             baseId: `appuy1aNCsQH9hOAw`,
             tableName: `data1956`,
           },
