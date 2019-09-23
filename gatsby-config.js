@@ -64,22 +64,22 @@ module.exports = {
       options: {
         tables: [
           {
-            apiKey: process.env.GATSBY_AIRTABLE_API_KEY,
+            apiKey: `keyizP1f7z8SyvUzX`,
             baseId: `appuy1aNCsQH9hOAw`,
             tableName: `earlyYears`,
           },
           {
-            apiKey: process.env.GATSBY_AIRTABLE_API_KEY,
+            apiKey: `keyizP1f7z8SyvUzX`,
             baseId: `appuy1aNCsQH9hOAw`,
             tableName: `data1954`,
           },
           {
-            apiKey: process.env.GATSBY_AIRTABLE_API_KEY,
+            apiKey: `keyizP1f7z8SyvUzX`,
             baseId: `appuy1aNCsQH9hOAw`,
             tableName: `data1955`,
           },
           {
-            apiKey: process.env.GATSBY_AIRTABLE_API_KEY,
+            apiKey: `keyizP1f7z8SyvUzX`,
             baseId: `appuy1aNCsQH9hOAw`,
             tableName: `data1956`,
           },
