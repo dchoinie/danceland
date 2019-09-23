@@ -32,7 +32,7 @@ export default ({ data }) => (
     <PageTitle title="Early Years" />
     {data.allAirtable.nodes.map(node => (
       <div key={node.recordId} className="px-6 lg:px-0">
-        <ul>
+        <ul className="">
           <li className="flex-col justify-center text-center">
             <h4 className="text-3xl font-bold">{node.data.artist}</h4>
             <p>{node.data.full_date}</p>
