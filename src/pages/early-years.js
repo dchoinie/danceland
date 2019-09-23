@@ -12,19 +12,23 @@ export class earlyYears extends Component {
         <div className="container mx-auto text-center px-6 lg:px-0">
           {YearData.map((ItemDetail, index) => {
             return (
-              <>
-                <h4 className="text-3xl">{ItemDetail.artist}</h4>
-                <p className="text-xl">{ItemDetail.full_date}</p>
+              <div>
+                <h4 className="text-3xl font-bold">{ItemDetail.artist}</h4>
+                <p className="text-xl pb-4">{ItemDetail.full_date}</p>
                 <div className="flex justify-center flex-wrap">
                   <img
                     src={ItemDetail.img1}
                     alt=""
+                    className={ItemDetail.black_white}
                     className="self-center"
-                    style={{ maxHeight: "400px" }}
+                    style={{
+                      maxHeight: "400px",
+                    }}
                   />
                   <img
                     src={ItemDetail.img2}
                     alt=""
+                    className={ItemDetail.black_white}
                     className="self-center"
                     style={{ maxHeight: "400px" }}
                   />
@@ -48,7 +52,7 @@ export class earlyYears extends Component {
                   />
                 </div>
                 <Hr />
-              </>
+              </div>
             )
           })}
         </div>
