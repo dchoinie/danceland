@@ -1,88 +1,60 @@
-import React from "react"
-import { graphql } from "gatsby"
+import React, { Component } from "react"
 import Layout from "../components/layout"
 import PageTitle from "../components/pageTitle"
+import YearData from "../data/dataEarlyYears"
 import Hr from "../components/Hr"
-import EarlyYears from "../components/EarlyYears"
 
-// export const earlyYearsQuery = graphql`
-//   {
-//     query
-//     MyQuery {
-//       allAirtable(
-//         filter: { table: { eq: "earlyYears" } }
-//         sort: { fields: data___orderId }
-//       ) {
-//         nodes {
-//           recordId
-//           data {
-//             artist
-//             orderId
-//             img1
-//             img2
-//             img3
-//             img4
-//             img5
-//             full_date
-//           }
-//         }
-//       }
-//     }
-//   }
-// `
+export class earlyYears extends Component {
+  render() {
+    return (
+      <Layout>
+        <PageTitle title="Early Years" />
+        <div className="container mx-auto text-center px-6 lg:px-0">
+          {YearData.map((ItemDetail, index) => {
+            return (
+              <>
+                <h4 className="text-3xl">{ItemDetail.artist}</h4>
+                <p className="text-xl">{ItemDetail.full_date}</p>
+                <div className="flex justify-center flex-wrap">
+                  <img
+                    src={ItemDetail.img1}
+                    alt=""
+                    className="self-center"
+                    style={{ maxHeight: "400px" }}
+                  />
+                  <img
+                    src={ItemDetail.img2}
+                    alt=""
+                    className="self-center"
+                    style={{ maxHeight: "400px" }}
+                  />
+                  <img
+                    src={ItemDetail.img3}
+                    alt=""
+                    className="self-center"
+                    style={{ maxHeight: "400px" }}
+                  />
+                  <img
+                    src={ItemDetail.img4}
+                    alt=""
+                    className="self-center"
+                    style={{ maxHeight: "400px" }}
+                  />
+                  <img
+                    src={ItemDetail.img5}
+                    alt=""
+                    className="self-center"
+                    style={{ maxHeight: "400px" }}
+                  />
+                </div>
+                <Hr />
+              </>
+            )
+          })}
+        </div>
+      </Layout>
+    )
+  }
+}
 
-// export default ({ data }) => (
-//   <Layout>
-//     <PageTitle title="Early Years" />
-//     {data.allAirtable.nodes.map(node => (
-//       <div key={node.recordId} className="px-6 lg:px-0">
-//         <ul className="container mx-auto">
-//           <li className="flex-col justify-center text-center">
-//             <h4 className="text-3xl font-bold">{node.data.artist}</h4>
-//             <p className="text-2xl pb-2">{node.data.full_date}</p>
-//             <div className="flex flex-wrap justify-center">
-//               <img
-//                 src={node.data.img1}
-//                 alt=""
-//                 className="self-center"
-//                 style={{ maxHeight: "400px" }}
-//               />
-//               <img
-//                 src={node.data.img2}
-//                 alt=""
-//                 className="self-center"
-//                 style={{ maxHeight: "400px" }}
-//               />
-//               <img
-//                 src={node.data.img3}
-//                 alt=""
-//                 className="self-center"
-//                 style={{ maxHeight: "400px" }}
-//               />
-//               <img
-//                 src={node.data.img4}
-//                 alt=""
-//                 className="self-center"
-//                 style={{ maxHeight: "400px" }}
-//               />
-//               <img
-//                 src={node.data.img5}
-//                 alt=""
-//                 className="self-center"
-//                 style={{ maxHeight: "400px" }}
-//               />
-//             </div>
-//             <Hr />
-//           </li>
-//         </ul>
-//       </div>
-//     ))}
-//   </Layout>
-// )
-
-export default () => (
-  <Layout>
-    <PageTitle title="Early Years" />
-    <EarlyYears />
-  </Layout>
-)
+export default earlyYears
