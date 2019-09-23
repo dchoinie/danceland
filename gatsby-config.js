@@ -1,4 +1,4 @@
-// require("dotenv").config()
+require("dotenv").config()
 
 module.exports = {
   siteMetadata: {
@@ -53,35 +53,14 @@ module.exports = {
         },
       },
     },
-    // {
-    //   resolve: `gatsby-plugin-env-variables`,
-    //   options: {
-    //     whitelist: ["GATSBY_AIRTABLE_API_KEY"],
-    //   },
-    // },
     {
       resolve: `gatsby-source-airtable`,
       options: {
+        apiKey: process.env.AIRTABLE_API_KEY,
         tables: [
           {
-            apiKey: `keyizP1f7z8SyvUzX`,
-            baseId: `appuy1aNCsQH9hOAw`,
+            baseId: process.env.AIRTABLE_BASE_ID,
             tableName: `earlyYears`,
-          },
-          {
-            apiKey: `keyizP1f7z8SyvUzX`,
-            baseId: `appuy1aNCsQH9hOAw`,
-            tableName: `data1954`,
-          },
-          {
-            apiKey: `keyizP1f7z8SyvUzX`,
-            baseId: `appuy1aNCsQH9hOAw`,
-            tableName: `data1955`,
-          },
-          {
-            apiKey: `keyizP1f7z8SyvUzX`,
-            baseId: `appuy1aNCsQH9hOAw`,
-            tableName: `data1956`,
           },
         ],
       },
